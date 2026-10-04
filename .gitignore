@@ -1,0 +1,5 @@
+source/node_modules/
+source/.build/
+source/*.tsbuildinfo
+.DS_Store
+Thumbs.db

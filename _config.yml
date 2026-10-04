@@ -1,0 +1,11 @@
+# Fallback for drag-and-drop uploads that omit the hidden .nojekyll file.
+# Generated assets use names that Jekyll can publish without transformation.
+exclude:
+  - source
+  - README.md
+  - START-HERE.txt
+  - VALIDATION.txt
+  - SHA256SUMS.txt
+include:
+  - assets
+  - print-art

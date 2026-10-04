@@ -1,0 +1,35 @@
+kikiau / ききあう — GitHub公開用
+
+ビルド済みです。初回公開にコマンド操作は不要です。
+
+1. ZIPを解凍し、index.htmlが見える場所まで開きます。
+2. GitHubで新しいリポジトリを作成します。
+   推奨名: kikiau-care
+   GitHub Freeの場合: Public
+   Add a README file: 有効
+3. Add file → Upload filesを開き、解凍した中身を全部ドラッグします。
+   ZIP自体や、それを包むフォルダーはアップロードしません。
+   assets / fonts / print-art / sourceはフォルダーごと入れます。
+4. Commit changesでmainへ保存します。
+   変更提案になった場合は、Pull requestをmainへマージします。
+5. リポジトリの一番上にindex.htmlとassets、print-artがあることを確認します。
+6. Settings → Pagesで以下を選び、Saveを押します。
+   Source: Deploy from a branch
+   Branch: main
+   フォルダー: / (root)
+   Custom domain: 空欄
+7. 数分待ち、Pagesに表示されるVisit siteを開きます。
+
+通常の公開先:
+https://あなたのGitHubユーザー名.github.io/kikiau-care/
+
+公開サイトとリポジトリ内のファイルは誰でも閲覧できます。
+リポジトリ名を変更しても動く構成ですが、各ファイル名・フォルダー名は変更しないでください。
+.nojekyllが表示される場合は一緒に入れてください。
+
+詳しい手順・困ったときの確認・編集方法はREADME.mdにあります。
+音声は端末の日本語読み上げです。人物別の生成音声は未収録です。
+以前のSiteの履歴・録音は、この公開先に自動移行されません。
+
+実際のGitHub公開・ブラウザー対話操作の確認は未実施です。
+公開処理の状況はGitHubのActionsで確認してください。

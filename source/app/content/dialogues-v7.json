@@ -1,0 +1,2153 @@
+[
+  {
+    "id": "meal-choice",
+    "title": {
+      "ja": "昼食の選択と、食後のお茶",
+      "en": "Choosing lunch and timing the tea"
+    },
+    "type": {
+      "ja": "高齢者と介護士",
+      "en": "An older resident and a care worker"
+    },
+    "level": 2,
+    "setting": {
+      "ja": "昼食前の食堂で、文子さんが美咲さんに料理の希望と配膳のお願いを伝えます。",
+      "en": "Before lunch in the dining room, Fumiko tells Misaki what she would like to eat and how she would like things arranged."
+    },
+    "goal": {
+      "ja": "選び直しかけて取り消した発言を追い、料理の決定、未確認の対応、あとで頼むことを分ける。",
+      "en": "Follow a change of mind that is itself withdrawn, and separate a settled food choice, an arrangement still to be checked, and a request for later."
+    },
+    "turns": [
+      {
+        "speaker": "care-misaki",
+        "ja": "今日の主菜は、焼き魚か鶏の照り焼きから選べます。どちらになさいますか。",
+        "en": "For today’s main dish, you can choose grilled fish or teriyaki chicken. Which would you like?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "今日は、あの甘いたれのほうにしようかな。",
+        "en": "Today I think I’ll have the one with that sweet sauce.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "鶏の照り焼きですね。",
+        "en": "The teriyaki chicken?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "ええ、鶏肉で。ごはんはいつもの…いや、少なめでお願い。",
+        "en": "Yes, the chicken. My usual amount of rice… actually, a smaller serving, please.",
+        "direction": {
+          "ja": "ごはんの量を考える短い間を置き、少なめへ自然に言い直す。",
+          "en": "Pause briefly to consider the rice portion, then naturally correct it to a smaller serving."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "ごはんを少なめにして、おかずはいつもの量でよいですか。",
+        "en": "A smaller serving of rice. Would you like the usual portions of the other dishes?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "おかずはいつもどおりで。たれだけ、別にできる？",
+        "en": "The usual portions of the other dishes, please. Could just the sauce come separately?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "鶏肉のたれを、別の器に入れるということですか。",
+        "en": "Do you mean the sauce for the chicken in a separate dish?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "そう。少しずつつけながら食べたいの。たれが嫌いなわけじゃないのよ。",
+        "en": "Yes. I’d like to add a little at a time as I eat. It’s not that I dislike the sauce.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "できるか、厨房に確認しますね。",
+        "en": "I’ll check with the kitchen whether that’s possible.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "別にできなかったら、魚に…ううん、そこまではしなくていい。鶏肉でお願い。",
+        "en": "If they can’t serve it separately, I could have the fish… no, there’s no need to go that far. I’ll have the chicken, please.",
+        "direction": {
+          "ja": "魚にのあと考える間を置く。ううんは自分の案を取り消す柔らかな声にする。",
+          "en": "Pause after suggesting fish. Say no gently, withdrawing her own suggestion rather than rejecting the worker."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "たれを別にできない場合も、鶏肉でよいのですね。",
+        "en": "So you would still like the chicken even if the sauce cannot be served separately?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "ええ。そのときは、いつもの出し方で大丈夫。",
+        "en": "Yes. In that case, the usual way of serving it is fine.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "お茶も、お食事と一緒にお持ちしますか。",
+        "en": "Would you like me to bring your tea with the meal as well?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "冷たい…あ、今日は温かいの。食べ終わるころに欲しいな。",
+        "en": "Cold… oh, warm tea today. I’d like it around when I finish eating.",
+        "direction": {
+          "ja": "冷たいのあと短く止まり、あで穏やかに選び直す。後半は控えめな希望として話す。",
+          "en": "Stop briefly after cold and gently revise the choice. Deliver the timing as a soft preference."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "温かいお茶を、お食事が終わったらお持ちしましょうか。",
+        "en": "Shall I bring warm tea when you finish your meal?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "食後すぐでなくてもいい。こちらから声をかけるね。",
+        "en": "It doesn’t have to be right after the meal. I’ll let you know when I’m ready.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "では、お声をかけていただいてから、温かいお茶をお持ちします。",
+        "en": "Then I’ll bring warm tea after you let me know.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "あと、置く場所を少し。",
+        "en": "And one small thing about where things go.",
+        "direction": {
+          "ja": "具体的な物の名前は補わず、お願いを切り出す自然な余韻を残す。",
+          "en": "Do not supply an object that is not named; leave a natural opening for the request."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "お盆の置き場所でしょうか。それとも、お飲み物ですか。",
+        "en": "Do you mean where the tray goes, or where the drink goes?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "お盆はそのまま。お箸を、右じゃなくて左に置いてもらえる？",
+        "en": "The tray can stay where it is. Could you put the chopsticks on the left instead of the right?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "お箸を左側に置きますね。",
+        "en": "I’ll put the chopsticks on the left.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "そう。冊子を右に置いておきたいから。",
+        "en": "Yes. I want to keep this booklet on the right.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "冊子はこちらに残しておきますか。",
+        "en": "Would you like to keep the booklet here?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "うん。食べるときは閉じて、端に寄せるよ。",
+        "en": "Yes. I’ll close it and move it to the edge when I eat.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "鶏肉で、ごはんは少なめですね。たれを別にできるか確認して、お箸は左に。お茶はお声をかけていただいてからお持ちします。",
+        "en": "Chicken with a smaller serving of rice, then. I’ll check about serving the sauce separately and put the chopsticks on the left. I’ll bring tea when you ask for it.",
+        "direction": {
+          "ja": "要点ごとに短い間を置く。確認待ちのたれと、決まった希望を同じ確定調にしない。",
+          "en": "Leave a brief pause between points. Keep the sauce as something to check, distinct from the preferences already settled."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "お願い。たれのことは、出してもらう前に教えてね。",
+        "en": "Thank you. Please let me know about the sauce before you bring the meal.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "ja": "文子さんが最後に選んだ主菜は？",
+          "en": "Which main dish does Fumiko finally choose?"
+        },
+        "options": [
+          {
+            "ja": "たれを別にできる場合だけ鶏肉",
+            "en": "Chicken only if the sauce can be served separately"
+          },
+          {
+            "ja": "たれを別にできなくても鶏肉",
+            "en": "Chicken even if the sauce cannot be served separately"
+          },
+          {
+            "ja": "焼き魚に変更する",
+            "en": "She changes her order to grilled fish"
+          }
+        ],
+        "answer": 1,
+        "evidence": [
+          9,
+          10,
+          11
+        ],
+        "why": {
+          "ja": "魚に変える案は、本人がすぐ取り消しています。たれを別にできるかは未確認ですが、主菜は鶏肉です。",
+          "en": "She immediately withdraws the idea of changing to fish. The sauce arrangement is still unconfirmed, but her main dish is chicken."
+        }
+      },
+      {
+        "question": {
+          "ja": "量について確認できた希望は？",
+          "en": "What portion preference has been confirmed?"
+        },
+        "options": [
+          {
+            "ja": "ごはんもおかずも少なめ",
+            "en": "Smaller portions of both rice and the other dishes"
+          },
+          {
+            "ja": "ごはんはいつもの量、おかずは少なめ",
+            "en": "Usual rice, with smaller portions of the other dishes"
+          },
+          {
+            "ja": "ごはんだけ少なめ、おかずはいつもどおり",
+            "en": "Less rice, with the usual portions of the other dishes"
+          }
+        ],
+        "answer": 2,
+        "evidence": [
+          3,
+          4,
+          5
+        ],
+        "why": {
+          "ja": "いつもの量という言いかけは、ごはんについて少なめに訂正されています。おかずの量は変えません。",
+          "en": "The unfinished request for the usual amount of rice is corrected to a smaller serving. She keeps the usual portions of the other dishes."
+        }
+      },
+      {
+        "question": {
+          "ja": "温かいお茶を持ってくるのは、いつ？",
+          "en": "When should Misaki bring the warm tea?"
+        },
+        "options": [
+          {
+            "ja": "文子さんが声をかけてから",
+            "en": "After Fumiko asks for it"
+          },
+          {
+            "ja": "料理と同時に必ず",
+            "en": "Definitely at the same time as the food"
+          },
+          {
+            "ja": "食べ終えた直後、声かけを待たずに",
+            "en": "Immediately after the meal, without waiting for her to ask"
+          }
+        ],
+        "answer": 0,
+        "evidence": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "why": {
+          "ja": "食べ終わるころという希望を、本人が声をかけてからと具体化しています。食後すぐである必要はありません。",
+          "en": "Her initial preference for around the end of the meal becomes a specific arrangement: she will ask when ready. It need not be immediately after eating."
+        }
+      }
+    ],
+    "handover": {
+      "ja": "文子さんは鶏の照り焼きを希望。たれは別添えを希望するが、対応できなくても鶏肉のままでよい。厨房への確認と、配膳前の本人への返答が必要。ごはんは少なめ、おかずは通常量。箸は左側を希望し、右側の冊子は自分で閉じて端に寄せる意向。温かいお茶は本人から声をかけてから提供する。",
+      "en": "Fumiko chose teriyaki chicken. She would prefer the sauce separately but still wants chicken if that is unavailable. Check with the kitchen and tell her the result before serving. She wants less rice and the usual portions of the other dishes, with chopsticks on the left. She plans to close the booklet on her right and move it to the edge herself. Bring warm tea after she asks for it."
+    }
+  },
+  {
+    "id": "laundry-day",
+    "title": {
+      "ja": "洗濯の袋と、上着のしまい方",
+      "en": "The laundry bag and where the cardigan belongs"
+    },
+    "type": {
+      "ja": "高齢者と介護士",
+      "en": "An older resident and a care worker"
+    },
+    "level": 3,
+    "setting": {
+      "ja": "洗濯物を集める時間に、健さんと正夫さんが袋の中身や返却後の置き場所を確認します。",
+      "en": "At laundry collection time, Ken and Masao check what should go in the bag and where one item should be stored after it comes back."
+    },
+    "goal": {
+      "ja": "一時的に取り出す物と洗濯しない物を区別し、省略された依頼が乾かし方か保管方法かを確かめる。",
+      "en": "Distinguish an item temporarily taken out from one excluded from the wash, and clarify whether an incomplete request concerns drying or storage."
+    },
+    "turns": [
+      {
+        "speaker": "care-ken",
+        "ja": "洗濯に出すものは、こちらでよいですか。",
+        "en": "Are these the things you want sent to the laundry?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "その袋と、椅子の…いや、椅子のはまだいい。",
+        "en": "That bag, and the thing on the chair… no, leave the one on the chair for now.",
+        "direction": {
+          "ja": "椅子ののあと短く考え、まだいいで最初の追加を取り消す。物の名前は足さない。",
+          "en": "Pause briefly after the reference to the chair, then withdraw that addition. Do not add an object name."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "今日は、この袋の中のものだけですか。",
+        "en": "Just the things in this bag today?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "うん。椅子の紺の上着は、今日もう一度着たいから。",
+        "en": "Yes. I want to wear the navy jacket on the chair again today.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "紺の上着は残しておきます。袋には、この灰色のカーディガンも入っていますね。",
+        "en": "I’ll leave the navy jacket here. This gray cardigan is in the bag as well.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "ああ、それ、いったん袋から出してくれる？",
+        "en": "Ah, could you take that out of the bag for a moment?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "カーディガンも、今日は洗濯に出さないということですか。",
+        "en": "Does that mean you don’t want the cardigan washed today either?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "洗わないわけじゃなくて、ポケットをまだ見ていないんだ。",
+        "en": "It’s not that I don’t want it washed. I haven’t checked the pockets yet.",
+        "direction": {
+          "ja": "否定を重ねる部分を急がずに読む。相手を責めず、取り出した理由を説明する。",
+          "en": "Keep the layered negation clear without rushing. Explain the reason without sounding critical."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "ポケットは、ご自身で確認されますか。",
+        "en": "Would you like to check the pockets yourself?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "自分で見るよ。ここに置いて。",
+        "en": "I’ll check them. Put it here, please.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "では、こちらのテーブルに置きます。",
+        "en": "I’ll put it on this table, then.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "あった。これ、レシートじゃない、孫のメモだ。",
+        "en": "Here it is. This isn’t a receipt; it’s a note from my grandchild.",
+        "direction": {
+          "ja": "見つけたときの小さな気づきを出し、レシートじゃないからメモへ落ち着いてつなげる。",
+          "en": "Give a small sound of recognition, then move calmly from ruling out a receipt to identifying the note."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "そのメモは、どちらに置きましょうか。",
+        "en": "Where would you like that note put?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "引き出しの封筒へ…いや、今は私に渡して。あとで自分でしまう。",
+        "en": "In the envelope in the drawer… no, hand it to me for now. I’ll put it away myself later.",
+        "direction": {
+          "ja": "封筒へのあと一拍置き、今とあとでを聞き取れる強さで自然に言う。",
+          "en": "Pause after the envelope suggestion. Keep now and later naturally audible as he changes the plan."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "メモをお渡ししますね。カーディガンは、袋に戻してもよいですか。",
+        "en": "Here is the note. May I put the cardigan back in the bag?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "待って、もう片方も。…空だね。それは出していい。",
+        "en": "Wait, the other pocket too. … It’s empty. That can go to the laundry.",
+        "direction": {
+          "ja": "もう片方ものあと、もう一つのポケットを確かめる間を少し長めに取る。",
+          "en": "Leave a slightly longer pause after mentioning the other pocket, allowing time to check it."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "両方のポケットを確認できたので、カーディガンも洗濯に出します。",
+        "en": "Both pockets are checked, so I’ll send the cardigan to the laundry too.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "ただ、乾いたらあれに掛けてほしい。",
+        "en": "There is one thing: once it’s dry, I’d like it hung on that one.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "どのハンガーをお使いになりたいですか。",
+        "en": "Which hanger would you like to use?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "いつもの細いのじゃなくて、肩のところが太いハンガー。",
+        "en": "The hanger with the thicker shoulders, rather than the usual thin one.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "カーディガンを干すときに、そのハンガーを使うのですね。",
+        "en": "You’d like that hanger used when the cardigan is hung up to dry?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "干し方じゃなくて、戻ってきたあとのしまい方だよ。",
+        "en": "I mean how it’s put away after it comes back, not how it’s dried.",
+        "direction": {
+          "ja": "干し方としまい方を明瞭に対比し、穏やかな訂正として読む。",
+          "en": "Make drying and putting it away distinct, with the tone of a calm correction."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "返却後の保管に、厚みのあるハンガーですね。場所も確認させてください。",
+        "en": "The thicker hanger is for storing it after it is returned. Let me check where you would like it kept too.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "戸棚の左側。右は紺の上着に空けておきたいんだ。",
+        "en": "On the left side of the wardrobe. I want to leave space on the right for the navy jacket.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "戻ったカーディガンは、厚みのあるハンガーで戸棚の左側に掛けるようお伝えします。返却の時期は、まだ確認できていません。",
+        "en": "I’ll pass on that the returned cardigan should go on the thicker hanger on the left side of the wardrobe. I haven’t yet checked when it will come back.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "ありがとう。いつ戻るかは、わかったときに教えて。今日は急がないから。",
+        "en": "Thank you. Let me know when you find out when it will be back. I’m not in a hurry for it today.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "ja": "今日、洗濯に出さずに残す衣類は？",
+          "en": "Which garment should stay out of today’s laundry?"
+        },
+        "options": [
+          {
+            "ja": "椅子にある紺の上着",
+            "en": "The navy jacket on the chair"
+          },
+          {
+            "ja": "袋の中の衣類すべて",
+            "en": "Everything in the bag"
+          },
+          {
+            "ja": "ポケットを確認した灰色のカーディガン",
+            "en": "The gray cardigan after its pockets are checked"
+          }
+        ],
+        "answer": 0,
+        "evidence": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "why": {
+          "ja": "正夫さんは椅子の上着を追加しかけて取り消し、今日また着たいと説明しています。",
+          "en": "Masao starts to add the jacket on the chair, then withdraws that request and explains that he wants to wear it again today."
+        }
+      },
+      {
+        "question": {
+          "ja": "灰色のカーディガンをいったん取り出した理由と、その後の扱いは？",
+          "en": "Why is the gray cardigan taken out temporarily, and what happens to it afterward?"
+        },
+        "options": [
+          {
+            "ja": "今日また着るためで、洗濯しない",
+            "en": "He will wear it again today, so it is not washed"
+          },
+          {
+            "ja": "ポケットを確かめるためで、確認後は洗濯に出す",
+            "en": "To check the pockets; it goes to the laundry after they are checked"
+          },
+          {
+            "ja": "色を確かめるためで、返却日まで部屋に置く",
+            "en": "To check its color; it stays in his room until the return date"
+          }
+        ],
+        "answer": 1,
+        "evidence": [
+          5,
+          6,
+          7,
+          15,
+          16
+        ],
+        "why": {
+          "ja": "取り出すこと自体は、洗濯をやめる意味ではありません。もう片方のポケットも空だと確認してから、洗濯に出すと決まります。",
+          "en": "Taking it out does not mean canceling the wash. It is approved for laundry after he checks that the second pocket is empty as well."
+        }
+      },
+      {
+        "question": {
+          "ja": "厚みのあるハンガーについて、最後に確認した希望は？",
+          "en": "What is the final confirmed request about the thicker hanger?"
+        },
+        "options": [
+          {
+            "ja": "洗濯前に、紺の上着を右側に掛ける",
+            "en": "Use it for the navy jacket on the right before washing"
+          },
+          {
+            "ja": "乾かすときだけ使い、返却後は畳む",
+            "en": "Use it only for drying, then fold the cardigan after it returns"
+          },
+          {
+            "ja": "返却後のカーディガンを、戸棚の左側に掛けて保管する",
+            "en": "Use it to store the returned cardigan on the left side of the wardrobe"
+          }
+        ],
+        "answer": 2,
+        "evidence": [
+          17,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "why": {
+          "ja": "健さんが乾かし方と解釈したところを、正夫さんが返却後の保管だと訂正しています。場所は左側です。",
+          "en": "Masao corrects Ken’s interpretation that the request concerns drying. It concerns storage after the cardigan returns, on the left side."
+        }
+      }
+    ],
+    "handover": {
+      "ja": "椅子の紺の上着は本日再着用したいため、洗濯に出さない。灰色のカーディガンは本人が両ポケットを確認し、孫のメモを取り出した後、洗濯に出すと確認。メモは本人に渡し、後で本人が保管する意向。カーディガンは返却後、厚みのあるハンガーで戸棚左側に掛ける希望。これは乾燥方法の指定ではない。返却時期は未確認で、判明後に本人へ伝える。",
+      "en": "Leave the navy jacket on the chair out of the laundry because Masao wants to wear it again today. He checked both pockets of the gray cardigan and removed a note from his grandchild, then agreed that it should be sent to the laundry. The note was handed to him; he intends to put it away later. After the cardigan is returned, he wants it stored on a thick-shouldered hanger on the left of the wardrobe. This request concerns storage, not the drying method. The return time remains unconfirmed; tell him once it is known."
+    }
+  },
+  {
+    "id": "phone-plan",
+    "title": {
+      "ja": "短い電話で、明日の都合を聞く",
+      "en": "A short call to arrange tomorrow’s conversation"
+    },
+    "type": {
+      "ja": "高齢者と介護士",
+      "en": "An older resident and a care worker"
+    },
+    "level": 3,
+    "setting": {
+      "ja": "テレビを見ている昭さんが、美咲さんに友人への折り返し電話について相談します。",
+      "en": "While watching television, Akira talks with Misaki about returning a friend’s call."
+    },
+    "goal": {
+      "ja": "今日の短い連絡と明日の長い会話を区別し、本人の希望時刻を相手と合意した時刻に変えてしまわない。",
+      "en": "Separate today’s brief call from tomorrow’s longer conversation, and avoid turning a preferred time into an arrangement agreed with the other person."
+    },
+    "turns": [
+      {
+        "speaker": "elder-akira",
+        "ja": "さっきの電話のことだけど、明日、こちらからでいいかな。",
+        "en": "About that call earlier—perhaps I could call back tomorrow.",
+        "direction": {
+          "ja": "さっきの電話を思い出す調子で始め、こちらからのあとを補わずに自然な問いかけにする。",
+          "en": "Begin as if returning to an earlier topic. Keep the omission after from my side without adding a verb to the Japanese."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "折り返すお電話のお話ですか。",
+        "en": "Are you talking about returning the call?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "そう。佐々木さんがかけてくれたんだけど、食事に行くところで、ゆっくり話せなくてね。",
+        "en": "Yes. Sasaki called, but I was just going to a meal, so we couldn’t take our time talking.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "佐々木さんから、明日かけてほしいと言われましたか。",
+        "en": "Did Sasaki ask you to call tomorrow?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "いや、明日は私の考え。向こうの都合は、聞いていない。",
+        "en": "No, tomorrow is my idea. I haven’t asked what would suit Sasaki.",
+        "direction": {
+          "ja": "いやの前に短い間を置く。訂正は明確に、相手を責める調子にはしない。",
+          "en": "Leave a brief pause before no. Make the correction clear without sounding accusatory."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "明日をご希望ですが、お相手のご都合はまだわからないのですね。",
+        "en": "You would prefer tomorrow, but you don’t yet know whether that works for the other person.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "朝なら…いや、お昼のあとが落ち着くな。",
+        "en": "Morning might… no, after lunch would be more relaxed.",
+        "direction": {
+          "ja": "朝ならのあと考える間を置き、本人が予定を選び直す自然な独り言に近づける。",
+          "en": "Pause to think after morning, with the natural quality of someone reconsidering his own plan."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "明日の昼食後をお考えですか。",
+        "en": "Are you thinking of after lunch tomorrow?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "うん。一時ごろを考えてるけど、約束じゃないよ。",
+        "en": "Yes. I’m thinking around one, but we haven’t agreed on that.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "お相手と時間を確かめる方法を、一緒に考えましょうか。",
+        "en": "Shall we think about how to check the time with Sasaki?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "それなら、今日、短く電話して聞けるかな。",
+        "en": "In that case, could I make a quick call today to ask?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "今日は時刻の相談だけ、明日はゆっくりお話しするご希望ですね。",
+        "en": "You’d like today’s call just to arrange a time, and to have a longer conversation tomorrow.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "そう。今日話したいのは、そのことだけで。",
+        "en": "Yes. That is all I want to discuss today.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "お電話番号は、どちらに控えてありますか。",
+        "en": "Where have you written down the phone number?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "手帳にある。青い…表紙じゃなくて、青いしおりのページ。",
+        "en": "It’s in my address book. The blue… not the cover; the page with the blue bookmark.",
+        "direction": {
+          "ja": "青いのあと言葉を探す短い間を入れ、表紙じゃなくては落ち着いた補足として読む。",
+          "en": "Pause briefly while finding the description after blue; deliver not the cover as a calm clarification."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "この茶色い手帳の、青いしおりですね。",
+        "en": "The blue bookmark in this brown address book?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "うん。見つけたら、私が番号を読むよ。",
+        "en": "Yes. Once we find it, I’ll read out the number.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "はい。今、お電話をかけるお手伝いをしましょうか。",
+        "en": "Of course. Would you like help making the call now?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "今すぐじゃなくて、この番組が終わってからお願い。あと十分くらいだから。",
+        "en": "Not right now. After this program finishes, please. There are about ten minutes left.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "では、番組が終わったら、もう一度お声をかけます。",
+        "en": "Then I’ll check with you again when the program ends.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "出なかったら、伝言は入れなくていい。",
+        "en": "If Sasaki doesn’t answer, there’s no need to leave a message.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "留守番電話になったら、何も録音せずに切りますか。",
+        "en": "If it goes to voicemail, would you like to hang up without recording anything?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "うん。明日の時刻が決まったように伝わると困るから。また私と相談して。",
+        "en": "Yes. I don’t want to give the impression that tomorrow’s time has been settled. Discuss what to do next with me.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "わかりました。つながったら、時刻の相談は昭さんご自身でされますか。",
+        "en": "Understood. If Sasaki answers, would you like to discuss the time yourself?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "そうする。受話器を渡してもらえれば。",
+        "en": "Yes. If you could just hand me the receiver.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-misaki",
+        "ja": "では、番組が終わったらお声をかけます。明日のお電話の時刻は、まだ未定ですね。",
+        "en": "I’ll come back to you when the program ends, then. The time of tomorrow’s call is still undecided.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "うん。一時は希望だけ。決まったら、私から知らせるよ。",
+        "en": "Yes. One o’clock is just my preference. I’ll let you know once we’ve arranged it.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "ja": "明日の午後一時という時刻は、どのような情報？",
+          "en": "What is the status of one o’clock tomorrow afternoon?"
+        },
+        "options": [
+          {
+            "ja": "佐々木さんから指定された時刻",
+            "en": "A time requested by Sasaki"
+          },
+          {
+            "ja": "二人が電話で合意済みの時刻",
+            "en": "A time both people have already agreed by phone"
+          },
+          {
+            "ja": "昭さんの希望で、相手の都合は未確認",
+            "en": "Akira’s preference; Sasaki’s availability is unconfirmed"
+          }
+        ],
+        "answer": 2,
+        "evidence": [
+          3,
+          4,
+          6,
+          7,
+          8,
+          26
+        ],
+        "why": {
+          "ja": "明日も一時も昭さんが考えた希望です。佐々木さんから指定されたとは言っておらず、時刻の相談はこれからです。",
+          "en": "Both tomorrow and one o’clock are Akira’s ideas. He does not say Sasaki requested them; the discussion about timing has yet to happen."
+        }
+      },
+      {
+        "question": {
+          "ja": "今日の電話は、いつ、何のためにかけたい？",
+          "en": "When and why does Akira want to call today?"
+        },
+        "options": [
+          {
+            "ja": "今すぐ、長く近況を話すため",
+            "en": "Right now, for a long conversation about how things are going"
+          },
+          {
+            "ja": "番組が終わってから、明日の時刻を相談するため",
+            "en": "After the program ends, to discuss a time for tomorrow"
+          },
+          {
+            "ja": "夕食後、決定済みの時刻を伝えるため",
+            "en": "After dinner, to announce a time that is already settled"
+          }
+        ],
+        "answer": 1,
+        "evidence": [
+          10,
+          11,
+          12,
+          17,
+          18,
+          19
+        ],
+        "why": {
+          "ja": "今日の連絡は短い時刻の相談です。今すぐという提案は、番組が終わってからに訂正されています。",
+          "en": "Today’s call is a brief discussion about timing. The suggestion to call immediately is corrected to after the television program ends."
+        }
+      },
+      {
+        "question": {
+          "ja": "留守番電話になった場合の希望は？",
+          "en": "What does Akira want if the call goes to voicemail?"
+        },
+        "options": [
+          {
+            "ja": "録音せずに切り、次の対応を本人と相談する",
+            "en": "Hang up without recording a message, then consult Akira about the next step"
+          },
+          {
+            "ja": "明日の一時に電話すると録音する",
+            "en": "Record a message saying he will call at one tomorrow"
+          },
+          {
+            "ja": "職員だけで別の時刻を決める",
+            "en": "Have staff decide a different time without consulting him"
+          }
+        ],
+        "answer": 0,
+        "evidence": [
+          20,
+          21,
+          22
+        ],
+        "why": {
+          "ja": "本人は伝言を残さないと明確に確認しています。希望時刻が確定した予定として伝わらないよう、次のことは本人と相談します。",
+          "en": "He explicitly confirms that no message should be left. To avoid presenting a preferred time as settled, the next step should be discussed with him."
+        }
+      }
+    ],
+    "handover": {
+      "ja": "昭さんは佐々木さんからの電話でゆっくり話せなかったため、明日の昼食後、一時ごろの折り返しを希望。ただし相手の都合は未確認で、約束ではない。今日、見ている番組が終わった後に短く電話し、明日の時刻を本人が相談したい。茶色い手帳の青いしおりのページに番号があり、本人が読み上げる意向。つながったら受話器を渡す希望。留守番電話なら録音せずに切り、次の対応を本人と相談する。",
+      "en": "Akira could not talk at length when Sasaki called and would like to call back after lunch tomorrow, around one. Sasaki’s availability is unconfirmed; this is not an agreed appointment. After his current television program ends today, he wants a short call to discuss tomorrow’s time himself. The number is on the page marked with a blue bookmark in his brown address book, and he plans to read it out. He wants the receiver handed to him if the call connects. If it goes to voicemail, do not record a message; discuss the next step with him."
+    }
+  },
+  {
+    "id": "shogi-chat",
+    "title": {
+      "ja": "将棋の誘いと、待っている電話",
+      "en": "A game of shogi and an expected call"
+    },
+    "type": {
+      "ja": "高齢者同士",
+      "en": "Two older residents"
+    },
+    "level": 2,
+    "setting": {
+      "ja": "午後の居間。正夫さんが将棋盤を見つけ、昭さんに声をかけます。",
+      "en": "In the lounge one afternoon, Masao spots a shogi board and invites Akira to play."
+    },
+    "goal": {
+      "ja": "ためらう理由、思い出の中の人物、まだ決まっていないことを聞き分ける。",
+      "en": "Follow the reason for a hesitation, resolve who is being discussed in a memory, and keep uncertain arrangements uncertain."
+    },
+    "turns": [
+      {
+        "speaker": "elder-masao",
+        "ja": "昭さん、将棋盤があるよ。一局どう？",
+        "en": "Akira, there’s a shogi board here. How about a game?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "いいね。けど、今すぐはちょっと。",
+        "en": "That sounds good. Though I’m a little hesitant to start right now.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "今日は、そういう気分じゃない？",
+        "en": "Are you not really in the mood today?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "いや、そうじゃなくて。娘から電話が来ることになっててね。",
+        "en": "No, it’s not that. I’m expecting a call from my daughter.",
+        "direction": {
+          "ja": "「いや」の前に短い間。誘いを断る調子にせず、理由を自然に伝える。",
+          "en": "Pause briefly before iya. Explain the hesitation naturally, without making it sound like a refusal of the invitation."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "何時ごろ、かかってくるの？",
+        "en": "About what time is she calling?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "三時……だったかな。午後としか言ってなかったかもしれない。",
+        "en": "Three o’clock… was it? She might only have said sometime this afternoon.",
+        "direction": {
+          "ja": "「三時」のあと考える間。後半も聞こえる声で、不確かさを残す。",
+          "en": "Leave a thinking pause after three o’clock. Keep the second sentence audible and preserve the uncertainty."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "じゃ、時間はまだはっきりしないんだ。電話が来たら、そっちを先にしよう。",
+        "en": "So the time isn’t clear yet. Whenever she calls, we can put the game on hold.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "それならできるね。一局終わるまで待たせるのも悪いし。",
+        "en": "Then we can play. I wouldn’t want to keep her waiting until we finished a whole game.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "盤はここにある。駒は、そこの……丸い箱だったか。",
+        "en": "The board’s here. The pieces were in that… round box, were they?",
+        "direction": {
+          "ja": "箱を探す自然な短い間。「だったか」は自分に確かめる調子。",
+          "en": "Pause briefly as if looking for the box. Let the final phrase sound like a question to himself."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "丸いのはお手玉だよ。駒なら、下の四角い箱に入ってた。",
+        "en": "The round one has the beanbags. The shogi pieces were in the square box underneath.",
+        "direction": {
+          "ja": "訂正を穏やかに。丸い箱と四角い箱を区別できる明瞭さで話す。",
+          "en": "Correct him gently. Keep the round and square boxes clearly distinguishable without overemphasising them."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "あ、これだ。教えてもらって助かった。",
+        "en": "Ah, here they are. Thanks for pointing me to them.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "この駒の手触り、昔うちにあったのに似てるな。",
+        "en": "These pieces feel like the ones we used to have at home.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "お父さんと指してたの？",
+        "en": "Did you play with your father?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "父も指したけど、よく相手になってくれたのは兄だね。",
+        "en": "My father played too, but it was my older brother who usually played with me.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "兄弟でね。強かった？",
+        "en": "So the two of you played together. Was he good?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "兄のほうがね。負けても、夕飯のあとに「もう一回」って言ってた。",
+        "en": "He was the stronger player. Even after losing, it would be “One more game” after dinner.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "言ってたのは、お兄さん？",
+        "en": "Was it your brother asking for another game?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "ああ、私のほう。悔しくて、やめられなくてね。",
+        "en": "Oh, that was me. I hated losing so much that I couldn’t leave it alone.",
+        "direction": {
+          "ja": "「ああ」のあと短く区切る。自分の思い出を少し笑うように、訂正は明瞭に。",
+          "en": "Make a brief break after oh. Correct the reference clearly, with a little amusement at his younger self."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "わかるなあ。私は負けると、口数が減るほうだったよ。",
+        "en": "I know the feeling. When I lost, I was more the type to go quiet.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "今は、勝ち負けより話しながら指すのがいい。",
+        "en": "These days, I enjoy having a conversation over the board more than winning or losing.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "急がずにやろう。電話が来たら、そのままにしておけばいい。",
+        "en": "Let’s take our time. If the phone rings, we can leave the board as it is.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "途中の盤を、ここに置いておけるかな。",
+        "en": "Do you think we can leave an unfinished game here?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "そこは、まだ聞いてないな。誰かがこのテーブルを使うかもしれない。",
+        "en": "I haven’t checked that yet. Someone else might need this table.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "置いておけないなら、片づける前に並びを紙に書こうか。",
+        "en": "If we can’t leave it out, we could write down the position before putting the pieces away.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-masao",
+        "ja": "うん。じゃあ、まず駒を並べよう。電話が来たら、こっちは気にせず出ていいから。",
+        "en": "Yes. Let’s set up the pieces first, then. When your daughter calls, just go ahead and answer.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-akira",
+        "ja": "ありがとう。それじゃ、ゆっくり一局、お願いします。",
+        "en": "Thank you. Well then, let’s enjoy a leisurely game.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "ja": "昭さんが、最初にすぐ始めるのをためらった理由は？",
+          "en": "Why did Akira initially hesitate to start a game straight away?"
+        },
+        "options": [
+          {
+            "ja": "将棋をする気分ではなかったから",
+            "en": "He was not in the mood for shogi"
+          },
+          {
+            "ja": "娘からの電話を待っていたから",
+            "en": "He was expecting a call from his daughter"
+          },
+          {
+            "ja": "駒の動かし方を忘れてしまったから",
+            "en": "He had forgotten how the pieces move"
+          }
+        ],
+        "answer": 1,
+        "evidence": [
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "why": {
+          "ja": "昭さんは、気分ではないという推測を訂正し、娘からの電話を待っていると説明します。電話を優先できるとわかって、対局に同意します。",
+          "en": "Akira corrects Masao’s guess that he is not in the mood. He is expecting his daughter’s call and agrees to play once they establish that the call can take priority."
+        }
+      },
+      {
+        "question": {
+          "ja": "昔、負けたあとに「もう一回」と言っていたのは誰？",
+          "en": "Who used to ask for one more game after losing?"
+        },
+        "options": [
+          {
+            "ja": "昭さんの父親",
+            "en": "Akira’s father"
+          },
+          {
+            "ja": "昭さんの兄",
+            "en": "Akira’s older brother"
+          },
+          {
+            "ja": "昭さん本人",
+            "en": "Akira himself"
+          }
+        ],
+        "answer": 2,
+        "evidence": [
+          13,
+          15,
+          16,
+          17
+        ],
+        "why": {
+          "ja": "兄のほうが強かったという話のあと、正夫さんが「言ってたのは、お兄さん？」と確かめます。昭さんは「私のほう」と、発言した人物を明らかにします。",
+          "en": "Akira says his brother was the stronger player. Masao then checks who asked for another game, and Akira clarifies that he himself did."
+        }
+      },
+      {
+        "question": {
+          "ja": "会話の終わりでも、まだ確認できていないことは？",
+          "en": "What remains unconfirmed at the end of the conversation?"
+        },
+        "options": [
+          {
+            "ja": "電話の正確な時刻と、途中の盤を置いておけるかどうか",
+            "en": "The exact time of the call and whether an unfinished game can stay on the table"
+          },
+          {
+            "ja": "電話をかけてくる人と、駒の入っている箱",
+            "en": "Who is calling and which box contains the pieces"
+          },
+          {
+            "ja": "二人が将棋をしたいかどうかと、昭さんの昔の対戦相手",
+            "en": "Whether both want to play and who Akira used to play with"
+          }
+        ],
+        "answer": 0,
+        "evidence": [
+          5,
+          6,
+          20,
+          21,
+          22,
+          23
+        ],
+        "why": {
+          "ja": "三時という時刻は本人が確信していません。また、盤を置いたままにできるかは未確認です。片づける場合の案が出ても、置いておける許可を得たことにはなりません。",
+          "en": "Akira is unsure whether three o’clock was specified. Leaving the board on the table has not been checked either. Discussing what to do if they must put it away does not establish permission to leave it there."
+        }
+      }
+    ],
+    "handover": {
+      "ja": "正夫さんと昭さんは、娘からの電話が来たら中断できる形で将棋をすることにした。昭さんが話した電話の正確な時刻は不確か。途中の盤をテーブルに置いておけるかは未確認で、片づける必要があれば駒の並びを紙に記す案が出た。",
+      "en": "Masao and Akira agreed to play shogi and pause if Akira’s daughter calls. The exact call time remains uncertain. They have not checked whether an unfinished game can stay on the table; they suggested recording the position on paper if they need to clear it away."
+    }
+  },
+  {
+    "id": "festival-chat",
+    "title": {
+      "ja": "夏祭りの思い出と、今年の楽しみ方",
+      "en": "Festival memories and plans for this year"
+    },
+    "type": {
+      "ja": "高齢者同士",
+      "en": "Two older residents"
+    },
+    "level": 3,
+    "setting": {
+      "ja": "初夏の居間。はるさんと文子さんが、玄関に出た夏祭りの張り紙について話します。",
+      "en": "In the lounge in early summer, Haru and Fumiko talk about a summer festival notice posted by the entrance."
+    },
+    "goal": {
+      "ja": "思い出の言い直し、未確認の予定、二人それぞれの希望を分けて聞く。",
+      "en": "Separate corrected memories, unconfirmed plans, and the two residents’ different preferences."
+    },
+    "turns": [
+      {
+        "speaker": "elder-haru",
+        "ja": "玄関の張り紙、見た？ 来月、お祭りをするんだって。",
+        "en": "Did you see the notice by the entrance? They’re holding a festival next month.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "ああ、夏祭りね。去年、太鼓の音がここまで聞こえたわね。",
+        "en": "Oh, the summer festival. We could hear the drums all the way in here last year.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "去年は行ったの？",
+        "en": "Did you go last year?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "行ったというか、窓のところから見てたの。途中で雨が降ったでしょう。",
+        "en": "Well, I watched from the window, really. It started raining partway through, remember?",
+        "direction": {
+          "ja": "「行ったというか」で柔らかく言い直す。思い出話の温かい調子を保つ。",
+          "en": "Gently qualify the idea that she went. Keep the warm tone of a shared memory."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "そうだった。私はあのとき、娘と……いや、妹と見ていたんだ。",
+        "en": "That’s right. I was watching with my daughter then… no, with my younger sister.",
+        "direction": {
+          "ja": "「娘と」のあと短い間。「妹と」を明瞭に、訂正を大げさにしない。",
+          "en": "Pause briefly after with my daughter. Say with my younger sister clearly without dramatising the correction."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "妹さんとね。今年も一緒に？",
+        "en": "With your sister. Will you be watching together again this year?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "まだ何も話してないよ。来られるかどうかも、わからない。",
+        "en": "We haven’t talked about it yet. I don’t even know whether she’ll be able to come.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "じゃあ、誘うのはこれからね。お祭りは土曜日だった？",
+        "en": "So you’ve still to invite her. Was the festival on a Saturday?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "土曜……あ、日曜日だ。曜日だけは大きく書いてあった。",
+        "en": "Satur… oh, Sunday. I do remember the day of the week was printed in big letters.",
+        "direction": {
+          "ja": "「土曜」のあと短い思い出す間。「日曜日だ」で自然に訂正する。",
+          "en": "Leave a brief recall pause after Saturday, then make a natural correction to Sunday."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "時間は？ 夕ご飯のあとかしら。",
+        "en": "What time? I wonder if it’s after dinner.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "そこまでは見てこなかった。夕方の気がするけど、確かじゃないね。",
+        "en": "I didn’t look that closely. I have a feeling it’s in the early evening, but I’m not sure.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "前は夕方だったけど、今年も同じとは限らないものね。",
+        "en": "It was in the early evening before, but that doesn’t mean it will be the same this year.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "あとで、もう一度張り紙を見ようか。",
+        "en": "Shall we take another look at the notice later?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "ええ。屋台は何が出るのかも、載っているといいわね。",
+        "en": "Yes. I hope it tells us what stalls they’ll have too.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "私は食べ物より、盆踊りを見るのが楽しみ。昔はよく踊ったんだよ。",
+        "en": "I’m looking forward to watching the Bon dancing more than the food. I used to dance quite a lot.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "踊るほうだったのね。私は、踊る人の浴衣を見るのが好きだったわ。",
+        "en": "So you were one of the dancers. I always liked looking at the yukata everyone wore.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "浴衣か。紺色のを、母が縫ってくれてねえ。",
+        "en": "Yukata… My mother sewed me an indigo one.",
+        "direction": {
+          "ja": "冒頭に懐かしむ短い間。温かく話し、声を必要以上に弱めない。",
+          "en": "Let the opening carry a brief reflective pause. Sound warm without making the voice unduly frail."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "今も持っているの？",
+        "en": "Do you still have it?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "実家に……いや、もう実家はないから、妹のところかもしれない。どこにあるか、ちゃんと聞かないとね。",
+        "en": "It’s at our family home… no, we don’t have that house anymore, so it might be with my sister. I’ll have to ask her where it is.",
+        "direction": {
+          "ja": "「実家に」のあと考える間。現在の場所は不確かなまま、文末まで明瞭に話す。",
+          "en": "Pause to reconsider after at our family home. Keep its present location uncertain and the phrase endings clear."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "見つかったら、柄を見せてほしいわ。私は、今年は中庭まで出られたらと思ってるの。",
+        "en": "If it turns up, I’d love you to show me the pattern. This year, I’m hoping I can go out to the courtyard.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "最後までいるつもり？",
+        "en": "Are you thinking of staying until the end?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "いいえ、太鼓を少し聞けたら十分。にぎやかすぎたら、居間に戻りたいわ。",
+        "en": "No, I’d be happy just to hear the drums for a little while. If it gets too noisy, I’d like to come back to the lounge.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "それなら、私も一緒に見たいな。踊りが始まるところまで見られたら、うれしい。",
+        "en": "I’d like to watch with you, then. I’d be pleased if I could stay long enough to see the dancing begin.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "帰りたくなる時間は、同じじゃないかもしれないわね。",
+        "en": "We might not want to come back at the same time, though.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "うん。無理に合わせなくていいよ。時間がわかったら、それぞれどうしたいか、職員さんにも相談しよう。",
+        "en": "That’s fine. We don’t have to stay just to suit each other. Once we know the times, let’s talk to the staff about what each of us would like to do.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-fumiko",
+        "ja": "そうしましょう。まずは、張り紙を見に行きましょうか。",
+        "en": "Let’s do that. Shall we go and look at the notice first?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "ja": "はるさんが、去年一緒に祭りを見たと最後に言った相手は？",
+          "en": "Who does Haru ultimately say watched last year’s festival with her?"
+        },
+        "options": [
+          {
+            "ja": "娘",
+            "en": "Her daughter"
+          },
+          {
+            "ja": "妹",
+            "en": "Her younger sister"
+          },
+          {
+            "ja": "母親",
+            "en": "Her mother"
+          }
+        ],
+        "answer": 1,
+        "evidence": [
+          4,
+          5
+        ],
+        "why": {
+          "ja": "はるさんは「娘と」と言いかけてから、「いや、妹と」と訂正します。文子さんも妹と見たことを受け止めています。",
+          "en": "Haru first says her daughter, then corrects herself to her younger sister. Fumiko’s next turn acknowledges the corrected person."
+        }
+      },
+      {
+        "question": {
+          "ja": "今年の祭りの時間について、会話からわかることは？",
+          "en": "What does the conversation establish about this year’s festival time?"
+        },
+        "options": [
+          {
+            "ja": "夕食後に始まると確認できている",
+            "en": "It is confirmed to begin after dinner"
+          },
+          {
+            "ja": "去年と同じ時間に始まる",
+            "en": "It will begin at the same time as last year"
+          },
+          {
+            "ja": "日曜日との話だが、開始時刻は張り紙で確かめる必要がある",
+            "en": "They say it is on Sunday, but still need to check the starting time on the notice"
+          }
+        ],
+        "answer": 2,
+        "evidence": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "why": {
+          "ja": "曜日は日曜日と言い直されていますが、時刻ははるさんも確信していません。夕食後という推測や去年の時刻を、今年の確定情報にしないことが大切です。",
+          "en": "The day is corrected to Sunday, but Haru remains unsure of the time. Fumiko’s guess about after dinner and the timing of last year’s event do not confirm this year’s start time."
+        }
+      },
+      {
+        "question": {
+          "ja": "二人の今年の希望を、正しくまとめたものは？",
+          "en": "Which summary accurately keeps their preferences separate?"
+        },
+        "options": [
+          {
+            "ja": "文子さんは太鼓を少し聞き、騒がしければ居間へ。はるさんは踊りの始まりを見たい",
+            "en": "Fumiko wants to hear the drums briefly and return inside if it is too noisy; Haru wants to see the dancing begin"
+          },
+          {
+            "ja": "文子さんは最後まで踊り、はるさんは屋台だけを見たい",
+            "en": "Fumiko wants to dance until the end; Haru only wants to visit the stalls"
+          },
+          {
+            "ja": "二人とも、必ず同じ時間に居間へ戻りたい",
+            "en": "Both insist on returning to the lounge at the same time"
+          }
+        ],
+        "answer": 0,
+        "evidence": [
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "why": {
+          "ja": "文子さんは短い参加と、騒がしい場合の帰室を希望しています。はるさんは踊りの始まりを見たいと話し、帰る時刻を無理に合わせないことに同意します。参加の具体的な調整はこれからです。",
+          "en": "Fumiko would like a brief visit and the option to return if the noise is too much. Haru wants to see the start of the dancing and agrees that they need not return together. The practical arrangements are still to be discussed."
+        }
+      }
+    ],
+    "handover": {
+      "ja": "はるさんと文子さんは夏祭りの張り紙を再確認する予定。日曜日と話しているが、開始時刻は未確認。文子さんは中庭で太鼓を少し聞き、騒がしければ居間へ戻りたい。はるさんは踊りの始まりを見たい。帰る時刻を無理に合わせず、時刻を確認してから各自の希望を職員に相談する意向。はるさんの妹が来られるか、昔の浴衣がどこにあるかも未確認。",
+      "en": "Haru and Fumiko plan to check the festival notice again. They say the event is on Sunday, but its start time is unconfirmed. Fumiko would like to hear the drums briefly in the courtyard and return to the lounge if it is too noisy. Haru would like to see the dancing begin. They intend to discuss their individual preferences with staff once they know the times, without requiring each other to return together. Haru’s sister’s availability and the location of her old yukata are also unconfirmed."
+    }
+  },
+  {
+    "id": "evening-check",
+    "title": {
+      "ja": "読書のあとと、今夜の明かり",
+      "en": "After reading, and the lights for tonight"
+    },
+    "type": {
+      "ja": "高齢者と介護士",
+      "en": "An older resident and a care worker"
+    },
+    "level": 2,
+    "setting": {
+      "ja": "夜の居室で、読書中のはるさんと健さんが、このあとの過ごし方と部屋の希望を確認します。",
+      "en": "In Haru’s room in the evening, Ken checks how she would like to spend the rest of the evening and arrange her surroundings while she reads."
+    },
+    "goal": {
+      "ja": "読書後の予定を早合点せず、明かりやカーテンの今の希望と、あとで頼むことを分けて聞く。",
+      "en": "Avoid jumping to conclusions about what comes after reading, and separate current wishes about lights and curtains from requests for later."
+    },
+    "turns": [
+      {
+        "speaker": "care-ken",
+        "ja": "はるさん、今夜、お部屋で過ごすご予定はいかがですか。",
+        "en": "Haru, how would you like to spend the rest of the evening in your room?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "もう少し、これを読んでからにしようかな。",
+        "en": "I think I’ll wait until I’ve read a little more of this.",
+        "direction": {
+          "ja": "これとからの意味を説明する言葉を足さず、考えながら自然に話す。",
+          "en": "Speak thoughtfully without adding words to explain this or what she is waiting to do."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "こちらの本を読んでから、お休みになるということですか。",
+        "en": "Do you mean you would like to go to bed after reading this book?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "寝る前に、娘への手紙を少し書きたいの。まだ寝ないよ。",
+        "en": "I’d like to write a little of my letter to my daughter before bed. I’m not going to bed yet.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "読書のあとに、お手紙を書くのですね。",
+        "en": "You would like to write your letter after reading, then.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "うん。あの小さい明かりだけ、お願いできる？",
+        "en": "Yes. Could I have just that small light?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "机の上のスタンドをつけますか。",
+        "en": "Would you like the desk lamp switched on?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "そう、手紙を書くときに。今は天井の明かりをつけておいて。",
+        "en": "Yes, when I write the letter. For now, keep the ceiling light on.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "今は天井の照明をつけたままにします。スタンドは、お手紙を書くときですね。",
+        "en": "I’ll leave the ceiling light on for now. The desk lamp is for when you write the letter.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "あと、窓のところが気になるな。",
+        "en": "And there’s something bothering me over by the window.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "窓の開き方ですか。それともカーテンでしょうか。",
+        "en": "Do you mean how far the window is open, or the curtains?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "窓はそのままでいい。カーテン、あっちだけ閉めたいの。",
+        "en": "The window can stay as it is. I’d like just that curtain closed.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "廊下に近い側と、ベッドに近い側の、どちらですか。",
+        "en": "Which side do you mean: the side nearer the hallway or the side nearer your bed?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "ベッドの…あ、ごめん、廊下に近いほう。外の明かりが映るから。",
+        "en": "The bed… oh, sorry, the side nearer the hallway. The light from outside reflects there.",
+        "direction": {
+          "ja": "ベッドののあと一拍置き、方角を言い直す。ごめんは軽く、過剰に困った声にしない。",
+          "en": "Pause briefly after the bed reference and correct the side. Keep sorry light, without exaggerated distress."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "廊下に近い側だけ閉めます。このくらいでよいですか。",
+        "en": "I’ll close just the side nearer the hallway. Is this all right?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "それでいい。反対側は、今はそのままで。",
+        "en": "That’s fine. Leave the other side as it is for now.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "本はこちらに置いておきますか。",
+        "en": "Would you like the book put here?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "まだ読んでるから、手元に。読み終えたら、明日返したい。",
+        "en": "I’m still reading it, so I’ll keep it with me. Once I’ve finished, I’d like to return it tomorrow.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "明日、本棚へ戻すご希望ですか。",
+        "en": "You’d like to put it back on the bookshelf tomorrow?",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "居間の本棚じゃなくて、文子さんへ。借りた本なの。",
+        "en": "To Fumiko, not the lounge bookshelf. I borrowed it from her.",
+        "direction": {
+          "ja": "返す相手を訂正する箇所ははっきりと話し、借りた本なのは会話的に理由を添える。",
+          "en": "Clearly correct who the book goes back to, then add that it was borrowed in a conversational tone."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "文子さんにお返しする本ですね。今夜はここに置いておきます。",
+        "en": "The book is to go back to Fumiko. We’ll leave it here tonight.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "うん。あの人がどこにいるかは、明日でいいから。",
+        "en": "Yes. Finding out where she is can wait until tomorrow.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "明日、返したくなったときにお知らせください。スタンドを使うときも、お声をかけてくださいね。",
+        "en": "Please let me know tomorrow when you want to return it. Let me know when you want to use the desk lamp too.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "お願い。手紙を書き始める時間は、まだ決めていないから。",
+        "en": "Thank you. I haven’t decided exactly when to start writing the letter.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "care-ken",
+        "ja": "はい。今は天井の明かりで読書、手紙のときはスタンドだけ、というご希望ですね。",
+        "en": "Of course. For now, you want to read with the ceiling light on, then use just the desk lamp when you write your letter.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      },
+      {
+        "speaker": "elder-haru",
+        "ja": "そう。支度を急がず、もう一章だけ読むよ。",
+        "en": "That’s right. I’ll take my time getting ready and read just one more chapter.",
+        "direction": {
+          "ja": "自然な会話。文末まで話し、相手の返答を待つ。",
+          "en": "Natural conversation. Finish the phrase and leave space for the reply."
+        }
+      }
+    ],
+    "questions": [
+      {
+        "question": {
+          "ja": "読書のあと、はるさんがしたいことは？",
+          "en": "What does Haru want to do after reading?"
+        },
+        "options": [
+          {
+            "ja": "すぐに寝る",
+            "en": "Go straight to bed"
+          },
+          {
+            "ja": "娘への手紙を少し書く",
+            "en": "Write a little of her letter to her daughter"
+          },
+          {
+            "ja": "娘に電話する",
+            "en": "Call her daughter"
+          }
+        ],
+        "answer": 1,
+        "evidence": [
+          1,
+          2,
+          3,
+          4,
+          23
+        ],
+        "why": {
+          "ja": "読んでからという省略だけでは次の行動はわかりません。寝るという推測を本人が訂正し、手紙を書くと説明しています。開始時刻は未定です。",
+          "en": "The incomplete phrase after reading does not identify the next action by itself. She corrects the assumption about going to bed and explains that she wants to write a letter. The start time is still undecided."
+        }
+      },
+      {
+        "question": {
+          "ja": "窓まわりは、最後にどうすることになった？",
+          "en": "What is the final arrangement around the window?"
+        },
+        "options": [
+          {
+            "ja": "廊下に近いカーテンだけ閉め、窓と反対側はそのまま",
+            "en": "Close only the curtain nearer the hallway; leave the window and the other curtain as they are"
+          },
+          {
+            "ja": "窓を閉め、両側のカーテンを開ける",
+            "en": "Close the window and open both curtains"
+          },
+          {
+            "ja": "ベッドに近いカーテンだけ閉める",
+            "en": "Close only the curtain nearer the bed"
+          }
+        ],
+        "answer": 0,
+        "evidence": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "why": {
+          "ja": "窓ではなくカーテンの希望です。ベッド側という言いかけは廊下側へ訂正され、反対側は変えないと確認されています。",
+          "en": "The request concerns a curtain, not the window. The initial reference to the bed side is corrected to the hallway side, and she confirms that the other side should stay as it is."
+        }
+      },
+      {
+        "question": {
+          "ja": "本を返す相手と時期について、確認できたことは？",
+          "en": "What is confirmed about whom the book goes back to and when?"
+        },
+        "options": [
+          {
+            "ja": "今夜、健さんが居間の本棚へ戻す",
+            "en": "Ken will return it to the lounge bookshelf tonight"
+          },
+          {
+            "ja": "文子さんが今夜取りに来る",
+            "en": "Fumiko will come to collect it tonight"
+          },
+          {
+            "ja": "読み終えたら明日、文子さんへ返したい",
+            "en": "Haru would like to return it to Fumiko tomorrow once she has finished it"
+          }
+        ],
+        "answer": 2,
+        "evidence": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "why": {
+          "ja": "返す先は文子さんです。明日返したいという希望はありますが、今夜の返却や文子さんの来室は決まっていません。",
+          "en": "The book belongs to Fumiko. Haru wants to return it tomorrow, but there is no arrangement for a return tonight or for Fumiko to come to the room."
+        }
+      }
+    ],
+    "handover": {
+      "ja": "はるさんは今は天井の照明で読書を続け、その後、娘への手紙を少し書きたいとのこと。書き始める時刻は未定で、その際はスタンドだけを使いたい。廊下に近い側のカーテンだけ閉め、本人に希望どおりと確認済み。窓と反対側のカーテンは現状のまま。本は文子さんから借りたもので、読み終えたら明日返したい。今夜は手元に置き、明日返したくなったときに声をかけてもらう。",
+      "en": "Haru wants to continue reading with the ceiling light on, then write a little of a letter to her daughter. She has not decided when to start writing and wants to use just the desk lamp at that time. Only the curtain nearer the hallway was closed, and she confirmed that this was right. Leave the window and the other curtain as they are. The book was borrowed from Fumiko; Haru would like to return it tomorrow once she finishes it. She is keeping it with her tonight and will ask when she is ready to return it tomorrow."
+    }
+  }
+]

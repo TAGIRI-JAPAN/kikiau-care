@@ -1,0 +1,1409 @@
+[
+  {
+    "seed": {
+      "id": "napkin",
+      "title": "ひざに、一枚あると…",
+      "cat": 0,
+      "focus": "用途から物を確かめる",
+      "person": 0,
+      "setting": "食事の前。机に布のナプキンと紙タオルがあります。",
+      "utterance": "食べこぼしがね…これ、ひざに一枚あると。",
+      "plain": "布のナプキンを一枚、ひざに広げてほしいです。",
+      "english": "Please spread one cloth napkin over my lap.",
+      "keywords": [
+        "食べこぼし",
+        "ひざ",
+        "一枚"
+      ],
+      "known": "食べこぼしが気になり、何かを一枚ひざに置きたい。",
+      "unknown": "布のナプキンか、紙タオルか。置く手伝いも必要か。",
+      "meaning": "ひざに置く物を求めているが、どの物かは確認が必要。",
+      "clarify": "布のナプキンを見せて『こちらをひざに置きますか？』と聞く。",
+      "reply": "そう、その布のを、ひざに広げて。",
+      "response": "このナプキンを、ひざに広げますね。",
+      "report": "食べこぼしを気にされていた。物を見せて確認し、布のナプキンを一枚ひざに広げる手伝いを希望された。",
+      "variants": [
+        "食べるとき、ひざに布のを一枚、お願い。",
+        "そのナプキンね。ひざに広げてもらえる？"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "食事を始める前に",
+      "en": "Before starting a meal"
+    },
+    "englishRows": [
+      "Before starting a meal",
+      "Checking an object by its use",
+      "Before the meal, a cloth napkin and a paper towel are on the table.",
+      "They are concerned about food spilling and want one item on their lap.",
+      "Whether they mean the cloth napkin or paper towel, and whether they want help placing it.",
+      "They want an item for their lap; check which item.",
+      "Show the cloth napkin and ask, “Would you like this on your lap?”",
+      "I'll spread this napkin over your lap.",
+      "They were concerned about food spilling. Showing the items confirmed that they wanted help spreading one cloth napkin over their lap.",
+      "They want the paper towel placed on the table.",
+      "They want all the food cleared away.",
+      "I'll place the paper towel on the table."
+    ],
+    "traps": {
+      "listening": [
+        "机の下",
+        "二枚"
+      ],
+      "meanings": [
+        "紙タオルを机に置いてほしい。",
+        "食事を全部片づけてほしい。"
+      ],
+      "response": "紙タオルを机に置きますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "cardigan",
+      "title": "上に羽織る、薄いの…",
+      "cat": 0,
+      "focus": "服の特徴・置き場所",
+      "person": 2,
+      "setting": "服を選んでいます。ベストとカーディガンが掛かっています。",
+      "utterance": "上に羽織るの…あの薄い、前が開くやつ。取ってくれる？",
+      "plain": "薄いカーディガンを取って、椅子に置いてほしいです。",
+      "english": "Please get the thin cardigan and put it on the chair.",
+      "keywords": [
+        "羽織る",
+        "薄い",
+        "前が開く"
+      ],
+      "known": "薄くて前が開く、上に羽織る服を取ってほしい。",
+      "unknown": "どの服か。取ったあと、どこに置くか、着るのか。",
+      "meaning": "服の特徴は聞き取れるが、実物で確認する必要がある。",
+      "clarify": "薄いカーディガンを見せて『このカーディガンですか？』と聞く。",
+      "reply": "そう。それ、椅子に置いといて。あとで着るわ。",
+      "response": "このカーディガンを、椅子に置いておきますね。",
+      "report": "薄いカーディガンを見せて確認した。あとで着るため、椅子に置いてほしいと話された。",
+      "variants": [
+        "薄いカーディガン、椅子に置いてもらえる？",
+        "前が開く、そのカーディガンね。あとで着るから、椅子に。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "羽織る服を選ぶとき",
+      "en": "Choosing an extra layer"
+    },
+    "englishRows": [
+      "Choosing an extra layer",
+      "Clothing features and where to put it",
+      "They are choosing clothes. A vest and a cardigan are hanging nearby.",
+      "They want a thin outer layer that opens at the front.",
+      "Which garment they mean, and whether they want to wear it or have it put somewhere.",
+      "You can hear the clothing features, but should confirm the actual item.",
+      "Show the thin cardigan and ask, “Is this the cardigan?”",
+      "I'll leave this cardigan on the chair.",
+      "Showing the thin cardigan confirmed the item. They asked for it to be left on the chair to wear later.",
+      "They have asked for help putting the garment on immediately.",
+      "They want a thick garment that does not open at the front.",
+      "Let's put the cardigan on right now."
+    ],
+    "traps": {
+      "listening": [
+        "厚い",
+        "後ろ"
+      ],
+      "meanings": [
+        "今すぐ、その服を着せてほしいと頼んでいる。",
+        "前が開かない、厚い服を希望している。"
+      ],
+      "response": "今すぐカーディガンを着ましょう。"
+    }
+  },
+  {
+    "seed": {
+      "id": "laundry",
+      "title": "洗うほうに…ポケットは、まだ",
+      "cat": 0,
+      "focus": "省略された確認事項",
+      "person": 1,
+      "setting": "着替えたシャツと、洗濯物のかごがあります。",
+      "utterance": "このシャツ…洗うほうにね。ポケットは、まだ。",
+      "plain": "シャツを洗濯に出す前に、ポケットの中を一緒に確かめてほしいです。",
+      "english": "Please check the shirt pockets with me before it goes in the laundry.",
+      "keywords": [
+        "シャツ",
+        "洗う",
+        "ポケット",
+        "まだ"
+      ],
+      "known": "シャツを洗濯に出したい。ポケットについて、何かがまだ済んでいない。",
+      "unknown": "ポケットについて何が済んでいないか。中に物があるか。",
+      "meaning": "洗濯の希望と、ポケットについての未完了の話を分けて確認する。",
+      "clarify": "『ポケットの中は、まだ確かめていないのですか？』と聞く。",
+      "reply": "うん。紙があるかもしれん。一緒に見て。",
+      "response": "先にポケットの中を一緒に確かめましょう。",
+      "report": "シャツの洗濯を希望された。ポケットは未確認で、紙があるかもしれないため、一緒に確かめたいと話された。",
+      "variants": [
+        "シャツを洗う前に、ポケット、一緒に見てくれる？",
+        "洗濯に出したいんだけど、中をまだ見てないんだ。ポケットね。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "シャツを洗濯に出す前に",
+      "en": "Before a shirt goes in the laundry"
+    },
+    "englishRows": [
+      "Before a shirt goes in the laundry",
+      "An unfinished check",
+      "There is a changed shirt and a laundry basket.",
+      "They want the shirt washed. Something about the pockets has not been done yet.",
+      "What remains to be done with the pockets, and whether anything is inside.",
+      "Separate the request for laundry from the unfinished matter about the pockets.",
+      "Ask, “Have you not checked inside the pockets yet?”",
+      "Let's check inside the pockets together first.",
+      "They wanted the shirt washed. The pockets had not been checked; they said there might be paper inside and wanted to check together.",
+      "The pockets have already been checked and are empty.",
+      "They want the shirt put away without washing.",
+      "The pockets are empty, so I'll send it straight to the laundry."
+    ],
+    "traps": {
+      "listening": [
+        "しまう",
+        "終わった"
+      ],
+      "meanings": [
+        "ポケットはすでに確認済みで、中は空である。",
+        "シャツを洗わずに、しまってほしい。"
+      ],
+      "response": "ポケットは空なので、そのまま洗濯に出しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "cup-handle",
+      "title": "取っ手を、右のほうに…",
+      "cat": 0,
+      "focus": "相手から見た方向",
+      "person": 3,
+      "setting": "机の上に、取っ手が左を向いたカップがあります。",
+      "utterance": "その取っ手、こっちへ…右のほうだと、いいんだけど。",
+      "plain": "カップの取っ手を、自分の右側に向けてほしいです。",
+      "english": "Please turn the cup handle toward my right side.",
+      "keywords": [
+        "取っ手",
+        "こっち",
+        "右"
+      ],
+      "known": "カップの取っ手を、右のほうに向けてほしい。",
+      "unknown": "誰から見た右か。具体的にどの向きがよいか。",
+      "meaning": "取っ手の向きを変えたいので、本人から見た方向を確かめる。",
+      "clarify": "『取っ手を、昭さんの右側に向けますか？』と聞く。",
+      "reply": "そう、私の右に。こっちだよ。",
+      "response": "昭さんの右側に向けますね。この向きでよいですか？",
+      "report": "カップの取っ手を本人から見て右側に向けてほしいと、方向を確認した。",
+      "variants": [
+        "取っ手を、私の右のほうにしてくれる？",
+        "カップの持つところね。こっち、私の右へ。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "机の上のカップ",
+      "en": "A cup on the table"
+    },
+    "englishRows": [
+      "A cup on the table",
+      "Direction from the other person’s view",
+      "A cup sits on the table with its handle facing left.",
+      "They want the cup handle turned toward the right.",
+      "Whose right they mean, and the exact position they prefer.",
+      "They want the handle turned; check the direction from their view.",
+      "Ask, “Shall I turn the handle toward your right side, Akira?”",
+      "I'll turn it toward your right side. Is this position all right?",
+      "You confirmed that they wanted the handle toward their own right side.",
+      "They want the handle turned toward their left.",
+      "They want the cup removed from the table.",
+      "I'll turn the handle toward your left side."
+    ],
+    "traps": {
+      "listening": [
+        "左",
+        "底"
+      ],
+      "meanings": [
+        "取っ手を本人の左側に向けてほしい。",
+        "カップを机から片づけてほしい。"
+      ],
+      "response": "取っ手を昭さんの左側に向けますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "radio",
+      "title": "まだ消さないで、次まで…",
+      "cat": 0,
+      "focus": "続けたい時間の区切り",
+      "person": 2,
+      "setting": "居間でラジオを聞いています。片づけの時間になりました。",
+      "utterance": "まだ、消さないで。次の番組になるまで、これを。",
+      "plain": "今の番組が終わるまで、ラジオをつけておいてほしいです。",
+      "english": "Please leave the radio on until the current program ends.",
+      "keywords": [
+        "消さないで",
+        "次の番組",
+        "まで"
+      ],
+      "known": "ラジオを今は消さず、次の番組になるまで聞いていたい。",
+      "unknown": "今の番組が終わる時刻。そのあとも聞きたいか。",
+      "meaning": "今の番組が終わるまでは、ラジオを聞き続けたい。",
+      "clarify": "『今の番組が終わるまで、つけておきますか？』と聞く。",
+      "reply": "そう。それが終わったら、消していいわ。",
+      "response": "今の番組が終わるまで、つけておきますね。",
+      "report": "今のラジオ番組が終わるまで聞きたいと希望された。番組が終わったら消してよいと確認した。",
+      "variants": [
+        "この番組だけ、最後まで聞かせてね。",
+        "ラジオ、今のが終わってから消してくれる？"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "ラジオを聞いている途中で",
+      "en": "While listening to the radio"
+    },
+    "englishRows": [
+      "While listening to the radio",
+      "The point when an activity should end",
+      "They are listening to the radio in the lounge. It is time to tidy up.",
+      "They want the radio left on until the next program starts.",
+      "When the current program ends, and whether they want to keep listening afterward.",
+      "They want to keep listening until the current program ends.",
+      "Ask, “Shall I leave it on until this program ends?”",
+      "I'll leave it on until this program ends.",
+      "They wanted to finish the current radio program and confirmed it could be turned off afterward.",
+      "They want the radio switched off immediately.",
+      "They have asked to listen all night.",
+      "I'll switch it off now."
+    ],
+    "traps": {
+      "listening": [
+        "今すぐ",
+        "テレビ"
+      ],
+      "meanings": [
+        "ラジオを今すぐ消してほしい。",
+        "一晩中ラジオを聞きたいと頼んでいる。"
+      ],
+      "response": "ラジオは今、消しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "cushion",
+      "title": "背中の、もうちょっと上に…",
+      "cat": 0,
+      "focus": "省略された物・位置の調整",
+      "person": 0,
+      "setting": "椅子に座っています。背中にクッションがあります。",
+      "utterance": "背中の、もうちょっと…上にあると、楽なんだけど。",
+      "plain": "背中のクッションを、少し上にずらしてほしいです。",
+      "english": "Please move the cushion behind my back a little higher.",
+      "keywords": [
+        "背中",
+        "もうちょっと",
+        "上"
+      ],
+      "known": "背中のあたりにある何かを、もう少し上にしてほしい。",
+      "unknown": "動かしたい物と、どのくらい上にするか。",
+      "meaning": "背中のあたりの物について、位置を調整してほしい。",
+      "clarify": "クッションを示して『このクッションを、少し上にしますか？』と聞く。",
+      "reply": "そう、それ。ほんの少しでいいわ。",
+      "response": "クッションを少し上にしますね。この位置でよいですか？",
+      "report": "背中のクッションを、ほんの少し上にずらしてほしいと確認した。",
+      "variants": [
+        "背中のクッション、少し上にしてもらえる？",
+        "それ、クッションね。もうちょっとだけ上がいいわ。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "椅子でくつろいでいるとき",
+      "en": "Getting comfortable in a chair"
+    },
+    "englishRows": [
+      "Getting comfortable in a chair",
+      "An omitted object and its position",
+      "They are sitting in a chair with a cushion behind their back.",
+      "They want something near their back moved a little higher.",
+      "Which object they mean and how far to move it.",
+      "They want the position of something near their back adjusted.",
+      "Indicate the cushion and ask, “Shall I move this cushion a little higher?”",
+      "I'll move the cushion a little higher. Is this position all right?",
+      "You confirmed that they wanted the back cushion moved just a little higher.",
+      "They want the cushion moved lower.",
+      "They want every cushion removed.",
+      "I'll move the cushion lower."
+    ],
+    "traps": {
+      "listening": [
+        "下",
+        "足元"
+      ],
+      "meanings": [
+        "クッションを下のほうにずらしてほしい。",
+        "クッションをすべて取り除いてほしい。"
+      ],
+      "response": "クッションを下のほうにずらしますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "festival",
+      "title": "店番ばかり、でもあの音は…",
+      "cat": 1,
+      "focus": "思い出の中の好きなこと",
+      "person": 2,
+      "setting": "夏祭りのポスターを一緒に見ています。",
+      "utterance": "お祭りか…昔はね、店番ばかり。でも、あの音は好きだった。",
+      "plain": "昔、店番をしながら聞いた、お祭りの太鼓の音が好きでした。",
+      "english": "I liked hearing the festival drums while I looked after the shop.",
+      "keywords": [
+        "昔",
+        "店番",
+        "音",
+        "好き"
+      ],
+      "known": "昔は祭りのときも店番をしていて、ある音が好きだった。",
+      "unknown": "何の音か。今年の祭りに行きたいか。",
+      "meaning": "昔の店番と、祭りで好きだった音を思い出している。",
+      "clarify": "『好きだったのは、太鼓の音ですか？』と聞く。",
+      "reply": "そう。店の中まで聞こえてね。",
+      "response": "店番をしながら聞いていたんですね。どんなお店でしたか？",
+      "report": "昔、店番をしながら祭りの太鼓を聞くのが好きだったと話された。今年の参加希望は未確認。",
+      "variants": [
+        "お祭りの太鼓ね。店にいても聞こえて、好きだったわ。",
+        "昔は店番でね。太鼓の音を聞くのが楽しみだったの。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "夏祭りのポスターを見て",
+      "en": "Looking at a summer festival poster"
+    },
+    "englishRows": [
+      "Looking at a summer festival poster",
+      "A favorite part of a memory",
+      "You are looking at a summer festival poster together.",
+      "They used to mind the shop during festivals and liked a certain sound.",
+      "Which sound they mean, and whether they want to attend this year.",
+      "They are recalling the shop and a sound they liked at the festival.",
+      "Ask, “Was it the sound of the drums that you liked?”",
+      "You listened while looking after the shop. What kind of shop was it?",
+      "They recalled enjoying festival drums while minding the shop. Whether they want to attend this year is not yet known.",
+      "They have already asked to attend this year’s festival.",
+      "They disliked every sound at the festival.",
+      "I'll arrange for you to attend this year’s festival right away."
+    ],
+    "traps": {
+      "listening": [
+        "今年",
+        "嫌い"
+      ],
+      "meanings": [
+        "今年の祭りに参加したいと、すでに頼んでいる。",
+        "祭りの音は、どれも嫌いだった。"
+      ],
+      "response": "今年のお祭りへの参加を、すぐ手配しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "shogi",
+      "title": "一局…いや、見てるほうが",
+      "cat": 1,
+      "focus": "参加の仕方を選ぶ",
+      "person": 3,
+      "setting": "居間で、ほかの人たちが将棋を始めようとしています。",
+      "utterance": "一局…いや、今日は見てるほうがいいな。みんなのを。",
+      "plain": "今日は自分では将棋を指さず、皆さんの対局を見たいです。",
+      "english": "Today I would like to watch everyone play shogi rather than play myself.",
+      "keywords": [
+        "一局",
+        "いや",
+        "今日は",
+        "見てる"
+      ],
+      "known": "自分で指す話から言い直し、今日は皆の将棋を見たい。",
+      "unknown": "どこから見たいか。別の日に対局したいか。",
+      "meaning": "今日は将棋を指すより、対局を見ることを希望している。",
+      "clarify": "『今日は皆さんの将棋を見たいのですね？』と聞く。",
+      "reply": "うん。今日は見て楽しむよ。",
+      "response": "対局が見やすい席を、一緒に探しましょう。",
+      "report": "今日は自分では将棋を指さず、ほかの人の対局を見て楽しみたいと確認した。",
+      "variants": [
+        "今日は将棋を見せてもらおうかな。指すのはまた今度。",
+        "みんなの対局を見ていたいんだ、今日はね。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "将棋が始まる前に",
+      "en": "Before a game of shogi"
+    },
+    "englishRows": [
+      "Before a game of shogi",
+      "Choosing how to take part",
+      "Other people are about to play shogi in the lounge.",
+      "They changed from playing a game to wanting to watch others today.",
+      "Where they would like to watch from, and whether they want to play another day.",
+      "Today they prefer watching a game to playing.",
+      "Ask, “You would like to watch everyone play today?”",
+      "Let's find a seat where you can see the game well.",
+      "They confirmed that today they wanted to enjoy watching other people play shogi.",
+      "They want to be the first person to play today.",
+      "They want everyone to stop playing shogi.",
+      "You can play the first game. I'll get the pieces ready."
+    ],
+    "traps": {
+      "listening": [
+        "明日",
+        "帰る"
+      ],
+      "meanings": [
+        "今日、最初の対局で自分が指したい。",
+        "皆に将棋をやめてほしい。"
+      ],
+      "response": "最初の対局で指しましょう。駒を用意しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "recipe",
+      "title": "うちのは、もう少し甘くて…",
+      "cat": 1,
+      "focus": "味の比較・家族の思い出",
+      "person": 0,
+      "setting": "料理の雑誌で、煮豆の写真を見ています。",
+      "utterance": "うちのは、もう少し…甘かったねえ。母の味で。",
+      "plain": "母の煮豆は、黒砂糖を使った、もう少し甘い味でした。",
+      "english": "My mother’s simmered beans were a little sweeter. She used brown sugar.",
+      "keywords": [
+        "うちの",
+        "甘かった",
+        "母"
+      ],
+      "known": "家の料理はもう少し甘かったと、母の味を思い出している。",
+      "unknown": "同じ煮豆の話でよいか。どんな材料を使っていたか。",
+      "meaning": "母が作った料理の味を、今見ている料理と比べている。",
+      "clarify": "『お母様の煮豆は、もっと甘かったのですね？』と聞く。",
+      "reply": "ええ。黒砂糖を入れてたの。懐かしいね。",
+      "response": "黒砂糖の煮豆だったんですね。よく作ってくださったのですか？",
+      "report": "雑誌を見て、母の煮豆はもう少し甘く、黒砂糖を使っていたと話された。",
+      "variants": [
+        "母の煮豆はね、黒砂糖でもう少し甘かったの。",
+        "この豆を見ると思い出すわ。母は黒砂糖を使ってたねえ。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "料理の雑誌をめくりながら",
+      "en": "Looking through a cooking magazine"
+    },
+    "englishRows": [
+      "Looking through a cooking magazine",
+      "Comparing flavors and remembering family",
+      "You are looking at a photograph of simmered beans in a cooking magazine.",
+      "They remember their mother’s cooking at home as a little sweeter.",
+      "Whether they mean the same bean dish, and which ingredients were used.",
+      "They are comparing their mother’s cooking with the dish they are looking at.",
+      "Ask, “Your mother’s simmered beans were sweeter?”",
+      "She used brown sugar for the beans. Did she make them often?",
+      "Looking at the magazine, they said their mother’s simmered beans were sweeter and used brown sugar.",
+      "They are asking for sugar to be added to today’s meal.",
+      "They are saying their mother’s cooking was less sweet.",
+      "I'll add sugar to today’s meal."
+    ],
+    "traps": {
+      "listening": [
+        "辛かった",
+        "父"
+      ],
+      "meanings": [
+        "今日の食事に砂糖を足してほしいと頼んでいる。",
+        "母の料理のほうが、甘さが少なかったと話している。"
+      ],
+      "response": "今日の食事に砂糖を足しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "weather-chat",
+      "title": "雨も、畑にはありがたい…",
+      "cat": 1,
+      "focus": "天気の話に込めた思い出",
+      "person": 1,
+      "setting": "窓の外の雨を見ながら、天気の話をしています。",
+      "utterance": "雨もね、たまには…畑にはありがたいんだ。",
+      "plain": "昔育てていた野菜畑には、たまの雨がありがたかったです。",
+      "english": "Occasional rain was welcome for the vegetable patch I used to grow.",
+      "keywords": [
+        "雨",
+        "たまには",
+        "畑",
+        "ありがたい"
+      ],
+      "known": "たまの雨は、畑にとってありがたいと話している。",
+      "unknown": "どの畑の話か。本人が今、何かを育てているか。",
+      "meaning": "雨のよい面を、畑の話として伝えている。",
+      "clarify": "『以前、ご自分で育てていた畑のことですか？』と聞く。",
+      "reply": "そう、野菜を作ってたんだ。雨が降ると、ほっとしたよ。",
+      "response": "野菜を育てていたんですね。どんな野菜でしたか？",
+      "report": "昔育てていた野菜畑を思い出し、たまに雨が降るとほっとしたと話された。",
+      "variants": [
+        "昔の畑はね、たまに雨が降るとありがたかったよ。",
+        "野菜を作ってたころは、雨が待ち遠しい日もあったな。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "雨の日の窓辺で",
+      "en": "By the window on a rainy day"
+    },
+    "englishRows": [
+      "By the window on a rainy day",
+      "A memory within weather talk",
+      "You are talking about the weather while looking at rain outside.",
+      "They say occasional rain is welcome for a field.",
+      "Which field they mean, and whether they are growing anything now.",
+      "They are sharing a positive view of rain in relation to a field.",
+      "Ask, “Do you mean the field you used to grow yourself?”",
+      "You grew vegetables. What kinds did you grow?",
+      "They recalled their old vegetable patch and said they felt relieved when rain came now and then.",
+      "They are asking to go out in the rain now.",
+      "They are certain that it will rain tomorrow.",
+      "Let's go out to the field in the rain now."
+    ],
+    "traps": {
+      "listening": [
+        "明日",
+        "海"
+      ],
+      "meanings": [
+        "今、雨の中を外へ出たいと頼んでいる。",
+        "明日は必ず雨が降ると伝えている。"
+      ],
+      "response": "今から雨の中、畑へ出かけましょう。"
+    }
+  },
+  {
+    "seed": {
+      "id": "craft",
+      "title": "色はいいね、折るのは今日は…",
+      "cat": 1,
+      "focus": "一部への関心・穏やかな見送り",
+      "person": 0,
+      "setting": "折り紙の時間。何枚かの紙を一緒に見ています。",
+      "utterance": "これ、色はいいね。折るのは…今日はやめとこうかな。",
+      "plain": "今日は折らずに、次に使う紙を選びたいです。",
+      "english": "Today I would like to choose paper for next time without folding.",
+      "keywords": [
+        "色",
+        "折る",
+        "今日は",
+        "やめとこう"
+      ],
+      "known": "紙の色は気に入っているが、今日は折るのを見送りたい様子。",
+      "unknown": "紙選びは続けたいか。別の日には折りたいか。",
+      "meaning": "色への関心はあるが、今日は折ることを控えたいと伝えている。",
+      "clarify": "『今日は折らずに、紙を見るだけにしますか？』と聞く。",
+      "reply": "うん。次に使う紙だけ、選んでおこうかな。",
+      "response": "今日は紙選びにしましょう。気になる色を教えてください。",
+      "report": "今日は折らず、次に使う紙を選びたいと希望された。",
+      "variants": [
+        "今日は折るのはお休み。次の紙を選びたいわ。",
+        "この色、いいね。今日は紙選びだけにしようかな。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "折り紙の色を見ながら",
+      "en": "Looking at paper for a craft activity"
+    },
+    "englishRows": [
+      "Looking at paper for a craft activity",
+      "Interest in one part and a gentle pause",
+      "During a craft activity, you are looking at several sheets of paper together.",
+      "They like the color but seem to prefer not to fold today.",
+      "Whether they want to keep choosing paper and whether they want to fold another day.",
+      "They show interest in the color but prefer not to fold paper today.",
+      "Ask, “Would you like to just look at paper today without folding?”",
+      "Let's choose paper today. Please tell me which colors interest you.",
+      "They wanted to choose paper for next time without folding today.",
+      "They are refusing every future craft activity.",
+      "They want to start folding immediately.",
+      "Let's start folding now with this paper."
+    ],
+    "traps": {
+      "listening": [
+        "明日",
+        "切る"
+      ],
+      "meanings": [
+        "これからの折り紙を、すべて断っている。",
+        "今すぐ折り始めたいと希望している。"
+      ],
+      "response": "今から、この紙で折り始めましょう。"
+    }
+  },
+  {
+    "seed": {
+      "id": "pet-memory",
+      "title": "うちにいた子に、似てる…",
+      "cat": 1,
+      "focus": "親しみのある呼び方",
+      "person": 2,
+      "setting": "動物の雑誌で、猫の写真を見ています。",
+      "utterance": "似てるわねえ…うちにいた子に。耳のところが。",
+      "plain": "写真の猫は、昔一緒に暮らしたミケという猫に、耳のところが似ています。",
+      "english": "The cat in the picture has ears like Mi-ke, the cat I used to live with.",
+      "keywords": [
+        "似てる",
+        "うちにいた",
+        "耳"
+      ],
+      "known": "写真を見て、以前家にいた「子」と耳が似ていると話している。",
+      "unknown": "「子」が誰や何を指すか。名前や、一緒に暮らしていた時期。",
+      "meaning": "写真をきっかけに、以前家にいた「子」を思い出している。",
+      "clarify": "『昔、一緒に暮らした猫に似ていますか？』と聞く。",
+      "reply": "そう、ミケって呼んでたの。耳がそっくり。",
+      "response": "ミケという猫だったんですね。どんな性格でしたか？",
+      "report": "写真の猫の耳を見て、昔一緒に暮らしたミケという猫に似ていると話された。",
+      "variants": [
+        "この猫の耳、昔のミケにそっくりだわ。",
+        "うちにいた猫、ミケっていうの。この子と耳が似てるね。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "動物の写真を見て",
+      "en": "Looking at an animal photograph"
+    },
+    "englishRows": [
+      "Looking at an animal photograph",
+      "An affectionate way of referring to someone",
+      "You are looking at a cat photograph in an animal magazine.",
+      "The picture reminds them of someone once at home with similar ears.",
+      "Who or what “the one at home” refers to, their name, and when they lived together.",
+      "The picture has brought back a memory of someone once at home.",
+      "Ask, “Does it look like a cat you used to live with?”",
+      "The cat was called Mi-ke. What was its personality like?",
+      "The cat’s ears in the picture reminded them of Mi-ke, a cat they used to live with.",
+      "They want to get a new cat immediately.",
+      "They are reporting that a cat has just gone missing.",
+      "I'll arrange for you to get a new cat."
+    ],
+    "traps": {
+      "listening": [
+        "今いる",
+        "足"
+      ],
+      "meanings": [
+        "今すぐ新しい猫を飼いたいと希望している。",
+        "今、猫がいなくなったと知らせている。"
+      ],
+      "response": "新しい猫を飼う手配をしますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "appointment",
+      "title": "水曜…いや、木曜だったかな",
+      "cat": 2,
+      "focus": "言い直しと不確かな予定",
+      "person": 3,
+      "setting": "散髪の予定について話しています。予定表はまだ確認していません。",
+      "utterance": "水曜…いや、木曜だったかな。散髪、確かめてくれる？",
+      "plain": "散髪の予定が木曜日か、確認してほしいです。",
+      "english": "Please check whether my haircut is scheduled for Thursday.",
+      "keywords": [
+        "水曜",
+        "いや",
+        "木曜",
+        "確かめて"
+      ],
+      "known": "散髪の日を水曜から木曜へ言い直したが、自信がなく確認を求めている。",
+      "unknown": "散髪の実際の曜日と時刻。",
+      "meaning": "散髪が木曜日かを確認してほしい。木曜日と確定したわけではない。",
+      "clarify": "『散髪が木曜日か、予定を確認したいのですね？』と聞く。",
+      "reply": "うん、日があやふやでね。見てもらえる？",
+      "response": "予定表で散髪の日を確認して、お伝えしますね。",
+      "report": "散髪の日を水曜から木曜へ言い直されたが、記憶があやふやとのこと。実際の日程は未確認で、予定表を確認すると伝えた。",
+      "variants": [
+        "散髪、木曜日だったかな。予定を見てくれる？",
+        "水曜じゃなくて木曜かもしれん。散髪の日を確かめたいんだ。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "散髪の予定を確かめるとき",
+      "en": "Checking a haircut appointment"
+    },
+    "englishRows": [
+      "Checking a haircut appointment",
+      "A correction with an uncertain schedule",
+      "You are talking about a haircut appointment. The schedule has not been checked.",
+      "They changed Wednesday to Thursday but are unsure and want the date checked.",
+      "The actual day and time of the haircut.",
+      "They want to check whether the haircut is on Thursday; Thursday is not yet confirmed.",
+      "Ask, “You would like me to check whether your haircut is on Thursday?”",
+      "I'll check the day on the schedule and tell you.",
+      "They changed Wednesday to Thursday but said their memory was unclear. The schedule was still unconfirmed; you said you would check it.",
+      "The haircut is definitely on Thursday.",
+      "They want the haircut appointment canceled.",
+      "Your haircut is definitely on Thursday. There is no need to check."
+    ],
+    "traps": {
+      "listening": [
+        "金曜",
+        "買い物"
+      ],
+      "meanings": [
+        "散髪は木曜日にあると確定している。",
+        "散髪の予定を取り消してほしい。"
+      ],
+      "response": "散髪は必ず木曜日です。確認しなくて大丈夫です。"
+    }
+  },
+  {
+    "seed": {
+      "id": "visit-time",
+      "title": "二時…じゃなくて三時って",
+      "cat": 2,
+      "focus": "時刻の訂正・伝聞",
+      "person": 2,
+      "setting": "今日の家族の訪問について話しています。職員は予定をまだ確認していません。",
+      "utterance": "妹が来るの、二時…じゃなくて三時って。今日のね。",
+      "plain": "妹が今日の午後三時に来ると、昨日の電話で聞きました。",
+      "english": "My sister told me on the phone yesterday that she would come today at three in the afternoon.",
+      "keywords": [
+        "妹",
+        "二時",
+        "じゃなくて",
+        "三時",
+        "今日"
+      ],
+      "known": "妹が今日来る時刻について、二時から三時へ訂正して伝えている。",
+      "unknown": "午前か午後か。訪問予定が職員側でも確認できているか。",
+      "meaning": "本人は、妹が今日三時に来ると聞いたと話している。",
+      "clarify": "『妹さんは、今日の午後三時に来ると聞いたのですね？』と聞く。",
+      "reply": "そう、午後三時。昨日の電話で言ってたわ。",
+      "response": "午後三時と聞いたのですね。担当職員にも予定を確認します。",
+      "report": "妹が今日の午後三時に来ると、昨日の電話で聞いたと本人から話があった。職員側での予定確認はまだ。",
+      "variants": [
+        "妹は今日の午後三時だって。二時じゃなくてね。",
+        "昨日、電話でね。妹が今日の三時、午後に来るって。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "今日の訪問時刻の話",
+      "en": "Talking about today’s visiting time"
+    },
+    "englishRows": [
+      "Talking about today’s visiting time",
+      "Correcting a time and reporting what was heard",
+      "You are talking about a family visit today. Staff have not checked the plan yet.",
+      "They corrected their sister’s visiting time today from two to three.",
+      "Whether they mean morning or afternoon, and whether staff have confirmed the visit.",
+      "They say they heard their sister would come today at three.",
+      "Ask, “You heard your sister would come today at three in the afternoon?”",
+      "You heard three in the afternoon. I will also check the plan with the responsible staff member.",
+      "They said their sister had told them by phone yesterday that she would come today at three in the afternoon. Staff confirmation is still pending.",
+      "They say their sister is coming today at two.",
+      "Staff have already confirmed that the sister’s visit will definitely happen.",
+      "Staff have confirmed your sister will definitely be here at three."
+    ],
+    "traps": {
+      "listening": [
+        "明日",
+        "四時"
+      ],
+      "meanings": [
+        "妹は今日の二時に来ると言っている。",
+        "妹の訪問は、職員側でも実施が確定している。"
+      ],
+      "response": "職員側でも確認済みなので、妹さんは必ず三時に来ます。"
+    }
+  },
+  {
+    "seed": {
+      "id": "phone-who",
+      "title": "兄…じゃない、弟に。夕方ね",
+      "cat": 2,
+      "focus": "相手の訂正・希望する時間",
+      "person": 1,
+      "setting": "家族への電話について話しています。",
+      "utterance": "兄…じゃない、弟に電話。今じゃなくて、夕方。",
+      "plain": "兄ではなく弟に、夕食のあとで電話をかけたいです。",
+      "english": "I would like to call my younger brother after dinner, not my older brother.",
+      "keywords": [
+        "兄",
+        "じゃない",
+        "弟",
+        "夕方"
+      ],
+      "known": "電話の相手を兄から弟へ訂正した。今ではなく夕方がよい。",
+      "unknown": "夕方の具体的な時間。電話にどんな手伝いが必要か。",
+      "meaning": "弟に、今ではなく夕方に電話したい。",
+      "clarify": "『弟さんへの電話は、夕方のいつごろがよいですか？』と聞く。",
+      "reply": "夕食のあとならいいな。番号を出すのを手伝って。",
+      "response": "夕食のあとに弟さんへ電話ですね。番号を出すお手伝いをします。",
+      "report": "電話の相手は兄ではなく弟。夕食後を希望され、番号を出す手伝いを頼まれた。",
+      "variants": [
+        "弟に電話したいんだ。夕食のあと、番号を出すのを頼むよ。",
+        "兄じゃなくて弟へね。ごはんのあとに電話したい。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "家族へ電話する時間",
+      "en": "Choosing when to call family"
+    },
+    "englishRows": [
+      "Choosing when to call family",
+      "Correcting the person and choosing a time",
+      "You are talking about a phone call to family.",
+      "They corrected older brother to younger brother and prefer the evening to now.",
+      "The exact time in the evening and what help they need with the call.",
+      "They want to call their younger brother in the evening, not now.",
+      "Ask, “When in the evening would you like to call your younger brother?”",
+      "A call to your younger brother after dinner. I will help you find the number.",
+      "They wanted to call their younger brother, not their older brother, after dinner and asked for help finding the number.",
+      "They want to call their older brother this evening.",
+      "They want to call their younger brother immediately.",
+      "I'll call your older brother right now."
+    ],
+    "traps": {
+      "listening": [
+        "姉",
+        "朝"
+      ],
+      "meanings": [
+        "夕方に兄へ電話したい。",
+        "今すぐ弟へ電話したい。"
+      ],
+      "response": "今すぐ、お兄さんに電話しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "return-book",
+      "title": "今日…いや、明日でもいい？",
+      "cat": 2,
+      "focus": "希望と決まった期限を分ける",
+      "person": 3,
+      "setting": "借りている本を持っています。返却期限はまだ確認していません。",
+      "utterance": "返すの、今日…いや、明日でもいい？まだ最後まで、読んでなくて。",
+      "plain": "本をまだ読み終えていないので、明日返してもよいか確かめたいです。",
+      "english": "I have not finished the book. I would like to check whether I can return it tomorrow.",
+      "keywords": [
+        "返す",
+        "今日",
+        "明日",
+        "読んでなくて"
+      ],
+      "known": "本をまだ読み終えておらず、明日の返却でもよいか尋ねている。",
+      "unknown": "実際の返却期限。明日まで借りられるか。",
+      "meaning": "明日返せるか尋ねている。返却日が変更できたわけではない。",
+      "clarify": "『この本を、明日返してもよいか確かめたいのですね？』と聞く。",
+      "reply": "うん。まだ少し残ってるから。",
+      "response": "明日まで借りられるか、担当職員に確認しますね。",
+      "report": "本を読み終えていないため、明日返却してよいか確認したいと話された。返却期限と延長の可否は未確認。",
+      "variants": [
+        "本、明日返してもいいかな。まだ読み終わらなくて。",
+        "最後まで読みたいんだ。返すのを明日にできるか、聞いてくれる？"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "借りた本の返却前に",
+      "en": "Before returning a borrowed book"
+    },
+    "englishRows": [
+      "Before returning a borrowed book",
+      "A request and an agreed deadline",
+      "They are holding a borrowed book. The return deadline has not been checked.",
+      "They have not finished the book and ask whether returning it tomorrow is possible.",
+      "The actual return deadline and whether they may keep it until tomorrow.",
+      "They are asking to return it tomorrow; the date has not yet been changed.",
+      "Ask, “You would like to check whether you can return this book tomorrow?”",
+      "I'll ask the responsible staff member whether you can keep it until tomorrow.",
+      "They had not finished the book and wanted to check whether they could return it tomorrow. The deadline and permission to extend were unconfirmed.",
+      "Returning the book tomorrow has already been approved.",
+      "They have finished the book and want to return it now.",
+      "You can definitely keep it until tomorrow. No need to ask."
+    ],
+    "traps": {
+      "listening": [
+        "昨日",
+        "読み終わった"
+      ],
+      "meanings": [
+        "明日の返却が、すでに認められている。",
+        "本を読み終えたので、今すぐ返したい。"
+      ],
+      "response": "確認しなくても、必ず明日まで借りられますよ。"
+    }
+  },
+  {
+    "seed": {
+      "id": "towel-colour",
+      "title": "赤…じゃなくて、白いほう",
+      "cat": 2,
+      "focus": "色の訂正・大きさの指定",
+      "person": 0,
+      "setting": "棚に、色と大きさの違うタオルが並んでいます。",
+      "utterance": "赤…じゃなくて、白いタオル。小さいほうを、お願い。",
+      "plain": "赤いタオルではなく、小さい白いタオルを取ってほしいです。",
+      "english": "Please get the small white towel, not the red one.",
+      "keywords": [
+        "赤",
+        "じゃなくて",
+        "白い",
+        "小さい"
+      ],
+      "known": "赤から白へ訂正し、小さいタオルを求めている。",
+      "unknown": "棚のどの一枚でよいか。",
+      "meaning": "小さい白いタオルを希望している。",
+      "clarify": "小さい白いタオルを見せて『こちらのタオルですか？』と聞く。",
+      "reply": "そう、それでいいわ。",
+      "response": "この小さい白いタオルを、お渡ししますね。",
+      "report": "赤から白へ言い直され、小さい白いタオルでよいと現物を見せて確認した。",
+      "variants": [
+        "白いタオルの、小さいのを取ってくれる？",
+        "赤じゃなくて白ね。大きいのではなく、小さいほう。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "棚からタオルを選ぶとき",
+      "en": "Choosing a towel from the shelf"
+    },
+    "englishRows": [
+      "Choosing a towel from the shelf",
+      "Correcting a color and specifying size",
+      "Towels in different colors and sizes are on the shelf.",
+      "They corrected red to white and asked for a small towel.",
+      "Which exact towel on the shelf they want.",
+      "They want a small white towel.",
+      "Show the small white towel and ask, “Is this the towel?”",
+      "I'll give you this small white towel.",
+      "They corrected red to white. Showing the small white towel confirmed the exact item.",
+      "They want a small red towel.",
+      "They want a large white towel.",
+      "I'll give you the small red towel."
+    ],
+    "traps": {
+      "listening": [
+        "黒い",
+        "大きい"
+      ],
+      "meanings": [
+        "小さい赤いタオルを希望している。",
+        "大きい白いタオルを希望している。"
+      ],
+      "response": "小さい赤いタオルをお渡ししますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "after-tea",
+      "title": "手紙は、お茶が済んでから",
+      "cat": 2,
+      "focus": "する時間・今の置き場所",
+      "person": 0,
+      "setting": "手紙が届きました。机の上にはお茶があります。",
+      "utterance": "手紙、読むのは…お茶が済んでから。今はそこに、置いといて。",
+      "plain": "手紙は今は机に置いておき、お茶のあとで一緒に読んでほしいです。",
+      "english": "Please leave the letter on the table now and read it with me after tea.",
+      "keywords": [
+        "手紙",
+        "読む",
+        "済んでから",
+        "置いといて"
+      ],
+      "known": "手紙を読むのはお茶のあとがよく、今は置いておいてほしい。",
+      "unknown": "「そこ」がどこか。読むときに手伝いが必要か。",
+      "meaning": "今は手紙を置いておき、お茶が済んでから読みたい。",
+      "clarify": "机を指して『手紙は、この机に置いておきますか？』と聞く。",
+      "reply": "ええ、そこに。お茶のあと、一緒に読んでね。",
+      "response": "机に置いておきますね。お茶のあと、一緒に読みましょう。",
+      "report": "手紙は机に置いておき、お茶のあとで一緒に読みたいと確認した。",
+      "variants": [
+        "手紙は机に置いてね。お茶が終わったら、一緒に読んで。",
+        "今はお茶をいただくわ。手紙を読むのは、そのあとでお願い。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "お茶の時間に届いた手紙",
+      "en": "A letter arriving at tea time"
+    },
+    "englishRows": [
+      "A letter arriving at tea time",
+      "When to act and where to leave something",
+      "A letter has arrived. There is tea on the table.",
+      "They want to read the letter after tea and have it put down for now.",
+      "Where “there” means and whether they want help reading.",
+      "They want the letter put down now and to read it after tea.",
+      "Point to the table and ask, “Shall I leave the letter on this table?”",
+      "I'll leave it on the table. Let's read it together after tea.",
+      "They confirmed that the letter should stay on the table and that they wanted to read it together after tea.",
+      "They want the letter read aloud right now.",
+      "They want the letter thrown away without reading it.",
+      "I'll read the letter aloud now."
+    ],
+    "traps": {
+      "listening": [
+        "お茶の前",
+        "捨てて"
+      ],
+      "meanings": [
+        "今すぐ手紙を読み上げてほしい。",
+        "手紙を読まずに捨ててほしい。"
+      ],
+      "response": "今すぐ手紙を読み上げますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "missing-item",
+      "title": "手帳が、いつもの引き出しに…",
+      "cat": 3,
+      "focus": "見つからない事実と推測",
+      "person": 1,
+      "setting": "本人が、机の引き出しを見ています。",
+      "utterance": "手帳が…いつもの引き出しに、ないんだ。誰か、動かしたかな。",
+      "plain": "昨日、引き出しで見た手帳が今は見つからないので、一緒に探してほしいです。",
+      "english": "I cannot find the notebook I saw in the drawer yesterday. Please help me look for it.",
+      "keywords": [
+        "手帳",
+        "引き出し",
+        "ない",
+        "動かしたかな"
+      ],
+      "known": "手帳がいつもの引き出しで見つからず、誰かが動かしたのかと考えている。",
+      "unknown": "手帳の今の場所。誰かが実際に動かしたか。最後に見た時刻。",
+      "meaning": "手帳が見つからない。誰かが動かしたかは、まだわからない。",
+      "clarify": "『最後に手帳を見たのも、この引き出しですか？』と聞く。",
+      "reply": "そう、昨日ここで見たんだ。一緒に探してくれる？",
+      "response": "この引き出しのまわりから、一緒に探しましょう。",
+      "report": "手帳がいつもの引き出しで見つからないと話された。最後に見たのは昨日、この引き出し。現在の場所と移動の有無は未確認。",
+      "variants": [
+        "昨日ここにあった手帳が見つからないんだ。一緒に見てくれる？",
+        "いつもの引き出しなんだけど、手帳がなくてね。最後に見たのは昨日だよ。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "手帳を探しているとき",
+      "en": "Looking for a notebook"
+    },
+    "englishRows": [
+      "Looking for a notebook",
+      "A missing item and a possible explanation",
+      "They are looking in a desk drawer.",
+      "They cannot find their notebook in its usual drawer and wonder whether someone moved it.",
+      "Its current location, whether anyone moved it, and when they last saw it.",
+      "The notebook is missing from its usual place; it is not known whether anyone moved it.",
+      "Ask, “Was this drawer also the last place you saw your notebook?”",
+      "Let's look around this drawer together first.",
+      "They could not find the notebook in its usual drawer. They last saw it there yesterday. Its current location and whether it was moved remain unknown.",
+      "A staff member definitely moved the notebook.",
+      "They have said they threw the notebook away.",
+      "A staff member must have moved it. I'll report that as a fact."
+    ],
+    "traps": {
+      "listening": [
+        "財布",
+        "今日"
+      ],
+      "meanings": [
+        "職員が手帳を動かしたと確定している。",
+        "本人が手帳を捨てたと話している。"
+      ],
+      "response": "職員が動かしたのですね。その事実を伝えます。"
+    }
+  },
+  {
+    "seed": {
+      "id": "privacy",
+      "title": "その話、ここでは…",
+      "cat": 3,
+      "focus": "話す場所への希望",
+      "person": 0,
+      "setting": "ほかの人もいる居間で、本人への連絡事項を話し始めたところです。",
+      "utterance": "その話、ここでは…ほかの人に聞こえるからね。",
+      "plain": "ほかの人に聞こえないよう、隣の小部屋で話を続けたいです。",
+      "english": "I would like to continue our conversation in the small room next door so other people cannot hear.",
+      "keywords": [
+        "その話",
+        "ここでは",
+        "聞こえる"
+      ],
+      "known": "ほかの人に聞こえることが気になり、ここで話すのをためらっている。",
+      "unknown": "別の場所で続けたいか。どの場所を希望するか。",
+      "meaning": "今の場所では話しにくいと伝えている。",
+      "clarify": "『ほかの人がいない場所で、お話ししますか？』と聞く。",
+      "reply": "ええ、隣の小部屋がいいわ。そこで続けましょう。",
+      "response": "隣の小部屋が使えるか、確認しますね。",
+      "report": "ほかの人に聞こえない場所で会話を続けたいと希望された。隣の小部屋を希望されているが、利用できるかは未確認。",
+      "variants": [
+        "ここだと聞こえるから、隣の小部屋で話したいわ。",
+        "その続き、ほかの人がいない所でね。隣の小部屋はどうかしら。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "人のいる居間で話すとき",
+      "en": "Talking in a shared lounge"
+    },
+    "englishRows": [
+      "Talking in a shared lounge",
+      "A preference about where to talk",
+      "You have begun sharing information with them in a lounge where other people are present.",
+      "They are concerned that others can hear and hesitate to talk here.",
+      "Whether they want to continue elsewhere, and which place they prefer.",
+      "They are saying it is difficult to talk in the current place.",
+      "Ask, “Would you like to talk somewhere without other people?”",
+      "I'll check whether the small room next door is available.",
+      "They wanted to continue where others could not hear, preferably in the small room next door. Its availability was not yet checked.",
+      "They want you to speak louder so everyone can hear.",
+      "They do not want to discuss the matter anywhere.",
+      "I'll speak louder and continue here."
+    ],
+    "traps": {
+      "listening": [
+        "見える",
+        "大きな声"
+      ],
+      "meanings": [
+        "皆にも聞こえるよう、大きな声で話してほしい。",
+        "どこでも、この話をしたくないと決めている。"
+      ],
+      "response": "ここで声を大きくして、話を続けますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "night-light",
+      "title": "夜、小さい明かりを…",
+      "cat": 3,
+      "focus": "明かりの場所・職員への共有",
+      "person": 3,
+      "setting": "部屋で夜の過ごし方を話しています。ベッドのそばと入口に小さな照明があります。",
+      "utterance": "夜、あそこが暗くてね。小さい明かり、つけとけないかな。",
+      "plain": "夜、寝るときも、ベッドのそばの小さな明かりをつけておきたいです。",
+      "english": "I would like the small light beside my bed left on at night, even when I sleep.",
+      "keywords": [
+        "夜",
+        "暗くて",
+        "小さい明かり"
+      ],
+      "known": "夜の暗さが気になり、小さな明かりをつけておきたい。",
+      "unknown": "どの照明か。寝るときもつけておきたいか。",
+      "meaning": "夜に小さな明かりをつけておきたいので、場所を確認する。",
+      "clarify": "ベッドのそばを指して『この明かりをつけておきたいのですか？』と聞く。",
+      "reply": "そう。寝るときも、これだけはね。",
+      "response": "この明かりを夜もつけておきたいと、担当職員に伝えますね。",
+      "report": "夜、寝るときもベッドのそばの小さな照明をつけておきたいと希望された。担当職員へ希望を伝えると説明した。",
+      "variants": [
+        "ベッドの横の明かり、寝るときもつけておきたいな。",
+        "夜は、そこの小さい明かりだけ、消さずにおけるかな。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "部屋の夜の明かり",
+      "en": "Lighting the room at night"
+    },
+    "englishRows": [
+      "Lighting the room at night",
+      "The location of a light and sharing a request",
+      "You are talking about nights in the room. There are small lights by the bed and the entrance.",
+      "The darkness at night bothers them and they would like a small light left on.",
+      "Which light they mean, and whether they want it left on while sleeping.",
+      "They want a small light on at night; check its location.",
+      "Point beside the bed and ask, “Is this the light you want left on?”",
+      "I'll tell the responsible staff member that you would like this light left on at night.",
+      "They wanted the small bedside light left on at night, including while sleeping. You explained that you would pass on the request.",
+      "They want every light in the room on all night.",
+      "They want the small light switched off at bedtime.",
+      "I'll tell the staff to turn off the bedside light when you go to sleep."
+    ],
+    "traps": {
+      "listening": [
+        "昼",
+        "大きい"
+      ],
+      "meanings": [
+        "部屋の照明を全部、一晩中つけてほしい。",
+        "寝るときには小さな明かりも消してほしい。"
+      ],
+      "response": "寝るときはベッドのそばの明かりを消すよう、職員に伝えますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "slowly",
+      "title": "最後のところ、もう少しゆっくり…",
+      "cat": 3,
+      "focus": "説明の速さ・聞き直す範囲",
+      "person": 2,
+      "setting": "手芸の集合場所は、今いる居間です。集合の時間と場所を続けて説明したところです。",
+      "utterance": "もう少し、ゆっくり…最後のところ、追いつかなくて。",
+      "plain": "手芸の集合場所だけ、もう一度ゆっくり説明してほしいです。",
+      "english": "Please explain just the meeting place for the craft activity again, more slowly.",
+      "keywords": [
+        "ゆっくり",
+        "最後",
+        "追いつかなくて"
+      ],
+      "known": "最後の説明についていけず、もっとゆっくり話してほしい。",
+      "unknown": "最後のどの部分を聞き直したいか。",
+      "meaning": "最後の部分を、ゆっくり説明し直してほしい。",
+      "clarify": "『集合場所の説明を、ゆっくりもう一度でよいですか？』と聞く。",
+      "reply": "ええ、場所だけ、もう一度お願い。",
+      "response": "集合場所は、居間です。今いる、この部屋です。",
+      "report": "説明の最後についていけなかったと話された。集合場所だけを、ゆっくりもう一度説明してほしいと確認した。",
+      "variants": [
+        "集まる場所のところだけ、ゆっくり言ってもらえる？",
+        "時間はわかったわ。場所をもう一度、ゆっくりお願い。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "集まりの場所を説明したあと",
+      "en": "After explaining a meeting place"
+    },
+    "englishRows": [
+      "After explaining a meeting place",
+      "The pace and the part to repeat",
+      "The craft group meets in this lounge. You have just explained the time and place in one go.",
+      "They could not follow the last part and want you to speak more slowly.",
+      "Which part of the final explanation they want repeated.",
+      "They want the last part explained again slowly.",
+      "Ask, “Would you like me to explain the meeting place again slowly?”",
+      "The meeting place is the lounge. This room, where we are now.",
+      "They could not follow the end of the explanation. You confirmed that they wanted only the meeting place repeated slowly.",
+      "They want the entire explanation repeated faster.",
+      "They want to cancel the craft activity.",
+      "I'll repeat everything at the same speed."
+    ],
+    "traps": {
+      "listening": [
+        "最初",
+        "早く"
+      ],
+      "meanings": [
+        "説明全体を、もっと速く繰り返してほしい。",
+        "手芸の集まりを中止してほしい。"
+      ],
+      "response": "全部を同じ速さで、もう一度説明しますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "noise",
+      "title": "隣の音が…本を読みたいんだけど",
+      "cat": 3,
+      "focus": "遠回しな困りごと・共有場所",
+      "person": 1,
+      "setting": "居間で本を開いています。隣の席の近くでラジオが流れ、人の話し声もします。",
+      "utterance": "隣の音が…いま、ちょっとね。本を読みたいんだけど。",
+      "plain": "本を読みたいので、ラジオの音を少し小さくしてもらいたいです。",
+      "english": "I would like the radio volume lowered a little so I can read.",
+      "keywords": [
+        "隣",
+        "音",
+        "いま",
+        "本"
+      ],
+      "known": "今、本を読みたいが、隣のほうの音が気になっている。",
+      "unknown": "ラジオか話し声か。どんな調整を希望しているか。",
+      "meaning": "読書中の音が気になっているので、音の種類と希望を確認する。",
+      "clarify": "『ラジオの音が気になりますか？』と聞く。",
+      "reply": "うん。少し小さくしてもらえると、ありがたい。",
+      "response": "音を少し下げられるか、担当職員に相談しますね。",
+      "report": "本を読むため、ラジオの音を少し下げてほしいと確認した。担当職員に相談すると伝え、音量の変更はまだ行っていない。",
+      "variants": [
+        "本を読みたいから、ラジオを少し小さくしてもらえるかな。",
+        "隣のラジオね。消さなくていいから、音を少し下げてほしいな。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "読書中の居間で",
+      "en": "Reading in the lounge"
+    },
+    "englishRows": [
+      "Reading in the lounge",
+      "An indirect concern in a shared space",
+      "They have a book open in the lounge. A radio plays near the next seat, and people are also talking.",
+      "They want to read now, but sound from nearby bothers them.",
+      "Whether they mean the radio or voices, and what change they want.",
+      "Sound is disturbing their reading; check the sound and the change they want.",
+      "Ask, “Is it the radio sound that bothers you?”",
+      "I'll ask the responsible staff member whether the volume can be lowered a little.",
+      "They wanted the radio lowered a little so they could read. You said you would ask staff; the volume had not yet been changed.",
+      "They want the radio turned up to hear it clearly.",
+      "They have asked everyone to leave the lounge.",
+      "I'll turn up the radio so you can hear it."
+    ],
+    "traps": {
+      "listening": [
+        "大きく",
+        "新聞"
+      ],
+      "meanings": [
+        "ラジオをよく聞くため、音を大きくしてほしい。",
+        "居間にいる人全員に、出ていってほしいと頼んでいる。"
+      ],
+      "response": "よく聞こえるように、ラジオの音を大きくしますね。"
+    }
+  },
+  {
+    "seed": {
+      "id": "staff-message",
+      "title": "さっきの職員さんに、明日の碁を…",
+      "cat": 3,
+      "focus": "伝言の内容・相手の確認",
+      "person": 3,
+      "setting": "居間で、さきほど話した職員への頼みごとを伝えています。",
+      "utterance": "さっきの職員さんに…碁の時間、聞いといて。明日のね。",
+      "plain": "職員の田中さんに、明日の囲碁の開始時間を確かめてほしいです。",
+      "english": "Please ask Tanaka, the staff member, what time tomorrow’s go game starts.",
+      "keywords": [
+        "職員さん",
+        "碁",
+        "時間",
+        "明日"
+      ],
+      "known": "さきほどの職員に、明日の囲碁の時間を尋ねてほしい。",
+      "unknown": "職員が誰か。開始と終了のどちらの時間か。実際の時刻。",
+      "meaning": "明日の囲碁の時間を、職員に確認してほしい。",
+      "clarify": "『明日の囲碁の、開始時間を知りたいのですね？』と聞く。",
+      "reply": "そう。田中さんに、お願い。何時からかね。",
+      "response": "田中さんに明日の開始時間を確認して、お伝えしますね。",
+      "report": "明日の囲碁の開始時間を、職員の田中さんに確認してほしいと希望された。開始時刻そのものは、まだ確認していない。",
+      "variants": [
+        "明日の碁、何時からか田中さんに聞いてくれる？",
+        "田中さんに、明日の囲碁の始まる時間を確かめてほしいんだ。"
+      ]
+    },
+    "sceneTitle": {
+      "ja": "集まりの時間を職員に確かめたいとき",
+      "en": "Asking staff about an activity time"
+    },
+    "englishRows": [
+      "Asking staff about an activity time",
+      "The message and the person to ask",
+      "In the lounge, they have a request for a staff member they spoke with earlier.",
+      "They want the earlier staff member asked about the time of tomorrow’s go game.",
+      "Which staff member, whether they mean the start or end, and the actual time.",
+      "They want a staff member to check the time of tomorrow’s go game.",
+      "Ask, “You would like to know the starting time of tomorrow’s go game?”",
+      "I'll ask Tanaka what time it starts tomorrow and tell you.",
+      "They wanted staff member Tanaka asked about the start of tomorrow’s go game. The actual starting time has not yet been checked.",
+      "They want tomorrow’s go game canceled.",
+      "They are asking what time today’s go game ends.",
+      "I'll tell Tanaka to cancel tomorrow’s go game."
+    ],
+    "traps": {
+      "listening": [
+        "今日",
+        "将棋"
+      ],
+      "meanings": [
+        "明日の囲碁を中止してほしい。",
+        "今日の囲碁が終わる時間を尋ねている。"
+      ],
+      "response": "明日の囲碁を中止するよう、田中さんに伝えますね。"
+    }
+  }
+]

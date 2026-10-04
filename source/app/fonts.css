@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Noto Sans Myanmar';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../../fonts/noto-myanmar-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Myanmar';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../../fonts/noto-myanmar-600.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Sinhala';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../../fonts/noto-sinhala-400.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Sinhala';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../../fonts/noto-sinhala-600.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Fraunces';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../../fonts/fraunces-600-italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../../fonts/fraunces-600.ttf) format('truetype');
+}
