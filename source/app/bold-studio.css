@@ -88,3 +88,8 @@ body{background:#17222b;color:#efc399;font-family:"Aptos","Segoe UI",system-ui,"
 /* A direct index keeps the expanded conversation collection easy to reach. */
 .dialogue-picker{flex:0 0 280px;max-width:340px;min-width:0}.dialogue-picker label{display:block;color:#efc399!important}.dialogue-picker [data-slot=select-trigger]{width:100%;text-align:left}.dialogue-page .page-heading{flex-wrap:wrap}.dialogue-page .page-heading>div:first-child{flex:1 1 480px}
 @media(max-width:600px){.dialogue-picker{flex:1 1 100%;max-width:none}.dialogue-page .page-heading>div:first-child{flex-basis:100%}}
+
+/* Keep names and step labels from breaking mid-word. */
+.person-line strong{word-break:keep-all;overflow-wrap:break-word}
+.step-item small{word-break:auto-phrase}
+@media(max-width:600px){.step-track{gap:4px;padding-left:12px;padding-right:12px}.step-item{flex:1 1 auto}.step-item small,.app-shell[data-language] .step-item small{font-size:.72rem!important;letter-spacing:-.01em;overflow-wrap:normal;word-break:normal}}
