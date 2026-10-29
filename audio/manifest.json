@@ -1,0 +1,2094 @@
+{
+  "blanket": {
+    "src": "audio/247.mp3",
+    "name": "公開AI音声 / Published AI audio · short-blanket-original"
+  },
+  "short-blanket-q-many-reply": {
+    "src": "audio/250.mp3",
+    "name": "公開AI音声 / Published AI audio · short-blanket-q-many-reply"
+  },
+  "short-blanket-q-assume-reply": {
+    "src": "audio/248.mp3",
+    "name": "公開AI音声 / Published AI audio · short-blanket-q-assume-reply"
+  },
+  "short-blanket-q-good-reply": {
+    "src": "audio/249.mp3",
+    "name": "公開AI音声 / Published AI audio · short-blanket-q-good-reply"
+  },
+  "short-blanket-variant-1": {
+    "src": "audio/251.mp3",
+    "name": "公開AI音声 / Published AI audio · short-blanket-variant-1"
+  },
+  "short-blanket-variant-2": {
+    "src": "audio/252.mp3",
+    "name": "公開AI音声 / Published AI audio · short-blanket-variant-2"
+  },
+  "window": {
+    "src": "audio/511.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-original"
+  },
+  "short-window-q-good-reply": {
+    "src": "audio/513.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-q-good-reply"
+  },
+  "short-window-q-many-reply": {
+    "src": "audio/514.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-q-many-reply"
+  },
+  "short-window-q-assume-reply": {
+    "src": "audio/512.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-q-assume-reply"
+  },
+  "short-window-variant-1": {
+    "src": "audio/515.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-variant-1"
+  },
+  "short-window-variant-2": {
+    "src": "audio/516.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-variant-2"
+  },
+  "light": {
+    "src": "audio/355.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-original"
+  },
+  "short-light-q-assume-reply": {
+    "src": "audio/356.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-q-assume-reply"
+  },
+  "short-light-q-good-reply": {
+    "src": "audio/357.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-q-good-reply"
+  },
+  "short-light-q-many-reply": {
+    "src": "audio/358.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-q-many-reply"
+  },
+  "short-light-variant-1": {
+    "src": "audio/359.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-variant-1"
+  },
+  "short-light-variant-2": {
+    "src": "audio/360.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-variant-2"
+  },
+  "thanks": {
+    "src": "audio/475.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-original"
+  },
+  "short-thanks-q-assume-reply": {
+    "src": "audio/476.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-q-assume-reply"
+  },
+  "short-thanks-q-good-reply": {
+    "src": "audio/477.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-q-good-reply"
+  },
+  "short-thanks-q-many-reply": {
+    "src": "audio/478.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-q-many-reply"
+  },
+  "short-thanks-variant-1": {
+    "src": "audio/479.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-variant-1"
+  },
+  "short-thanks-variant-2": {
+    "src": "audio/480.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-variant-2"
+  },
+  "home": {
+    "src": "audio/331.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-original"
+  },
+  "short-home-q-good-reply": {
+    "src": "audio/333.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-q-good-reply"
+  },
+  "short-home-q-many-reply": {
+    "src": "audio/334.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-q-many-reply"
+  },
+  "short-home-q-assume-reply": {
+    "src": "audio/332.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-q-assume-reply"
+  },
+  "short-home-variant-1": {
+    "src": "audio/335.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-variant-1"
+  },
+  "short-home-variant-2": {
+    "src": "audio/336.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-variant-2"
+  },
+  "refuse": {
+    "src": "audio/433.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-original"
+  },
+  "short-refuse-q-assume-reply": {
+    "src": "audio/434.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-q-assume-reply"
+  },
+  "short-refuse-q-good-reply": {
+    "src": "audio/435.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-q-good-reply"
+  },
+  "short-refuse-q-many-reply": {
+    "src": "audio/436.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-q-many-reply"
+  },
+  "short-refuse-variant-1": {
+    "src": "audio/437.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-variant-1"
+  },
+  "short-refuse-variant-2": {
+    "src": "audio/438.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-variant-2"
+  },
+  "family": {
+    "src": "audio/295.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-original"
+  },
+  "short-family-q-good-reply": {
+    "src": "audio/297.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-q-good-reply"
+  },
+  "short-family-q-many-reply": {
+    "src": "audio/298.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-q-many-reply"
+  },
+  "short-family-q-assume-reply": {
+    "src": "audio/296.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-q-assume-reply"
+  },
+  "short-family-variant-1": {
+    "src": "audio/299.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-variant-1"
+  },
+  "short-family-variant-2": {
+    "src": "audio/300.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-variant-2"
+  },
+  "later": {
+    "src": "audio/337.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-original"
+  },
+  "short-later-q-assume-reply": {
+    "src": "audio/338.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-q-assume-reply"
+  },
+  "short-later-q-good-reply": {
+    "src": "audio/339.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-q-good-reply"
+  },
+  "short-later-q-many-reply": {
+    "src": "audio/340.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-q-many-reply"
+  },
+  "short-later-variant-1": {
+    "src": "audio/341.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-variant-1"
+  },
+  "short-later-variant-2": {
+    "src": "audio/342.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-variant-2"
+  },
+  "daughter": {
+    "src": "audio/283.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-original"
+  },
+  "short-daughter-q-assume-reply": {
+    "src": "audio/284.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-q-assume-reply"
+  },
+  "short-daughter-q-good-reply": {
+    "src": "audio/285.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-q-good-reply"
+  },
+  "short-daughter-q-many-reply": {
+    "src": "audio/286.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-q-many-reply"
+  },
+  "short-daughter-variant-1": {
+    "src": "audio/287.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-variant-1"
+  },
+  "short-daughter-variant-2": {
+    "src": "audio/288.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-variant-2"
+  },
+  "pain": {
+    "src": "audio/397.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-original"
+  },
+  "short-pain-q-many-reply": {
+    "src": "audio/400.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-q-many-reply"
+  },
+  "short-pain-q-assume-reply": {
+    "src": "audio/398.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-q-assume-reply"
+  },
+  "short-pain-q-good-reply": {
+    "src": "audio/399.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-q-good-reply"
+  },
+  "short-pain-variant-1": {
+    "src": "audio/401.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-variant-1"
+  },
+  "short-pain-variant-2": {
+    "src": "audio/402.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-variant-2"
+  },
+  "heard": {
+    "src": "audio/325.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-original"
+  },
+  "short-heard-q-many-reply": {
+    "src": "audio/328.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-q-many-reply"
+  },
+  "short-heard-q-assume-reply": {
+    "src": "audio/326.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-q-assume-reply"
+  },
+  "short-heard-q-good-reply": {
+    "src": "audio/327.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-q-good-reply"
+  },
+  "short-heard-variant-1": {
+    "src": "audio/329.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-variant-1"
+  },
+  "short-heard-variant-2": {
+    "src": "audio/330.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-variant-2"
+  },
+  "handover": {
+    "src": "audio/319.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-original"
+  },
+  "short-handover-q-good-reply": {
+    "src": "audio/321.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-q-good-reply"
+  },
+  "short-handover-q-many-reply": {
+    "src": "audio/322.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-q-many-reply"
+  },
+  "short-handover-q-assume-reply": {
+    "src": "audio/320.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-q-assume-reply"
+  },
+  "short-handover-variant-1": {
+    "src": "audio/323.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-variant-1"
+  },
+  "short-handover-variant-2": {
+    "src": "audio/324.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-variant-2"
+  },
+  "napkin": {
+    "src": "audio/367.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-original"
+  },
+  "short-napkin-q-many-reply": {
+    "src": "audio/370.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-q-many-reply"
+  },
+  "short-napkin-q-assume-reply": {
+    "src": "audio/368.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-q-assume-reply"
+  },
+  "short-napkin-q-good-reply": {
+    "src": "audio/369.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-q-good-reply"
+  },
+  "short-napkin-variant-1": {
+    "src": "audio/371.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-variant-1"
+  },
+  "short-napkin-variant-2": {
+    "src": "audio/372.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-variant-2"
+  },
+  "cardigan": {
+    "src": "audio/253.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-original"
+  },
+  "short-cardigan-q-assume-reply": {
+    "src": "audio/254.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-q-assume-reply"
+  },
+  "short-cardigan-q-good-reply": {
+    "src": "audio/255.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-q-good-reply"
+  },
+  "short-cardigan-q-many-reply": {
+    "src": "audio/256.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-q-many-reply"
+  },
+  "short-cardigan-variant-1": {
+    "src": "audio/257.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-variant-1"
+  },
+  "short-cardigan-variant-2": {
+    "src": "audio/258.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-variant-2"
+  },
+  "radio": {
+    "src": "audio/421.mp3",
+    "name": "公開AI音声 / Published AI audio · short-radio-original"
+  },
+  "short-radio-q-assume-reply": {
+    "src": "audio/422.mp3",
+    "name": "公開AI音声 / Published AI audio · short-radio-q-assume-reply"
+  },
+  "short-radio-q-good-reply": {
+    "src": "audio/423.mp3",
+    "name": "公開AI音声 / Published AI audio · short-radio-q-good-reply"
+  },
+  "short-radio-q-many-reply": {
+    "src": "audio/424.mp3",
+    "name": "公開AI音声 / Published AI audio · short-radio-q-many-reply"
+  },
+  "short-radio-variant-1": {
+    "src": "audio/425.mp3",
+    "name": "公開AI音声 / Published AI audio · short-radio-variant-1"
+  },
+  "short-radio-variant-2": {
+    "src": "audio/426.mp3",
+    "name": "公開AI音声 / Published AI audio · short-radio-variant-2"
+  },
+  "cushion": {
+    "src": "audio/277.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cushion-original"
+  },
+  "short-cushion-q-good-reply": {
+    "src": "audio/279.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cushion-q-good-reply"
+  },
+  "short-cushion-q-many-reply": {
+    "src": "audio/280.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cushion-q-many-reply"
+  },
+  "short-cushion-q-assume-reply": {
+    "src": "audio/278.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cushion-q-assume-reply"
+  },
+  "short-cushion-variant-1": {
+    "src": "audio/281.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cushion-variant-1"
+  },
+  "short-cushion-variant-2": {
+    "src": "audio/282.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cushion-variant-2"
+  },
+  "festival": {
+    "src": "audio/301.mp3",
+    "name": "公開AI音声 / Published AI audio · short-festival-original"
+  },
+  "short-festival-q-many-reply": {
+    "src": "audio/304.mp3",
+    "name": "公開AI音声 / Published AI audio · short-festival-q-many-reply"
+  },
+  "short-festival-q-assume-reply": {
+    "src": "audio/302.mp3",
+    "name": "公開AI音声 / Published AI audio · short-festival-q-assume-reply"
+  },
+  "short-festival-q-good-reply": {
+    "src": "audio/303.mp3",
+    "name": "公開AI音声 / Published AI audio · short-festival-q-good-reply"
+  },
+  "short-festival-variant-1": {
+    "src": "audio/305.mp3",
+    "name": "公開AI音声 / Published AI audio · short-festival-variant-1"
+  },
+  "short-festival-variant-2": {
+    "src": "audio/306.mp3",
+    "name": "公開AI音声 / Published AI audio · short-festival-variant-2"
+  },
+  "recipe": {
+    "src": "audio/427.mp3",
+    "name": "公開AI音声 / Published AI audio · short-recipe-original"
+  },
+  "short-recipe-q-good-reply": {
+    "src": "audio/429.mp3",
+    "name": "公開AI音声 / Published AI audio · short-recipe-q-good-reply"
+  },
+  "short-recipe-q-many-reply": {
+    "src": "audio/430.mp3",
+    "name": "公開AI音声 / Published AI audio · short-recipe-q-many-reply"
+  },
+  "short-recipe-q-assume-reply": {
+    "src": "audio/428.mp3",
+    "name": "公開AI音声 / Published AI audio · short-recipe-q-assume-reply"
+  },
+  "short-recipe-variant-1": {
+    "src": "audio/431.mp3",
+    "name": "公開AI音声 / Published AI audio · short-recipe-variant-1"
+  },
+  "short-recipe-variant-2": {
+    "src": "audio/432.mp3",
+    "name": "公開AI音声 / Published AI audio · short-recipe-variant-2"
+  },
+  "craft": {
+    "src": "audio/265.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-original"
+  },
+  "short-craft-q-assume-reply": {
+    "src": "audio/266.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-q-assume-reply"
+  },
+  "short-craft-q-good-reply": {
+    "src": "audio/267.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-q-good-reply"
+  },
+  "short-craft-q-many-reply": {
+    "src": "audio/268.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-q-many-reply"
+  },
+  "short-craft-variant-1": {
+    "src": "audio/269.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-variant-1"
+  },
+  "short-craft-variant-2": {
+    "src": "audio/270.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-variant-2"
+  },
+  "pet-memory": {
+    "src": "audio/403.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-original"
+  },
+  "short-pet-memory-q-good-reply": {
+    "src": "audio/405.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-q-good-reply"
+  },
+  "short-pet-memory-q-many-reply": {
+    "src": "audio/406.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-q-many-reply"
+  },
+  "short-pet-memory-q-assume-reply": {
+    "src": "audio/404.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-q-assume-reply"
+  },
+  "short-pet-memory-variant-1": {
+    "src": "audio/407.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-variant-1"
+  },
+  "short-pet-memory-variant-2": {
+    "src": "audio/408.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-variant-2"
+  },
+  "visit-time": {
+    "src": "audio/499.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-original"
+  },
+  "short-visit-time-q-assume-reply": {
+    "src": "audio/500.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-q-assume-reply"
+  },
+  "short-visit-time-q-good-reply": {
+    "src": "audio/501.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-q-good-reply"
+  },
+  "short-visit-time-q-many-reply": {
+    "src": "audio/502.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-q-many-reply"
+  },
+  "short-visit-time-variant-1": {
+    "src": "audio/503.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-variant-1"
+  },
+  "short-visit-time-variant-2": {
+    "src": "audio/504.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-variant-2"
+  },
+  "towel-colour": {
+    "src": "audio/493.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-original"
+  },
+  "short-towel-colour-q-assume-reply": {
+    "src": "audio/494.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-q-assume-reply"
+  },
+  "short-towel-colour-q-good-reply": {
+    "src": "audio/495.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-q-good-reply"
+  },
+  "short-towel-colour-q-many-reply": {
+    "src": "audio/496.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-q-many-reply"
+  },
+  "short-towel-colour-variant-1": {
+    "src": "audio/497.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-variant-1"
+  },
+  "short-towel-colour-variant-2": {
+    "src": "audio/498.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-variant-2"
+  },
+  "after-tea": {
+    "src": "audio/235.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-original"
+  },
+  "short-after-tea-q-good-reply": {
+    "src": "audio/237.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-q-good-reply"
+  },
+  "short-after-tea-q-many-reply": {
+    "src": "audio/238.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-q-many-reply"
+  },
+  "short-after-tea-q-assume-reply": {
+    "src": "audio/236.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-q-assume-reply"
+  },
+  "short-after-tea-variant-1": {
+    "src": "audio/239.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-variant-1"
+  },
+  "short-after-tea-variant-2": {
+    "src": "audio/240.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-variant-2"
+  },
+  "privacy": {
+    "src": "audio/415.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-original"
+  },
+  "short-privacy-q-assume-reply": {
+    "src": "audio/416.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-q-assume-reply"
+  },
+  "short-privacy-q-good-reply": {
+    "src": "audio/417.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-q-good-reply"
+  },
+  "short-privacy-q-many-reply": {
+    "src": "audio/418.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-q-many-reply"
+  },
+  "short-privacy-variant-1": {
+    "src": "audio/419.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-variant-1"
+  },
+  "short-privacy-variant-2": {
+    "src": "audio/420.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-variant-2"
+  },
+  "slowly": {
+    "src": "audio/451.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-original"
+  },
+  "short-slowly-q-many-reply": {
+    "src": "audio/454.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-q-many-reply"
+  },
+  "short-slowly-q-assume-reply": {
+    "src": "audio/452.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-q-assume-reply"
+  },
+  "short-slowly-q-good-reply": {
+    "src": "audio/453.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-q-good-reply"
+  },
+  "short-slowly-variant-1": {
+    "src": "audio/455.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-variant-1"
+  },
+  "short-slowly-variant-2": {
+    "src": "audio/456.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-variant-2"
+  },
+  "drill-need-0": {
+    "src": "audio/207.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-need-0"
+  },
+  "drill-need-1": {
+    "src": "audio/208.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-need-1"
+  },
+  "drill-before-0": {
+    "src": "audio/191.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-before-0"
+  },
+  "drill-before-1": {
+    "src": "audio/192.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-before-1"
+  },
+  "drill-rain-0": {
+    "src": "audio/219.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-rain-0"
+  },
+  "drill-rain-1": {
+    "src": "audio/220.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-rain-1"
+  },
+  "drill-amount-0": {
+    "src": "audio/189.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-amount-0"
+  },
+  "drill-amount-1": {
+    "src": "audio/190.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-amount-1"
+  },
+  "drill-call-0": {
+    "src": "audio/195.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-call-0"
+  },
+  "drill-call-1": {
+    "src": "audio/196.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-call-1"
+  },
+  "drill-family-0": {
+    "src": "audio/203.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-family-0"
+  },
+  "drill-family-1": {
+    "src": "audio/204.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-family-1"
+  },
+  "drill-repeat-0": {
+    "src": "audio/223.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-repeat-0"
+  },
+  "drill-repeat-1": {
+    "src": "audio/224.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-repeat-1"
+  },
+  "drill-borrow-0": {
+    "src": "audio/193.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-borrow-0"
+  },
+  "drill-borrow-1": {
+    "src": "audio/194.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-borrow-1"
+  },
+  "drill-agent-0": {
+    "src": "audio/187.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-agent-0"
+  },
+  "drill-agent-1": {
+    "src": "audio/188.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-agent-1"
+  },
+  "drill-until-0": {
+    "src": "audio/229.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-until-0"
+  },
+  "drill-until-1": {
+    "src": "audio/230.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-until-1"
+  },
+  "drill-certainty-0": {
+    "src": "audio/197.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-certainty-0"
+  },
+  "drill-certainty-1": {
+    "src": "audio/198.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-certainty-1"
+  },
+  "drill-finish-0": {
+    "src": "audio/205.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-finish-0"
+  },
+  "drill-finish-1": {
+    "src": "audio/206.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-finish-1"
+  },
+  "dialogue-garden-chat-t01": {
+    "src": "audio/039.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t01"
+  },
+  "dialogue-garden-chat-t03": {
+    "src": "audio/041.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t03"
+  },
+  "dialogue-garden-chat-t05": {
+    "src": "audio/043.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t05"
+  },
+  "dialogue-garden-chat-t07": {
+    "src": "audio/045.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t07"
+  },
+  "dialogue-garden-chat-t09": {
+    "src": "audio/047.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t09"
+  },
+  "dialogue-garden-chat-t11": {
+    "src": "audio/049.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t11"
+  },
+  "dialogue-garden-chat-t13": {
+    "src": "audio/051.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t13"
+  },
+  "dialogue-garden-chat-t15": {
+    "src": "audio/053.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t15"
+  },
+  "dialogue-garden-chat-t17": {
+    "src": "audio/055.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t17"
+  },
+  "dialogue-photo-chat-t01": {
+    "src": "audio/117.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t01"
+  },
+  "dialogue-photo-chat-t03": {
+    "src": "audio/119.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t03"
+  },
+  "dialogue-photo-chat-t05": {
+    "src": "audio/121.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t05"
+  },
+  "dialogue-photo-chat-t07": {
+    "src": "audio/123.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t07"
+  },
+  "dialogue-photo-chat-t09": {
+    "src": "audio/125.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t09"
+  },
+  "dialogue-photo-chat-t11": {
+    "src": "audio/127.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t11"
+  },
+  "dialogue-photo-chat-t13": {
+    "src": "audio/129.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t13"
+  },
+  "dialogue-photo-chat-t15": {
+    "src": "audio/131.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t15"
+  },
+  "dialogue-photo-chat-t17": {
+    "src": "audio/133.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t17"
+  },
+  "dialogue-photo-chat-t19": {
+    "src": "audio/135.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t19"
+  },
+  "dialogue-tea-jacket-t02": {
+    "src": "audio/163.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t02"
+  },
+  "dialogue-tea-jacket-t04": {
+    "src": "audio/164.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t04"
+  },
+  "dialogue-tea-jacket-t06": {
+    "src": "audio/165.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t06"
+  },
+  "dialogue-tea-jacket-t08": {
+    "src": "audio/166.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t08"
+  },
+  "dialogue-tea-jacket-t10": {
+    "src": "audio/167.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t10"
+  },
+  "dialogue-tea-jacket-t12": {
+    "src": "audio/168.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t12"
+  },
+  "dialogue-tea-jacket-t14": {
+    "src": "audio/169.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t14"
+  },
+  "dialogue-tea-jacket-t16": {
+    "src": "audio/170.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t16"
+  },
+  "dialogue-tea-jacket-t18": {
+    "src": "audio/171.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t18"
+  },
+  "dialogue-phone-message-t01": {
+    "src": "audio/092.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t01"
+  },
+  "dialogue-phone-message-t03": {
+    "src": "audio/093.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t03"
+  },
+  "dialogue-phone-message-t05": {
+    "src": "audio/094.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t05"
+  },
+  "dialogue-phone-message-t07": {
+    "src": "audio/095.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t07"
+  },
+  "dialogue-phone-message-t09": {
+    "src": "audio/096.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t09"
+  },
+  "dialogue-phone-message-t11": {
+    "src": "audio/097.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t11"
+  },
+  "dialogue-phone-message-t13": {
+    "src": "audio/098.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t13"
+  },
+  "dialogue-phone-message-t15": {
+    "src": "audio/099.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t15"
+  },
+  "dialogue-phone-message-t17": {
+    "src": "audio/100.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t17"
+  },
+  "dialogue-phone-message-t19": {
+    "src": "audio/101.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t19"
+  },
+  "dialogue-phone-message-t21": {
+    "src": "audio/102.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t21"
+  },
+  "dialogue-three-people-t02": {
+    "src": "audio/172.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t02"
+  },
+  "dialogue-three-people-t06": {
+    "src": "audio/175.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t06"
+  },
+  "dialogue-three-people-t09": {
+    "src": "audio/177.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t09"
+  },
+  "dialogue-three-people-t13": {
+    "src": "audio/179.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t13"
+  },
+  "dialogue-three-people-t16": {
+    "src": "audio/181.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t16"
+  },
+  "dialogue-three-people-t20": {
+    "src": "audio/184.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t20"
+  },
+  "dialogue-three-people-t24": {
+    "src": "audio/186.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t24"
+  },
+  "dialogue-meal-choice-t02": {
+    "src": "audio/070.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t02"
+  },
+  "dialogue-meal-choice-t04": {
+    "src": "audio/071.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t04"
+  },
+  "dialogue-meal-choice-t06": {
+    "src": "audio/072.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t06"
+  },
+  "dialogue-meal-choice-t08": {
+    "src": "audio/073.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t08"
+  },
+  "dialogue-meal-choice-t10": {
+    "src": "audio/074.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t10"
+  },
+  "dialogue-meal-choice-t12": {
+    "src": "audio/075.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t12"
+  },
+  "dialogue-meal-choice-t14": {
+    "src": "audio/076.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t14"
+  },
+  "dialogue-meal-choice-t16": {
+    "src": "audio/077.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t16"
+  },
+  "dialogue-meal-choice-t18": {
+    "src": "audio/078.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t18"
+  },
+  "dialogue-meal-choice-t20": {
+    "src": "audio/079.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t20"
+  },
+  "dialogue-meal-choice-t22": {
+    "src": "audio/080.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t22"
+  },
+  "dialogue-meal-choice-t24": {
+    "src": "audio/081.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t24"
+  },
+  "dialogue-meal-choice-t26": {
+    "src": "audio/082.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t26"
+  },
+  "dialogue-festival-chat-t01": {
+    "src": "audio/013.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t01"
+  },
+  "dialogue-festival-chat-t02": {
+    "src": "audio/014.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t02"
+  },
+  "dialogue-festival-chat-t03": {
+    "src": "audio/015.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t03"
+  },
+  "dialogue-festival-chat-t04": {
+    "src": "audio/016.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t04"
+  },
+  "dialogue-festival-chat-t05": {
+    "src": "audio/017.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t05"
+  },
+  "dialogue-festival-chat-t06": {
+    "src": "audio/018.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t06"
+  },
+  "dialogue-festival-chat-t07": {
+    "src": "audio/019.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t07"
+  },
+  "dialogue-festival-chat-t08": {
+    "src": "audio/020.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t08"
+  },
+  "dialogue-festival-chat-t09": {
+    "src": "audio/021.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t09"
+  },
+  "dialogue-festival-chat-t10": {
+    "src": "audio/022.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t10"
+  },
+  "dialogue-festival-chat-t11": {
+    "src": "audio/023.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t11"
+  },
+  "dialogue-festival-chat-t12": {
+    "src": "audio/024.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t12"
+  },
+  "dialogue-festival-chat-t13": {
+    "src": "audio/025.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t13"
+  },
+  "dialogue-festival-chat-t14": {
+    "src": "audio/026.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t14"
+  },
+  "dialogue-festival-chat-t15": {
+    "src": "audio/027.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t15"
+  },
+  "dialogue-festival-chat-t16": {
+    "src": "audio/028.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t16"
+  },
+  "dialogue-festival-chat-t17": {
+    "src": "audio/029.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t17"
+  },
+  "dialogue-festival-chat-t18": {
+    "src": "audio/030.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t18"
+  },
+  "dialogue-festival-chat-t19": {
+    "src": "audio/031.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t19"
+  },
+  "dialogue-festival-chat-t20": {
+    "src": "audio/032.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t20"
+  },
+  "dialogue-festival-chat-t21": {
+    "src": "audio/033.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t21"
+  },
+  "dialogue-festival-chat-t22": {
+    "src": "audio/034.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t22"
+  },
+  "dialogue-festival-chat-t23": {
+    "src": "audio/035.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t23"
+  },
+  "dialogue-festival-chat-t24": {
+    "src": "audio/036.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t24"
+  },
+  "dialogue-festival-chat-t25": {
+    "src": "audio/037.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t25"
+  },
+  "dialogue-festival-chat-t26": {
+    "src": "audio/038.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-t26"
+  },
+  "dialogue-evening-check-t02": {
+    "src": "audio/000.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t02"
+  },
+  "dialogue-evening-check-t04": {
+    "src": "audio/001.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t04"
+  },
+  "dialogue-evening-check-t06": {
+    "src": "audio/002.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t06"
+  },
+  "dialogue-evening-check-t08": {
+    "src": "audio/003.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t08"
+  },
+  "dialogue-evening-check-t10": {
+    "src": "audio/004.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t10"
+  },
+  "dialogue-evening-check-t12": {
+    "src": "audio/005.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t12"
+  },
+  "dialogue-evening-check-t14": {
+    "src": "audio/006.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t14"
+  },
+  "dialogue-evening-check-t16": {
+    "src": "audio/007.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t16"
+  },
+  "dialogue-evening-check-t18": {
+    "src": "audio/008.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t18"
+  },
+  "dialogue-evening-check-t20": {
+    "src": "audio/009.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t20"
+  },
+  "dialogue-evening-check-t22": {
+    "src": "audio/010.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t22"
+  },
+  "dialogue-evening-check-t24": {
+    "src": "audio/011.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t24"
+  },
+  "dialogue-evening-check-t26": {
+    "src": "audio/012.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t26"
+  },
+  "tea": {
+    "src": "audio/469.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-original"
+  },
+  "short-tea-q-assume-reply": {
+    "src": "audio/470.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-q-assume-reply"
+  },
+  "short-tea-q-good-reply": {
+    "src": "audio/471.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-q-good-reply"
+  },
+  "short-tea-q-many-reply": {
+    "src": "audio/472.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-q-many-reply"
+  },
+  "short-tea-variant-1": {
+    "src": "audio/473.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-variant-1"
+  },
+  "short-tea-variant-2": {
+    "src": "audio/474.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-variant-2"
+  },
+  "glasses": {
+    "src": "audio/313.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-original"
+  },
+  "short-glasses-q-many-reply": {
+    "src": "audio/316.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-q-many-reply"
+  },
+  "short-glasses-q-assume-reply": {
+    "src": "audio/314.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-q-assume-reply"
+  },
+  "short-glasses-q-good-reply": {
+    "src": "audio/315.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-q-good-reply"
+  },
+  "short-glasses-variant-1": {
+    "src": "audio/317.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-variant-1"
+  },
+  "short-glasses-variant-2": {
+    "src": "audio/318.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-variant-2"
+  },
+  "tissue": {
+    "src": "audio/481.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-original"
+  },
+  "short-tissue-q-good-reply": {
+    "src": "audio/483.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-q-good-reply"
+  },
+  "short-tissue-q-many-reply": {
+    "src": "audio/484.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-q-many-reply"
+  },
+  "short-tissue-q-assume-reply": {
+    "src": "audio/482.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-q-assume-reply"
+  },
+  "short-tissue-variant-1": {
+    "src": "audio/485.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-variant-1"
+  },
+  "short-tissue-variant-2": {
+    "src": "audio/486.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-variant-2"
+  },
+  "garden": {
+    "src": "audio/307.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-original"
+  },
+  "short-garden-q-many-reply": {
+    "src": "audio/310.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-many-reply"
+  },
+  "short-garden-q-assume-reply": {
+    "src": "audio/308.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-reply"
+  },
+  "short-garden-q-good-reply": {
+    "src": "audio/309.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-good-reply"
+  },
+  "short-garden-variant-1": {
+    "src": "audio/311.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-variant-1"
+  },
+  "short-garden-variant-2": {
+    "src": "audio/312.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-variant-2"
+  },
+  "song": {
+    "src": "audio/457.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-original"
+  },
+  "short-song-q-many-reply": {
+    "src": "audio/460.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-q-many-reply"
+  },
+  "short-song-q-assume-reply": {
+    "src": "audio/458.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-q-assume-reply"
+  },
+  "short-song-q-good-reply": {
+    "src": "audio/459.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-q-good-reply"
+  },
+  "short-song-variant-1": {
+    "src": "audio/461.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-variant-1"
+  },
+  "short-song-variant-2": {
+    "src": "audio/462.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-variant-2"
+  },
+  "notwater": {
+    "src": "audio/391.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-original"
+  },
+  "short-notwater-q-many-reply": {
+    "src": "audio/394.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-q-many-reply"
+  },
+  "short-notwater-q-assume-reply": {
+    "src": "audio/392.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-q-assume-reply"
+  },
+  "short-notwater-q-good-reply": {
+    "src": "audio/393.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-q-good-reply"
+  },
+  "short-notwater-variant-1": {
+    "src": "audio/395.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-variant-1"
+  },
+  "short-notwater-variant-2": {
+    "src": "audio/396.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-variant-2"
+  },
+  "left": {
+    "src": "audio/349.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-original"
+  },
+  "short-left-q-good-reply": {
+    "src": "audio/351.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-q-good-reply"
+  },
+  "short-left-q-many-reply": {
+    "src": "audio/352.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-q-many-reply"
+  },
+  "short-left-q-assume-reply": {
+    "src": "audio/350.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-q-assume-reply"
+  },
+  "short-left-variant-1": {
+    "src": "audio/353.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-variant-1"
+  },
+  "short-left-variant-2": {
+    "src": "audio/354.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-variant-2"
+  },
+  "yesterday": {
+    "src": "audio/517.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-original"
+  },
+  "short-yesterday-q-many-reply": {
+    "src": "audio/520.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-q-many-reply"
+  },
+  "short-yesterday-q-assume-reply": {
+    "src": "audio/518.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-q-assume-reply"
+  },
+  "short-yesterday-q-good-reply": {
+    "src": "audio/519.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-q-good-reply"
+  },
+  "short-yesterday-variant-1": {
+    "src": "audio/521.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-variant-1"
+  },
+  "short-yesterday-variant-2": {
+    "src": "audio/522.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-variant-2"
+  },
+  "condition": {
+    "src": "audio/259.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-original"
+  },
+  "short-condition-q-good-reply": {
+    "src": "audio/261.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-q-good-reply"
+  },
+  "short-condition-q-many-reply": {
+    "src": "audio/262.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-q-many-reply"
+  },
+  "short-condition-q-assume-reply": {
+    "src": "audio/260.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-q-assume-reply"
+  },
+  "short-condition-variant-1": {
+    "src": "audio/263.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-variant-1"
+  },
+  "short-condition-variant-2": {
+    "src": "audio/264.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-variant-2"
+  },
+  "dizzy": {
+    "src": "audio/289.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-original"
+  },
+  "short-dizzy-q-assume-reply": {
+    "src": "audio/290.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-q-assume-reply"
+  },
+  "short-dizzy-q-good-reply": {
+    "src": "audio/291.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-q-good-reply"
+  },
+  "short-dizzy-q-many-reply": {
+    "src": "audio/292.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-q-many-reply"
+  },
+  "short-dizzy-variant-1": {
+    "src": "audio/293.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-variant-1"
+  },
+  "short-dizzy-variant-2": {
+    "src": "audio/294.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-variant-2"
+  },
+  "toilet": {
+    "src": "audio/487.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-original"
+  },
+  "short-toilet-q-good-reply": {
+    "src": "audio/489.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-q-good-reply"
+  },
+  "short-toilet-q-many-reply": {
+    "src": "audio/490.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-q-many-reply"
+  },
+  "short-toilet-q-assume-reply": {
+    "src": "audio/488.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-q-assume-reply"
+  },
+  "short-toilet-variant-1": {
+    "src": "audio/491.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-variant-1"
+  },
+  "short-toilet-variant-2": {
+    "src": "audio/492.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-variant-2"
+  },
+  "notfinish": {
+    "src": "audio/385.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-original"
+  },
+  "short-notfinish-q-assume-reply": {
+    "src": "audio/386.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-q-assume-reply"
+  },
+  "short-notfinish-q-good-reply": {
+    "src": "audio/387.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-q-good-reply"
+  },
+  "short-notfinish-q-many-reply": {
+    "src": "audio/388.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-q-many-reply"
+  },
+  "short-notfinish-variant-1": {
+    "src": "audio/389.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-variant-1"
+  },
+  "short-notfinish-variant-2": {
+    "src": "audio/390.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-variant-2"
+  },
+  "laundry": {
+    "src": "audio/343.mp3",
+    "name": "公開AI音声 / Published AI audio · short-laundry-original"
+  },
+  "short-laundry-q-good-reply": {
+    "src": "audio/345.mp3",
+    "name": "公開AI音声 / Published AI audio · short-laundry-q-good-reply"
+  },
+  "short-laundry-q-many-reply": {
+    "src": "audio/346.mp3",
+    "name": "公開AI音声 / Published AI audio · short-laundry-q-many-reply"
+  },
+  "short-laundry-q-assume-reply": {
+    "src": "audio/344.mp3",
+    "name": "公開AI音声 / Published AI audio · short-laundry-q-assume-reply"
+  },
+  "short-laundry-variant-1": {
+    "src": "audio/347.mp3",
+    "name": "公開AI音声 / Published AI audio · short-laundry-variant-1"
+  },
+  "short-laundry-variant-2": {
+    "src": "audio/348.mp3",
+    "name": "公開AI音声 / Published AI audio · short-laundry-variant-2"
+  },
+  "cup-handle": {
+    "src": "audio/271.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cup-handle-original"
+  },
+  "short-cup-handle-q-many-reply": {
+    "src": "audio/274.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cup-handle-q-many-reply"
+  },
+  "short-cup-handle-q-assume-reply": {
+    "src": "audio/272.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cup-handle-q-assume-reply"
+  },
+  "short-cup-handle-q-good-reply": {
+    "src": "audio/273.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cup-handle-q-good-reply"
+  },
+  "short-cup-handle-variant-1": {
+    "src": "audio/275.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cup-handle-variant-1"
+  },
+  "short-cup-handle-variant-2": {
+    "src": "audio/276.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cup-handle-variant-2"
+  },
+  "shogi": {
+    "src": "audio/445.mp3",
+    "name": "公開AI音声 / Published AI audio · short-shogi-original"
+  },
+  "short-shogi-q-assume-reply": {
+    "src": "audio/446.mp3",
+    "name": "公開AI音声 / Published AI audio · short-shogi-q-assume-reply"
+  },
+  "short-shogi-q-good-reply": {
+    "src": "audio/447.mp3",
+    "name": "公開AI音声 / Published AI audio · short-shogi-q-good-reply"
+  },
+  "short-shogi-q-many-reply": {
+    "src": "audio/448.mp3",
+    "name": "公開AI音声 / Published AI audio · short-shogi-q-many-reply"
+  },
+  "short-shogi-variant-1": {
+    "src": "audio/449.mp3",
+    "name": "公開AI音声 / Published AI audio · short-shogi-variant-1"
+  },
+  "short-shogi-variant-2": {
+    "src": "audio/450.mp3",
+    "name": "公開AI音声 / Published AI audio · short-shogi-variant-2"
+  },
+  "weather-chat": {
+    "src": "audio/505.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-original"
+  },
+  "short-weather-chat-q-many-reply": {
+    "src": "audio/508.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-q-many-reply"
+  },
+  "short-weather-chat-q-assume-reply": {
+    "src": "audio/506.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-q-assume-reply"
+  },
+  "short-weather-chat-q-good-reply": {
+    "src": "audio/507.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-q-good-reply"
+  },
+  "short-weather-chat-variant-1": {
+    "src": "audio/509.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-variant-1"
+  },
+  "short-weather-chat-variant-2": {
+    "src": "audio/510.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-variant-2"
+  },
+  "appointment": {
+    "src": "audio/241.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-original"
+  },
+  "short-appointment-q-many-reply": {
+    "src": "audio/244.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-q-many-reply"
+  },
+  "short-appointment-q-assume-reply": {
+    "src": "audio/242.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-q-assume-reply"
+  },
+  "short-appointment-q-good-reply": {
+    "src": "audio/243.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-q-good-reply"
+  },
+  "short-appointment-variant-1": {
+    "src": "audio/245.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-variant-1"
+  },
+  "short-appointment-variant-2": {
+    "src": "audio/246.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-variant-2"
+  },
+  "phone-who": {
+    "src": "audio/409.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-original"
+  },
+  "short-phone-who-q-good-reply": {
+    "src": "audio/411.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-q-good-reply"
+  },
+  "short-phone-who-q-many-reply": {
+    "src": "audio/412.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-q-many-reply"
+  },
+  "short-phone-who-q-assume-reply": {
+    "src": "audio/410.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-q-assume-reply"
+  },
+  "short-phone-who-variant-1": {
+    "src": "audio/413.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-variant-1"
+  },
+  "short-phone-who-variant-2": {
+    "src": "audio/414.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-variant-2"
+  },
+  "return-book": {
+    "src": "audio/439.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-original"
+  },
+  "short-return-book-q-many-reply": {
+    "src": "audio/442.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-q-many-reply"
+  },
+  "short-return-book-q-assume-reply": {
+    "src": "audio/440.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-q-assume-reply"
+  },
+  "short-return-book-q-good-reply": {
+    "src": "audio/441.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-q-good-reply"
+  },
+  "short-return-book-variant-1": {
+    "src": "audio/443.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-variant-1"
+  },
+  "short-return-book-variant-2": {
+    "src": "audio/444.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-variant-2"
+  },
+  "missing-item": {
+    "src": "audio/361.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-original"
+  },
+  "short-missing-item-q-many-reply": {
+    "src": "audio/364.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-q-many-reply"
+  },
+  "short-missing-item-q-assume-reply": {
+    "src": "audio/362.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-q-assume-reply"
+  },
+  "short-missing-item-q-good-reply": {
+    "src": "audio/363.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-q-good-reply"
+  },
+  "short-missing-item-variant-1": {
+    "src": "audio/365.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-variant-1"
+  },
+  "short-missing-item-variant-2": {
+    "src": "audio/366.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-variant-2"
+  },
+  "night-light": {
+    "src": "audio/373.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-original"
+  },
+  "short-night-light-q-good-reply": {
+    "src": "audio/375.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-q-good-reply"
+  },
+  "short-night-light-q-many-reply": {
+    "src": "audio/376.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-q-many-reply"
+  },
+  "short-night-light-q-assume-reply": {
+    "src": "audio/374.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-q-assume-reply"
+  },
+  "short-night-light-variant-1": {
+    "src": "audio/377.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-variant-1"
+  },
+  "short-night-light-variant-2": {
+    "src": "audio/378.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-variant-2"
+  },
+  "noise": {
+    "src": "audio/379.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-original"
+  },
+  "short-noise-q-assume-reply": {
+    "src": "audio/380.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-q-assume-reply"
+  },
+  "short-noise-q-good-reply": {
+    "src": "audio/381.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-q-good-reply"
+  },
+  "short-noise-q-many-reply": {
+    "src": "audio/382.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-q-many-reply"
+  },
+  "short-noise-variant-1": {
+    "src": "audio/383.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-variant-1"
+  },
+  "short-noise-variant-2": {
+    "src": "audio/384.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-variant-2"
+  },
+  "staff-message": {
+    "src": "audio/463.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-original"
+  },
+  "short-staff-message-q-good-reply": {
+    "src": "audio/465.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-q-good-reply"
+  },
+  "short-staff-message-q-many-reply": {
+    "src": "audio/466.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-q-many-reply"
+  },
+  "short-staff-message-q-assume-reply": {
+    "src": "audio/464.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-q-assume-reply"
+  },
+  "short-staff-message-variant-1": {
+    "src": "audio/467.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-variant-1"
+  },
+  "short-staff-message-variant-2": {
+    "src": "audio/468.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-variant-2"
+  },
+  "drill-yet-0": {
+    "src": "audio/233.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-yet-0"
+  },
+  "drill-yet-1": {
+    "src": "audio/234.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-yet-1"
+  },
+  "drill-past-0": {
+    "src": "audio/213.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-past-0"
+  },
+  "drill-past-1": {
+    "src": "audio/214.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-past-1"
+  },
+  "drill-side-0": {
+    "src": "audio/227.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-side-0"
+  },
+  "drill-side-1": {
+    "src": "audio/228.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-side-1"
+  },
+  "drill-curtain-0": {
+    "src": "audio/201.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-curtain-0"
+  },
+  "drill-curtain-1": {
+    "src": "audio/202.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-curtain-1"
+  },
+  "drill-repair-0": {
+    "src": "audio/221.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-repair-0"
+  },
+  "drill-repair-1": {
+    "src": "audio/222.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-repair-1"
+  },
+  "drill-which-0": {
+    "src": "audio/231.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-which-0"
+  },
+  "drill-which-1": {
+    "src": "audio/232.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-which-1"
+  },
+  "drill-pace-0": {
+    "src": "audio/211.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-pace-0"
+  },
+  "drill-pace-1": {
+    "src": "audio/212.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-pace-1"
+  },
+  "drill-owner-0": {
+    "src": "audio/209.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-owner-0"
+  },
+  "drill-owner-1": {
+    "src": "audio/210.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-owner-1"
+  },
+  "drill-quantity-0": {
+    "src": "audio/217.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-quantity-0"
+  },
+  "drill-quantity-1": {
+    "src": "audio/218.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-quantity-1"
+  },
+  "drill-shelf-0": {
+    "src": "audio/225.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-shelf-0"
+  },
+  "drill-shelf-1": {
+    "src": "audio/226.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-shelf-1"
+  },
+  "drill-colour-0": {
+    "src": "audio/199.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-colour-0"
+  },
+  "drill-colour-1": {
+    "src": "audio/200.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-colour-1"
+  },
+  "drill-permission-0": {
+    "src": "audio/215.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-permission-0"
+  },
+  "drill-permission-1": {
+    "src": "audio/216.mp3",
+    "name": "公開AI音声 / Published AI audio · drill-permission-1"
+  },
+  "dialogue-garden-chat-t02": {
+    "src": "audio/040.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t02"
+  },
+  "dialogue-garden-chat-t04": {
+    "src": "audio/042.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t04"
+  },
+  "dialogue-garden-chat-t06": {
+    "src": "audio/044.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t06"
+  },
+  "dialogue-garden-chat-t08": {
+    "src": "audio/046.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t08"
+  },
+  "dialogue-garden-chat-t10": {
+    "src": "audio/048.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t10"
+  },
+  "dialogue-garden-chat-t12": {
+    "src": "audio/050.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t12"
+  },
+  "dialogue-garden-chat-t14": {
+    "src": "audio/052.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t14"
+  },
+  "dialogue-garden-chat-t16": {
+    "src": "audio/054.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t16"
+  },
+  "dialogue-garden-chat-t18": {
+    "src": "audio/056.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-t18"
+  },
+  "dialogue-photo-chat-t02": {
+    "src": "audio/118.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t02"
+  },
+  "dialogue-photo-chat-t04": {
+    "src": "audio/120.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t04"
+  },
+  "dialogue-photo-chat-t06": {
+    "src": "audio/122.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t06"
+  },
+  "dialogue-photo-chat-t08": {
+    "src": "audio/124.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t08"
+  },
+  "dialogue-photo-chat-t10": {
+    "src": "audio/126.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t10"
+  },
+  "dialogue-photo-chat-t12": {
+    "src": "audio/128.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t12"
+  },
+  "dialogue-photo-chat-t14": {
+    "src": "audio/130.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t14"
+  },
+  "dialogue-photo-chat-t16": {
+    "src": "audio/132.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t16"
+  },
+  "dialogue-photo-chat-t18": {
+    "src": "audio/134.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t18"
+  },
+  "dialogue-photo-chat-t20": {
+    "src": "audio/136.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-t20"
+  },
+  "dialogue-outing-plan-t01": {
+    "src": "audio/083.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t01"
+  },
+  "dialogue-outing-plan-t03": {
+    "src": "audio/084.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t03"
+  },
+  "dialogue-outing-plan-t05": {
+    "src": "audio/085.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t05"
+  },
+  "dialogue-outing-plan-t07": {
+    "src": "audio/086.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t07"
+  },
+  "dialogue-outing-plan-t09": {
+    "src": "audio/087.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t09"
+  },
+  "dialogue-outing-plan-t11": {
+    "src": "audio/088.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t11"
+  },
+  "dialogue-outing-plan-t13": {
+    "src": "audio/089.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t13"
+  },
+  "dialogue-outing-plan-t15": {
+    "src": "audio/090.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t15"
+  },
+  "dialogue-outing-plan-t17": {
+    "src": "audio/091.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t17"
+  },
+  "dialogue-three-people-t03": {
+    "src": "audio/173.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t03"
+  },
+  "dialogue-three-people-t05": {
+    "src": "audio/174.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t05"
+  },
+  "dialogue-three-people-t07": {
+    "src": "audio/176.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t07"
+  },
+  "dialogue-three-people-t11": {
+    "src": "audio/178.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t11"
+  },
+  "dialogue-three-people-t14": {
+    "src": "audio/180.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t14"
+  },
+  "dialogue-three-people-t17": {
+    "src": "audio/182.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t17"
+  },
+  "dialogue-three-people-t19": {
+    "src": "audio/183.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t19"
+  },
+  "dialogue-three-people-t22": {
+    "src": "audio/185.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t22"
+  },
+  "dialogue-laundry-day-t02": {
+    "src": "audio/057.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t02"
+  },
+  "dialogue-laundry-day-t04": {
+    "src": "audio/058.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t04"
+  },
+  "dialogue-laundry-day-t06": {
+    "src": "audio/059.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t06"
+  },
+  "dialogue-laundry-day-t08": {
+    "src": "audio/060.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t08"
+  },
+  "dialogue-laundry-day-t10": {
+    "src": "audio/061.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t10"
+  },
+  "dialogue-laundry-day-t12": {
+    "src": "audio/062.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t12"
+  },
+  "dialogue-laundry-day-t14": {
+    "src": "audio/063.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t14"
+  },
+  "dialogue-laundry-day-t16": {
+    "src": "audio/064.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t16"
+  },
+  "dialogue-laundry-day-t18": {
+    "src": "audio/065.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t18"
+  },
+  "dialogue-laundry-day-t20": {
+    "src": "audio/066.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t20"
+  },
+  "dialogue-laundry-day-t22": {
+    "src": "audio/067.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t22"
+  },
+  "dialogue-laundry-day-t24": {
+    "src": "audio/068.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t24"
+  },
+  "dialogue-laundry-day-t26": {
+    "src": "audio/069.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t26"
+  },
+  "dialogue-phone-plan-t01": {
+    "src": "audio/103.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t01"
+  },
+  "dialogue-phone-plan-t03": {
+    "src": "audio/104.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t03"
+  },
+  "dialogue-phone-plan-t05": {
+    "src": "audio/105.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t05"
+  },
+  "dialogue-phone-plan-t07": {
+    "src": "audio/106.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t07"
+  },
+  "dialogue-phone-plan-t09": {
+    "src": "audio/107.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t09"
+  },
+  "dialogue-phone-plan-t11": {
+    "src": "audio/108.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t11"
+  },
+  "dialogue-phone-plan-t13": {
+    "src": "audio/109.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t13"
+  },
+  "dialogue-phone-plan-t15": {
+    "src": "audio/110.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t15"
+  },
+  "dialogue-phone-plan-t17": {
+    "src": "audio/111.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t17"
+  },
+  "dialogue-phone-plan-t19": {
+    "src": "audio/112.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t19"
+  },
+  "dialogue-phone-plan-t21": {
+    "src": "audio/113.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t21"
+  },
+  "dialogue-phone-plan-t23": {
+    "src": "audio/114.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t23"
+  },
+  "dialogue-phone-plan-t25": {
+    "src": "audio/115.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t25"
+  },
+  "dialogue-phone-plan-t27": {
+    "src": "audio/116.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t27"
+  },
+  "dialogue-shogi-chat-t01": {
+    "src": "audio/137.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t01"
+  },
+  "dialogue-shogi-chat-t02": {
+    "src": "audio/138.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t02"
+  },
+  "dialogue-shogi-chat-t03": {
+    "src": "audio/139.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t03"
+  },
+  "dialogue-shogi-chat-t04": {
+    "src": "audio/140.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t04"
+  },
+  "dialogue-shogi-chat-t05": {
+    "src": "audio/141.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t05"
+  },
+  "dialogue-shogi-chat-t06": {
+    "src": "audio/142.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t06"
+  },
+  "dialogue-shogi-chat-t07": {
+    "src": "audio/143.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t07"
+  },
+  "dialogue-shogi-chat-t08": {
+    "src": "audio/144.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t08"
+  },
+  "dialogue-shogi-chat-t09": {
+    "src": "audio/145.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t09"
+  },
+  "dialogue-shogi-chat-t10": {
+    "src": "audio/146.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t10"
+  },
+  "dialogue-shogi-chat-t11": {
+    "src": "audio/147.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t11"
+  },
+  "dialogue-shogi-chat-t12": {
+    "src": "audio/148.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t12"
+  },
+  "dialogue-shogi-chat-t13": {
+    "src": "audio/149.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t13"
+  },
+  "dialogue-shogi-chat-t14": {
+    "src": "audio/150.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t14"
+  },
+  "dialogue-shogi-chat-t15": {
+    "src": "audio/151.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t15"
+  },
+  "dialogue-shogi-chat-t16": {
+    "src": "audio/152.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t16"
+  },
+  "dialogue-shogi-chat-t17": {
+    "src": "audio/153.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t17"
+  },
+  "dialogue-shogi-chat-t18": {
+    "src": "audio/154.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t18"
+  },
+  "dialogue-shogi-chat-t19": {
+    "src": "audio/155.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t19"
+  },
+  "dialogue-shogi-chat-t20": {
+    "src": "audio/156.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t20"
+  },
+  "dialogue-shogi-chat-t21": {
+    "src": "audio/157.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t21"
+  },
+  "dialogue-shogi-chat-t22": {
+    "src": "audio/158.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t22"
+  },
+  "dialogue-shogi-chat-t23": {
+    "src": "audio/159.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t23"
+  },
+  "dialogue-shogi-chat-t24": {
+    "src": "audio/160.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t24"
+  },
+  "dialogue-shogi-chat-t25": {
+    "src": "audio/161.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t25"
+  },
+  "dialogue-shogi-chat-t26": {
+    "src": "audio/162.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t26"
+  }
+}
