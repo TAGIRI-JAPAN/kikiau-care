@@ -3602,5 +3602,61 @@
   "dialogue-laundry-day-mix": {
     "src": "audio/care-ai/dialogue-laundry-day-mix.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-mix"
+  },
+  "dialogue-evening-check-t01": {
+    "src": "audio/care-ai/dialogue-evening-check-t01.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t01"
+  },
+  "dialogue-evening-check-t03": {
+    "src": "audio/care-ai/dialogue-evening-check-t03.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t03"
+  },
+  "dialogue-evening-check-t05": {
+    "src": "audio/care-ai/dialogue-evening-check-t05.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t05"
+  },
+  "dialogue-evening-check-t07": {
+    "src": "audio/care-ai/dialogue-evening-check-t07.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t07"
+  },
+  "dialogue-evening-check-t09": {
+    "src": "audio/care-ai/dialogue-evening-check-t09.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t09"
+  },
+  "dialogue-evening-check-t11": {
+    "src": "audio/care-ai/dialogue-evening-check-t11.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t11"
+  },
+  "dialogue-evening-check-t13": {
+    "src": "audio/care-ai/dialogue-evening-check-t13.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t13"
+  },
+  "dialogue-evening-check-t15": {
+    "src": "audio/care-ai/dialogue-evening-check-t15.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t15"
+  },
+  "dialogue-evening-check-t17": {
+    "src": "audio/care-ai/dialogue-evening-check-t17.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t17"
+  },
+  "dialogue-evening-check-t19": {
+    "src": "audio/care-ai/dialogue-evening-check-t19.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t19"
+  },
+  "dialogue-evening-check-t21": {
+    "src": "audio/care-ai/dialogue-evening-check-t21.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t21"
+  },
+  "dialogue-evening-check-t23": {
+    "src": "audio/care-ai/dialogue-evening-check-t23.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t23"
+  },
+  "dialogue-evening-check-t25": {
+    "src": "audio/care-ai/dialogue-evening-check-t25.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-t25"
+  },
+  "dialogue-evening-check-mix": {
+    "src": "audio/care-ai/dialogue-evening-check-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-evening-check-mix"
   }
 }
