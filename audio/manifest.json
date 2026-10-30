@@ -3658,5 +3658,41 @@
   "dialogue-evening-check-mix": {
     "src": "audio/care-ai/dialogue-evening-check-mix.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-evening-check-mix"
+  },
+  "short-window-clear": {
+    "src": "audio/care-ai/short-window-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-clear"
+  },
+  "short-glasses-clear": {
+    "src": "audio/care-ai/short-glasses-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-clear"
+  },
+  "short-light-clear": {
+    "src": "audio/care-ai/short-light-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-clear"
+  },
+  "short-tissue-clear": {
+    "src": "audio/care-ai/short-tissue-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-clear"
+  },
+  "short-garden-clear": {
+    "src": "audio/care-ai/short-garden-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-clear"
+  },
+  "short-thanks-clear": {
+    "src": "audio/care-ai/short-thanks-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-clear"
+  },
+  "short-home-clear": {
+    "src": "audio/care-ai/short-home-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-clear"
+  },
+  "short-song-clear": {
+    "src": "audio/care-ai/short-song-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-clear"
+  },
+  "short-refuse-clear": {
+    "src": "audio/care-ai/short-refuse-clear.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-clear"
   }
 }
