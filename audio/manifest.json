@@ -2658,5 +2658,137 @@
   "dialogue-festival-chat-mix": {
     "src": "audio/care-ai/dialogue-festival-chat-mix.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-mix"
+  },
+  "short-tea-q-good-question": {
+    "src": "audio/care-ai/short-tea-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-q-good-question"
+  },
+  "short-tea-r-good": {
+    "src": "audio/care-ai/short-tea-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-r-good"
+  },
+  "short-tea-r-assume": {
+    "src": "audio/care-ai/short-tea-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tea-r-assume"
+  },
+  "short-window-q-good-question": {
+    "src": "audio/care-ai/short-window-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-q-good-question"
+  },
+  "short-window-r-assume": {
+    "src": "audio/care-ai/short-window-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-r-assume"
+  },
+  "short-window-r-good": {
+    "src": "audio/care-ai/short-window-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-window-r-good"
+  },
+  "short-glasses-q-good-question": {
+    "src": "audio/care-ai/short-glasses-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-q-good-question"
+  },
+  "short-glasses-r-good": {
+    "src": "audio/care-ai/short-glasses-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-r-good"
+  },
+  "short-glasses-r-assume": {
+    "src": "audio/care-ai/short-glasses-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-glasses-r-assume"
+  },
+  "short-light-q-good-question": {
+    "src": "audio/care-ai/short-light-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-q-good-question"
+  },
+  "short-light-r-good": {
+    "src": "audio/care-ai/short-light-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-r-good"
+  },
+  "short-light-r-assume": {
+    "src": "audio/care-ai/short-light-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-light-r-assume"
+  },
+  "short-tissue-r-assume": {
+    "src": "audio/care-ai/short-tissue-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-r-assume"
+  },
+  "short-tissue-r-good": {
+    "src": "audio/care-ai/short-tissue-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-tissue-r-good"
+  },
+  "short-garden-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-thanks-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-home-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-song-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-refuse-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-family-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-festival-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-shogi-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-recipe-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-weather-chat-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-craft-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-pet-memory-q-assume-question": {
+    "src": "audio/care-ai/short-garden-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-assume-question"
+  },
+  "short-garden-q-good-question": {
+    "src": "audio/care-ai/short-garden-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-q-good-question"
+  },
+  "short-garden-r-good": {
+    "src": "audio/care-ai/short-garden-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-r-good"
+  },
+  "short-garden-r-assume": {
+    "src": "audio/care-ai/short-garden-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-garden-r-assume"
+  },
+  "short-thanks-q-good-question": {
+    "src": "audio/care-ai/short-thanks-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-q-good-question"
+  },
+  "short-thanks-r-good": {
+    "src": "audio/care-ai/short-thanks-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-r-good"
+  },
+  "short-thanks-r-assume": {
+    "src": "audio/care-ai/short-thanks-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-thanks-r-assume"
+  },
+  "short-home-q-good-question": {
+    "src": "audio/care-ai/short-home-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-q-good-question"
   }
 }
