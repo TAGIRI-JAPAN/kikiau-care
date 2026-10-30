@@ -3086,5 +3086,101 @@
   "short-recipe-r-good": {
     "src": "audio/care-ai/short-recipe-r-good.mp3",
     "name": "公開AI音声 / Published AI audio · short-recipe-r-good"
+  },
+  "short-weather-chat-q-good-question": {
+    "src": "audio/care-ai/short-weather-chat-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-q-good-question"
+  },
+  "short-weather-chat-r-good": {
+    "src": "audio/care-ai/short-weather-chat-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-r-good"
+  },
+  "short-weather-chat-r-assume": {
+    "src": "audio/care-ai/short-weather-chat-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-weather-chat-r-assume"
+  },
+  "short-craft-q-good-question": {
+    "src": "audio/care-ai/short-craft-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-q-good-question"
+  },
+  "short-craft-r-good": {
+    "src": "audio/care-ai/short-craft-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-r-good"
+  },
+  "short-craft-r-assume": {
+    "src": "audio/care-ai/short-craft-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-craft-r-assume"
+  },
+  "short-pet-memory-q-good-question": {
+    "src": "audio/care-ai/short-pet-memory-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-q-good-question"
+  },
+  "short-pet-memory-r-assume": {
+    "src": "audio/care-ai/short-pet-memory-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-r-assume"
+  },
+  "short-pet-memory-r-good": {
+    "src": "audio/care-ai/short-pet-memory-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pet-memory-r-good"
+  },
+  "short-appointment-q-good-question": {
+    "src": "audio/care-ai/short-appointment-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-q-good-question"
+  },
+  "short-appointment-r-good": {
+    "src": "audio/care-ai/short-appointment-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-r-good"
+  },
+  "short-appointment-r-assume": {
+    "src": "audio/care-ai/short-appointment-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-appointment-r-assume"
+  },
+  "short-visit-time-q-good-question": {
+    "src": "audio/care-ai/short-visit-time-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-q-good-question"
+  },
+  "short-visit-time-r-good": {
+    "src": "audio/care-ai/short-visit-time-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-r-good"
+  },
+  "short-visit-time-r-assume": {
+    "src": "audio/care-ai/short-visit-time-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-visit-time-r-assume"
+  },
+  "short-phone-who-q-good-question": {
+    "src": "audio/care-ai/short-phone-who-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-q-good-question"
+  },
+  "short-phone-who-r-assume": {
+    "src": "audio/care-ai/short-phone-who-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-r-assume"
+  },
+  "short-phone-who-r-good": {
+    "src": "audio/care-ai/short-phone-who-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-phone-who-r-good"
+  },
+  "short-return-book-q-good-question": {
+    "src": "audio/care-ai/short-return-book-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-q-good-question"
+  },
+  "short-return-book-r-good": {
+    "src": "audio/care-ai/short-return-book-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-r-good"
+  },
+  "short-return-book-r-assume": {
+    "src": "audio/care-ai/short-return-book-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-return-book-r-assume"
+  },
+  "short-towel-colour-q-good-question": {
+    "src": "audio/care-ai/short-towel-colour-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-q-good-question"
+  },
+  "short-towel-colour-r-good": {
+    "src": "audio/care-ai/short-towel-colour-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-r-good"
+  },
+  "short-towel-colour-r-assume": {
+    "src": "audio/care-ai/short-towel-colour-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-towel-colour-r-assume"
   }
 }
