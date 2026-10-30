@@ -3546,5 +3546,61 @@
   "dialogue-three-people-mix": {
     "src": "audio/care-ai/dialogue-three-people-mix.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-three-people-mix"
+  },
+  "dialogue-laundry-day-t01": {
+    "src": "audio/care-ai/dialogue-laundry-day-t01.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t01"
+  },
+  "dialogue-laundry-day-t03": {
+    "src": "audio/care-ai/dialogue-laundry-day-t03.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t03"
+  },
+  "dialogue-laundry-day-t05": {
+    "src": "audio/care-ai/dialogue-laundry-day-t05.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t05"
+  },
+  "dialogue-laundry-day-t07": {
+    "src": "audio/care-ai/dialogue-laundry-day-t07.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t07"
+  },
+  "dialogue-laundry-day-t09": {
+    "src": "audio/care-ai/dialogue-laundry-day-t09.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t09"
+  },
+  "dialogue-laundry-day-t11": {
+    "src": "audio/care-ai/dialogue-laundry-day-t11.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t11"
+  },
+  "dialogue-laundry-day-t13": {
+    "src": "audio/care-ai/dialogue-laundry-day-t13.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t13"
+  },
+  "dialogue-laundry-day-t15": {
+    "src": "audio/care-ai/dialogue-laundry-day-t15.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t15"
+  },
+  "dialogue-laundry-day-t17": {
+    "src": "audio/care-ai/dialogue-laundry-day-t17.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t17"
+  },
+  "dialogue-laundry-day-t19": {
+    "src": "audio/care-ai/dialogue-laundry-day-t19.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t19"
+  },
+  "dialogue-laundry-day-t21": {
+    "src": "audio/care-ai/dialogue-laundry-day-t21.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t21"
+  },
+  "dialogue-laundry-day-t23": {
+    "src": "audio/care-ai/dialogue-laundry-day-t23.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t23"
+  },
+  "dialogue-laundry-day-t25": {
+    "src": "audio/care-ai/dialogue-laundry-day-t25.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-t25"
+  },
+  "dialogue-laundry-day-mix": {
+    "src": "audio/care-ai/dialogue-laundry-day-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-laundry-day-mix"
   }
 }
