@@ -2790,5 +2790,29 @@
   "short-home-q-good-question": {
     "src": "audio/care-ai/short-home-q-good-question.mp3",
     "name": "公開AI音声 / Published AI audio · short-home-q-good-question"
+  },
+  "short-home-r-assume": {
+    "src": "audio/care-ai/short-home-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-r-assume"
+  },
+  "short-home-r-good": {
+    "src": "audio/care-ai/short-home-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-home-r-good"
+  },
+  "short-song-q-good-question": {
+    "src": "audio/care-ai/short-song-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-q-good-question"
+  },
+  "short-song-r-good": {
+    "src": "audio/care-ai/short-song-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-r-good"
+  },
+  "short-song-r-assume": {
+    "src": "audio/care-ai/short-song-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-song-r-assume"
+  },
+  "short-refuse-q-good-question": {
+    "src": "audio/care-ai/short-refuse-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-q-good-question"
   }
 }
