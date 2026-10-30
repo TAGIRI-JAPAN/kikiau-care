@@ -3358,5 +3358,69 @@
   "dialogue-phone-message-mix": {
     "src": "audio/care-ai/dialogue-phone-message-mix.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-phone-message-mix"
+  },
+  "dialogue-meal-choice-t03": {
+    "src": "audio/care-ai/dialogue-meal-choice-t03.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t03"
+  },
+  "dialogue-meal-choice-t05": {
+    "src": "audio/care-ai/dialogue-meal-choice-t05.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t05"
+  },
+  "dialogue-meal-choice-t07": {
+    "src": "audio/care-ai/dialogue-meal-choice-t07.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t07"
+  },
+  "dialogue-meal-choice-t09": {
+    "src": "audio/care-ai/dialogue-meal-choice-t09.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t09"
+  },
+  "dialogue-meal-choice-t11": {
+    "src": "audio/care-ai/dialogue-meal-choice-t11.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t11"
+  },
+  "dialogue-meal-choice-t13": {
+    "src": "audio/care-ai/dialogue-meal-choice-t13.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t13"
+  },
+  "dialogue-meal-choice-t15": {
+    "src": "audio/care-ai/dialogue-meal-choice-t15.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t15"
+  },
+  "dialogue-meal-choice-t17": {
+    "src": "audio/care-ai/dialogue-meal-choice-t17.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t17"
+  },
+  "dialogue-meal-choice-t19": {
+    "src": "audio/care-ai/dialogue-meal-choice-t19.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t19"
+  },
+  "dialogue-meal-choice-t21": {
+    "src": "audio/care-ai/dialogue-meal-choice-t21.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t21"
+  },
+  "dialogue-meal-choice-t23": {
+    "src": "audio/care-ai/dialogue-meal-choice-t23.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t23"
+  },
+  "dialogue-meal-choice-t25": {
+    "src": "audio/care-ai/dialogue-meal-choice-t25.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t25"
+  },
+  "dialogue-phone-plan-t02": {
+    "src": "audio/care-ai/dialogue-phone-plan-t02.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t02"
+  },
+  "dialogue-phone-plan-t04": {
+    "src": "audio/care-ai/dialogue-phone-plan-t04.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t04"
+  },
+  "dialogue-phone-plan-t06": {
+    "src": "audio/care-ai/dialogue-phone-plan-t06.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-t06"
+  },
+  "dialogue-meal-choice-mix": {
+    "src": "audio/care-ai/dialogue-meal-choice-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-mix"
   }
 }
