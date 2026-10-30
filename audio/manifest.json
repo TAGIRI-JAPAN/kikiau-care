@@ -2902,5 +2902,101 @@
   "short-condition-r-assume": {
     "src": "audio/care-ai/short-condition-r-assume.mp3",
     "name": "公開AI音声 / Published AI audio · short-condition-r-assume"
+  },
+  "short-condition-r-good": {
+    "src": "audio/care-ai/short-condition-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-r-good"
+  },
+  "short-pain-q-good-question": {
+    "src": "audio/care-ai/short-pain-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-q-good-question"
+  },
+  "short-pain-r-good": {
+    "src": "audio/care-ai/short-pain-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-r-good"
+  },
+  "short-pain-r-assume": {
+    "src": "audio/care-ai/short-pain-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-pain-r-assume"
+  },
+  "short-dizzy-q-good-question": {
+    "src": "audio/care-ai/short-dizzy-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-q-good-question"
+  },
+  "short-dizzy-r-good": {
+    "src": "audio/care-ai/short-dizzy-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-r-good"
+  },
+  "short-dizzy-r-assume": {
+    "src": "audio/care-ai/short-dizzy-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-dizzy-r-assume"
+  },
+  "short-toilet-q-good-question": {
+    "src": "audio/care-ai/short-toilet-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-q-good-question"
+  },
+  "short-toilet-r-assume": {
+    "src": "audio/care-ai/short-toilet-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-r-assume"
+  },
+  "short-toilet-r-good": {
+    "src": "audio/care-ai/short-toilet-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-toilet-r-good"
+  },
+  "short-heard-q-good-question": {
+    "src": "audio/care-ai/short-heard-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-q-good-question"
+  },
+  "short-heard-r-good": {
+    "src": "audio/care-ai/short-heard-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-r-good"
+  },
+  "short-heard-r-assume": {
+    "src": "audio/care-ai/short-heard-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-heard-r-assume"
+  },
+  "short-notfinish-q-good-question": {
+    "src": "audio/care-ai/short-notfinish-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-q-good-question"
+  },
+  "short-notfinish-r-good": {
+    "src": "audio/care-ai/short-notfinish-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-r-good"
+  },
+  "short-notfinish-r-assume": {
+    "src": "audio/care-ai/short-notfinish-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notfinish-r-assume"
+  },
+  "short-handover-q-good-question": {
+    "src": "audio/care-ai/short-handover-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-q-good-question"
+  },
+  "short-handover-r-assume": {
+    "src": "audio/care-ai/short-handover-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-r-assume"
+  },
+  "short-handover-r-good": {
+    "src": "audio/care-ai/short-handover-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-handover-r-good"
+  },
+  "short-napkin-q-good-question": {
+    "src": "audio/care-ai/short-napkin-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-q-good-question"
+  },
+  "short-napkin-r-good": {
+    "src": "audio/care-ai/short-napkin-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-r-good"
+  },
+  "short-napkin-r-assume": {
+    "src": "audio/care-ai/short-napkin-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-napkin-r-assume"
+  },
+  "short-cardigan-q-good-question": {
+    "src": "audio/care-ai/short-cardigan-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-q-good-question"
+  },
+  "short-cardigan-r-good": {
+    "src": "audio/care-ai/short-cardigan-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-cardigan-r-good"
   }
 }
