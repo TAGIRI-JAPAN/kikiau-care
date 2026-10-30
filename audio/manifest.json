@@ -2814,5 +2814,93 @@
   "short-refuse-q-good-question": {
     "src": "audio/care-ai/short-refuse-q-good-question.mp3",
     "name": "公開AI音声 / Published AI audio · short-refuse-q-good-question"
+  },
+  "short-refuse-r-good": {
+    "src": "audio/care-ai/short-refuse-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-r-good"
+  },
+  "short-refuse-r-assume": {
+    "src": "audio/care-ai/short-refuse-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-refuse-r-assume"
+  },
+  "short-family-q-good-question": {
+    "src": "audio/care-ai/short-family-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-q-good-question"
+  },
+  "short-family-r-assume": {
+    "src": "audio/care-ai/short-family-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-r-assume"
+  },
+  "short-family-r-good": {
+    "src": "audio/care-ai/short-family-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-family-r-good"
+  },
+  "short-notwater-q-good-question": {
+    "src": "audio/care-ai/short-notwater-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-q-good-question"
+  },
+  "short-notwater-r-good": {
+    "src": "audio/care-ai/short-notwater-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-r-good"
+  },
+  "short-notwater-r-assume": {
+    "src": "audio/care-ai/short-notwater-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-notwater-r-assume"
+  },
+  "short-later-q-good-question": {
+    "src": "audio/care-ai/short-later-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-q-good-question"
+  },
+  "short-later-r-good": {
+    "src": "audio/care-ai/short-later-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-r-good"
+  },
+  "short-later-r-assume": {
+    "src": "audio/care-ai/short-later-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-later-r-assume"
+  },
+  "short-left-q-good-question": {
+    "src": "audio/care-ai/short-left-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-q-good-question"
+  },
+  "short-left-r-assume": {
+    "src": "audio/care-ai/short-left-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-r-assume"
+  },
+  "short-left-r-good": {
+    "src": "audio/care-ai/short-left-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-left-r-good"
+  },
+  "short-yesterday-q-good-question": {
+    "src": "audio/care-ai/short-yesterday-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-q-good-question"
+  },
+  "short-yesterday-r-good": {
+    "src": "audio/care-ai/short-yesterday-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-r-good"
+  },
+  "short-yesterday-r-assume": {
+    "src": "audio/care-ai/short-yesterday-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-yesterday-r-assume"
+  },
+  "short-daughter-q-good-question": {
+    "src": "audio/care-ai/short-daughter-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-q-good-question"
+  },
+  "short-daughter-r-good": {
+    "src": "audio/care-ai/short-daughter-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-r-good"
+  },
+  "short-daughter-r-assume": {
+    "src": "audio/care-ai/short-daughter-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-daughter-r-assume"
+  },
+  "short-condition-q-good-question": {
+    "src": "audio/care-ai/short-condition-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-q-good-question"
+  },
+  "short-condition-r-assume": {
+    "src": "audio/care-ai/short-condition-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-condition-r-assume"
   }
 }
