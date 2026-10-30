@@ -4,7 +4,7 @@ let publishedManifest: Promise<Record<string, PublishedClip>> | undefined;
 const publishedCache = new Map<string, Blob>();
 
 async function readPublishedAudio(id: string): Promise<AudioRecord | undefined> {
-  publishedManifest ??= fetch(new URL("audio/manifest.json", document.baseURI)).then(async response => {
+  publishedManifest ??= fetch(new URL("audio/manifest.json?version=20261030", document.baseURI), { cache: "no-cache" }).then(async response => {
     if (!response.ok) throw new Error("Published audio manifest could not load");
     return await response.json() as Record<string, PublishedClip>;
   }).catch(() => { publishedManifest = undefined; return {}; });
