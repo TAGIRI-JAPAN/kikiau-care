@@ -2642,5 +2642,21 @@
   "short-tea-clear": {
     "src": "audio/care-ai/short-tea-clear.mp3",
     "name": "公開AI音声 / Published AI audio"
+  },
+  "dialogue-garden-chat-mix": {
+    "src": "audio/care-ai/dialogue-garden-chat-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-garden-chat-mix"
+  },
+  "dialogue-photo-chat-mix": {
+    "src": "audio/care-ai/dialogue-photo-chat-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-photo-chat-mix"
+  },
+  "dialogue-shogi-chat-mix": {
+    "src": "audio/care-ai/dialogue-shogi-chat-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-mix"
+  },
+  "dialogue-festival-chat-mix": {
+    "src": "audio/care-ai/dialogue-festival-chat-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-festival-chat-mix"
   }
 }
