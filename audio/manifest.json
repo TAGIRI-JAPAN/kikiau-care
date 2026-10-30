@@ -3182,5 +3182,97 @@
   "short-towel-colour-r-assume": {
     "src": "audio/care-ai/short-towel-colour-r-assume.mp3",
     "name": "公開AI音声 / Published AI audio · short-towel-colour-r-assume"
+  },
+  "short-after-tea-q-good-question": {
+    "src": "audio/care-ai/short-after-tea-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-q-good-question"
+  },
+  "short-after-tea-r-assume": {
+    "src": "audio/care-ai/short-after-tea-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-r-assume"
+  },
+  "short-after-tea-r-good": {
+    "src": "audio/care-ai/short-after-tea-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-after-tea-r-good"
+  },
+  "short-missing-item-q-good-question": {
+    "src": "audio/care-ai/short-missing-item-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-q-good-question"
+  },
+  "short-missing-item-r-good": {
+    "src": "audio/care-ai/short-missing-item-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-r-good"
+  },
+  "short-missing-item-r-assume": {
+    "src": "audio/care-ai/short-missing-item-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-missing-item-r-assume"
+  },
+  "short-privacy-q-good-question": {
+    "src": "audio/care-ai/short-privacy-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-q-good-question"
+  },
+  "short-privacy-r-good": {
+    "src": "audio/care-ai/short-privacy-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-r-good"
+  },
+  "short-privacy-r-assume": {
+    "src": "audio/care-ai/short-privacy-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-privacy-r-assume"
+  },
+  "short-night-light-q-good-question": {
+    "src": "audio/care-ai/short-night-light-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-q-good-question"
+  },
+  "short-night-light-r-assume": {
+    "src": "audio/care-ai/short-night-light-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-r-assume"
+  },
+  "short-night-light-r-good": {
+    "src": "audio/care-ai/short-night-light-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-night-light-r-good"
+  },
+  "short-slowly-q-good-question": {
+    "src": "audio/care-ai/short-slowly-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-q-good-question"
+  },
+  "short-slowly-r-good": {
+    "src": "audio/care-ai/short-slowly-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-r-good"
+  },
+  "short-slowly-r-assume": {
+    "src": "audio/care-ai/short-slowly-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-slowly-r-assume"
+  },
+  "short-noise-q-good-question": {
+    "src": "audio/care-ai/short-noise-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-q-good-question"
+  },
+  "short-noise-r-good": {
+    "src": "audio/care-ai/short-noise-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-r-good"
+  },
+  "short-noise-r-assume": {
+    "src": "audio/care-ai/short-noise-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-noise-r-assume"
+  },
+  "short-staff-message-q-good-question": {
+    "src": "audio/care-ai/short-staff-message-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-q-good-question"
+  },
+  "short-staff-message-r-assume": {
+    "src": "audio/care-ai/short-staff-message-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-r-assume"
+  },
+  "short-staff-message-r-good": {
+    "src": "audio/care-ai/short-staff-message-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio · short-staff-message-r-good"
+  },
+  "dialogue-tea-jacket-t01": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t01.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t01"
+  },
+  "dialogue-tea-jacket-t03": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t03.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t03"
   }
 }
