@@ -2090,5 +2090,557 @@
   "dialogue-shogi-chat-t26": {
     "src": "audio/162.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-shogi-chat-t26"
+  },
+  "short-blanket-clear": {
+    "src": "audio/care-ai/short-blanket-clear.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-blanket-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tea-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-window-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-glasses-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-light-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tissue-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-garden-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-thanks-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-home-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-song-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-refuse-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-family-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-notwater-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-later-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-left-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-yesterday-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-daughter-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-condition-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-pain-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-dizzy-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-toilet-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-heard-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-notfinish-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-handover-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-napkin-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cardigan-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-laundry-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cup-handle-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-radio-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cushion-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-festival-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-shogi-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-recipe-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-weather-chat-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-craft-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-pet-memory-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-appointment-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-visit-time-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-phone-who-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-return-book-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-towel-colour-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-after-tea-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-missing-item-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-privacy-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-night-light-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-slowly-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-noise-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-staff-message-q-many-question": {
+    "src": "audio/care-ai/short-blanket-q-many-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-blanket-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-blanket-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tea-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tea-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-window-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-window-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-glasses-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-glasses-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-light-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-light-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tissue-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tissue-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-garden-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-thanks-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-home-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-song-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-refuse-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-family-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-notwater-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-notwater-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-later-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-later-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-left-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-left-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-yesterday-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-yesterday-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-daughter-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-daughter-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-condition-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-condition-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-pain-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-pain-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-dizzy-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-dizzy-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-toilet-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-toilet-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-heard-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-heard-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-notfinish-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-notfinish-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-handover-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-handover-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-napkin-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-napkin-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cardigan-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cardigan-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-laundry-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-laundry-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cup-handle-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cup-handle-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-radio-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-radio-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cushion-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-cushion-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-festival-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-shogi-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-recipe-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-weather-chat-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-craft-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-pet-memory-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-appointment-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-appointment-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-visit-time-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-visit-time-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-phone-who-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-phone-who-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-return-book-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-return-book-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-towel-colour-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-towel-colour-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-after-tea-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-after-tea-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-missing-item-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-missing-item-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-privacy-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-privacy-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-night-light-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-night-light-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-slowly-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-slowly-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-noise-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-noise-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-staff-message-q-assume-question": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-staff-message-r-stop": {
+    "src": "audio/care-ai/short-blanket-q-assume-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-blanket-q-good-question": {
+    "src": "audio/care-ai/short-blanket-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tissue-q-good-question": {
+    "src": "audio/care-ai/short-blanket-q-good-question.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-blanket-r-good": {
+    "src": "audio/care-ai/short-blanket-r-good.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-blanket-r-assume": {
+    "src": "audio/care-ai/short-blanket-r-assume.mp3",
+    "name": "公開AI音声 / Published AI audio"
+  },
+  "short-tea-clear": {
+    "src": "audio/care-ai/short-tea-clear.mp3",
+    "name": "公開AI音声 / Published AI audio"
   }
 }
