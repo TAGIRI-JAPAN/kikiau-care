@@ -3466,5 +3466,85 @@
   "dialogue-phone-plan-mix": {
     "src": "audio/care-ai/dialogue-phone-plan-mix.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-phone-plan-mix"
+  },
+  "dialogue-outing-plan-t02": {
+    "src": "audio/care-ai/dialogue-outing-plan-t02.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t02"
+  },
+  "dialogue-outing-plan-t04": {
+    "src": "audio/care-ai/dialogue-outing-plan-t04.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t04"
+  },
+  "dialogue-outing-plan-t06": {
+    "src": "audio/care-ai/dialogue-outing-plan-t06.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t06"
+  },
+  "dialogue-outing-plan-t08": {
+    "src": "audio/care-ai/dialogue-outing-plan-t08.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t08"
+  },
+  "dialogue-outing-plan-t10": {
+    "src": "audio/care-ai/dialogue-outing-plan-t10.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t10"
+  },
+  "dialogue-outing-plan-t12": {
+    "src": "audio/care-ai/dialogue-outing-plan-t12.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t12"
+  },
+  "dialogue-outing-plan-t14": {
+    "src": "audio/care-ai/dialogue-outing-plan-t14.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t14"
+  },
+  "dialogue-outing-plan-t16": {
+    "src": "audio/care-ai/dialogue-outing-plan-t16.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t16"
+  },
+  "dialogue-outing-plan-t18": {
+    "src": "audio/care-ai/dialogue-outing-plan-t18.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-t18"
+  },
+  "dialogue-three-people-t01": {
+    "src": "audio/care-ai/dialogue-three-people-t01.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t01"
+  },
+  "dialogue-three-people-t04": {
+    "src": "audio/care-ai/dialogue-three-people-t04.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t04"
+  },
+  "dialogue-three-people-t08": {
+    "src": "audio/care-ai/dialogue-three-people-t08.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t08"
+  },
+  "dialogue-three-people-t10": {
+    "src": "audio/care-ai/dialogue-three-people-t10.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t10"
+  },
+  "dialogue-three-people-t12": {
+    "src": "audio/care-ai/dialogue-three-people-t12.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t12"
+  },
+  "dialogue-three-people-t15": {
+    "src": "audio/care-ai/dialogue-three-people-t15.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t15"
+  },
+  "dialogue-three-people-t18": {
+    "src": "audio/care-ai/dialogue-three-people-t18.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t18"
+  },
+  "dialogue-three-people-t21": {
+    "src": "audio/care-ai/dialogue-three-people-t21.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t21"
+  },
+  "dialogue-three-people-t23": {
+    "src": "audio/care-ai/dialogue-three-people-t23.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-t23"
+  },
+  "dialogue-outing-plan-mix": {
+    "src": "audio/care-ai/dialogue-outing-plan-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-outing-plan-mix"
+  },
+  "dialogue-three-people-mix": {
+    "src": "audio/care-ai/dialogue-three-people-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-three-people-mix"
   }
 }
