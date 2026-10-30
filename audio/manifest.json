@@ -3274,5 +3274,89 @@
   "dialogue-tea-jacket-t03": {
     "src": "audio/care-ai/dialogue-tea-jacket-t03.mp3",
     "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t03"
+  },
+  "dialogue-tea-jacket-t05": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t05.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t05"
+  },
+  "dialogue-tea-jacket-t07": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t07.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t07"
+  },
+  "dialogue-tea-jacket-t09": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t09.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t09"
+  },
+  "dialogue-tea-jacket-t11": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t11.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t11"
+  },
+  "dialogue-tea-jacket-t13": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t13.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t13"
+  },
+  "dialogue-tea-jacket-t15": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t15.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t15"
+  },
+  "dialogue-tea-jacket-t17": {
+    "src": "audio/care-ai/dialogue-tea-jacket-t17.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-t17"
+  },
+  "dialogue-phone-message-t02": {
+    "src": "audio/care-ai/dialogue-phone-message-t02.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t02"
+  },
+  "dialogue-phone-message-t04": {
+    "src": "audio/care-ai/dialogue-phone-message-t04.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t04"
+  },
+  "dialogue-phone-message-t06": {
+    "src": "audio/care-ai/dialogue-phone-message-t06.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t06"
+  },
+  "dialogue-phone-message-t08": {
+    "src": "audio/care-ai/dialogue-phone-message-t08.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t08"
+  },
+  "dialogue-phone-message-t10": {
+    "src": "audio/care-ai/dialogue-phone-message-t10.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t10"
+  },
+  "dialogue-phone-message-t12": {
+    "src": "audio/care-ai/dialogue-phone-message-t12.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t12"
+  },
+  "dialogue-phone-message-t14": {
+    "src": "audio/care-ai/dialogue-phone-message-t14.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t14"
+  },
+  "dialogue-phone-message-t16": {
+    "src": "audio/care-ai/dialogue-phone-message-t16.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t16"
+  },
+  "dialogue-phone-message-t18": {
+    "src": "audio/care-ai/dialogue-phone-message-t18.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t18"
+  },
+  "dialogue-phone-message-t20": {
+    "src": "audio/care-ai/dialogue-phone-message-t20.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t20"
+  },
+  "dialogue-phone-message-t22": {
+    "src": "audio/care-ai/dialogue-phone-message-t22.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-t22"
+  },
+  "dialogue-meal-choice-t01": {
+    "src": "audio/care-ai/dialogue-meal-choice-t01.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-meal-choice-t01"
+  },
+  "dialogue-tea-jacket-mix": {
+    "src": "audio/care-ai/dialogue-tea-jacket-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-tea-jacket-mix"
+  },
+  "dialogue-phone-message-mix": {
+    "src": "audio/care-ai/dialogue-phone-message-mix.mp3",
+    "name": "公開AI音声 / Published AI audio · dialogue-phone-message-mix"
   }
 }
